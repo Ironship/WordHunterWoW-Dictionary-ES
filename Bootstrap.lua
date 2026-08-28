@@ -16,3 +16,7 @@ events:RegisterEvent("ADDON_LOADED")
 events:SetScript("OnEvent", function(_, _, loaded)
   if loaded == addonName then registerDictionaries() end
 end)
+
+-- WordHunterWoW is a required dependency, so its provider API is already available.
+-- Register immediately as well as on ADDON_LOADED to avoid load-order edge cases.
+registerDictionaries()

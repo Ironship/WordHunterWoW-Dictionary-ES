@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_ES_MX = WordHunterWoW_Dictionary_ES_MX or {}
+WordHunterWoW_Dictionary_ES_MX["a"] = { word = "a", translation = "to; at", note = "preposition; a + el contracts to al" }
 WordHunterWoW_Dictionary_ES_MX["a'dal"] = { word = "A'dal", translation = "A'dal", note = "" }
 WordHunterWoW_Dictionary_ES_MX["a'htefactos"] = { word = "a'htefactos", translation = "a'htefacts", note = "" }
 WordHunterWoW_Dictionary_ES_MX["a'manore"] = { word = "a'manore", translation = "a'manore", note = "" }
@@ -18478,6 +18479,7 @@ WordHunterWoW_Dictionary_ES_MX["dómalo"] = { word = "dómalo", translation = "t
 WordHunterWoW_Dictionary_ES_MX["dónde"] = { word = "dónde", translation = "where", note = "" }
 WordHunterWoW_Dictionary_ES_MX["dúo"] = { word = "dúo", translation = "duo", note = "" }
 WordHunterWoW_Dictionary_ES_MX["dúos"] = { word = "Dúos", translation = "Duos", note = "" }
+WordHunterWoW_Dictionary_ES_MX["e"] = { word = "e", translation = "and", note = "the form of y used before a word starting with i- or hi-" }
 WordHunterWoW_Dictionary_ES_MX["e'calofrío'h"] = { word = "e'calofrío'h", translation = "e'chill'h", note = "" }
 WordHunterWoW_Dictionary_ES_MX["e'casos"] = { word = "e'casos", translation = "e'cases", note = "" }
 WordHunterWoW_Dictionary_ES_MX["e'cucha"] = { word = "E'cucha", translation = "E'cucha", note = "" }
@@ -37238,6 +37240,7 @@ WordHunterWoW_Dictionary_ES_MX["núcleos"] = { word = "núcleos", translation = 
 WordHunterWoW_Dictionary_ES_MX["número"] = { word = "número", translation = "number", note = "" }
 WordHunterWoW_Dictionary_ES_MX["números"] = { word = "números", translation = "numbers", note = "" }
 WordHunterWoW_Dictionary_ES_MX["nútrelas"] = { word = "nútrelas", translation = "nourish them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["o"] = { word = "o", translation = "or", note = "becomes u before a word starting with o- or ho-" }
 WordHunterWoW_Dictionary_ES_MX["o'breen"] = { word = "O'Breen", translation = "O'Breen", note = "" }
 WordHunterWoW_Dictionary_ES_MX["o'curo"] = { word = "o'curo", translation = "o'curo", note = "" }
 WordHunterWoW_Dictionary_ES_MX["o'flannerty"] = { word = "O'Flannerty", translation = "O'Flannerty", note = "" }
@@ -53167,6 +53170,7 @@ WordHunterWoW_Dictionary_ES_MX["túneles"] = { word = "túneles", translation = 
 WordHunterWoW_Dictionary_ES_MX["túnica"] = { word = "túnica", translation = "tunica", note = "" }
 WordHunterWoW_Dictionary_ES_MX["túnicas"] = { word = "túnicas", translation = "tunics", note = "" }
 WordHunterWoW_Dictionary_ES_MX["t’estaré"] = { word = "t’estaré", translation = "I'll be there", note = "" }
+WordHunterWoW_Dictionary_ES_MX["u"] = { word = "u", translation = "or", note = "the form of o used before a word starting with o- or ho-" }
 WordHunterWoW_Dictionary_ES_MX["u'cha"] = { word = "U'cha", translation = "U'cha", note = "" }
 WordHunterWoW_Dictionary_ES_MX["uatá"] = { word = "Uatá", translation = "Uata", note = "" }
 WordHunterWoW_Dictionary_ES_MX["ub"] = { word = "Ub", translation = "Ub", note = "" }
@@ -55349,6 +55353,7 @@ WordHunterWoW_Dictionary_ES_MX["xyggie"] = { word = "Xyggie", translation = "Xyg
 WordHunterWoW_Dictionary_ES_MX["xylem"] = { word = "Xylem", translation = "Xylem", note = "" }
 WordHunterWoW_Dictionary_ES_MX["xyrol"] = { word = "Xyrol", translation = "Xyrol", note = "" }
 WordHunterWoW_Dictionary_ES_MX["xz"] = { word = "XZ", translation = "XZ", note = "" }
+WordHunterWoW_Dictionary_ES_MX["y"] = { word = "y", translation = "and", note = "becomes e before a word starting with i- or hi-" }
 WordHunterWoW_Dictionary_ES_MX["y'mera"] = { word = "Y'mera", translation = "Y'mera", note = "" }
 WordHunterWoW_Dictionary_ES_MX["y'shaarj"] = { word = "Y'Shaarj", translation = "Y'Shaarj", note = "" }
 WordHunterWoW_Dictionary_ES_MX["y'tekhi"] = { word = "Y'tekhi", translation = "Y'tekhi", note = "" }

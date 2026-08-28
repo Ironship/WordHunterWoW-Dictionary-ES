@@ -1,8 +1,9 @@
 ## Interface: 120100
 ## Title: QuestWordHunter - Spanish Dictionary
-## Notes: Optional Spanish-English quest dictionaries. Requires WordHunterWoW.
+## Notes: Optional Spanish-English quest dictionaries. Requires WordHunterWoW 1.6.0 or newer.
+## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-ES\icon
 ## Author: Ironship
-## Version: 0.1.0
+## Version: 1.0.0
 ## Dependencies: WordHunterWoW
 
 Data/DictionaryESES.lua

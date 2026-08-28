@@ -2,13 +2,21 @@
 
 Optional Spanish→English vocabulary packs for [QuestWordHunter](https://github.com/Ironship/WordHunterWoW), built from actual World of Warcraft quest text.
 
-The addon contains separate dictionaries for European Spanish (`esES`) and Latin American Spanish (`esMX`). QuestWordHunter automatically uses the one matching the selected target language.
+The addon contains separate dictionaries for European Spanish (`esES`, 58,211 entries) and Latin American Spanish (`esMX`, 56,081 entries). QuestWordHunter automatically uses the one matching the selected target language.
+
+## Quality
+
+These packs are raw machine translation. Unlike the [German dictionary](https://github.com/Ironship/WordHunterWoW-Dictionary-DE), where a large share of entries has been reviewed by hand against the quest sentence it appears in, nothing here has been through that review. Expect the usual machine-translation failures: false friends, the wrong sense of an ambiguous word, official WoW names translated literally. Treat a gloss as a starting point, and edit it when it is wrong — your edit wins over the pack.
+
+The exception is a short hand-written list in `Data/CuratedESES.jsonl` and `Data/CuratedESMX.jsonl` covering the one-letter words `a`, `y`, `o`, `e` and `u`. Those are among the most frequent words in the language and a machine translator has no context to get them right: asked in isolation, Google renders `o` as "either". These are glossed by hand and override the machine output.
 
 ## What you need
 
 - Retail 12.1 (`Interface 120100`)
-- QuestWordHunter / WordHunterWoW
+- [QuestWordHunter](https://github.com/Ironship/WordHunterWoW) **1.6.0 or newer**
 - Target language set to **Spanish (EU)** or **Spanish (MX)**
+
+1.6.0 is a hard requirement, not a suggestion: earlier versions lowercase only ASCII, so every word starting with an accented capital — `Él`, `Ébano`, `Últimamente` — missed the dictionary and opened a second entry in the word list. That affected 1,163 occurrences in the esES corpus and 1,246 in esMX.
 
 ## Rebuild (maintainers)
 
