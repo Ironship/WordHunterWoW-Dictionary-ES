@@ -21,10 +21,10 @@ The exception is a short hand-written list in `Data/CuratedESES.jsonl` and `Data
 ## Rebuild (maintainers)
 
 1. Blizzard API keys in `Tools/keys.env`.
-2. Wago QuestV2 CSV in `Data/QuestV2.csv`.
+2. A quest id list at `Data/quest_ids.csv` — one `ID` column. Gitignored.
 3. Run `Tools/build_all.ps1`.
 
-Never commit `Tools/keys.env`, `Data/cache/`, or `Data/QuestV2.csv`. Commit generated `Data/DictionaryESES.lua` and `Data/DictionaryESMX.lua`.
+Never commit `Tools/keys.env`, `Data/cache/`, or `Data/quest_ids.csv`. Commit generated `Data/DictionaryESES.lua` and `Data/DictionaryESMX.lua`.
 
 ### Filling the gaps the API leaves
 
