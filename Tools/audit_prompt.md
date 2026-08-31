@@ -10,14 +10,14 @@ teach the reader something worth knowing.
 `Data/cache/audit_work/in/batch_NN.jsonl` — one JSON object per line:
 
 - `key` — lowercase lookup key. **Copy it through byte for byte.** It is already
-  casefolded the way the addon looks words up: `ß` is written `ss`, so
-  `übergroßen` has the key `übergrossen`. Umlauts, however, stay as they are:
-  the key is `höchstgeschwindigkeit`, never `hoechstgeschwindigkeit`. Do not
-  "restore" the `ß`, do not ASCII-fold `ä ö ü`, do not re-case, do not fix what
-  looks like a typo. Copy the key and the word exactly as given -- a changed
-  key breaks the lookup, and a changed word breaks the repair path that would
-  otherwise recover it.
-- `word` — the German word as it appears in game. **Copy through verbatim.**
+  casefolded the way the addon looks words up, and accents are part of the key:
+  `más`, `está`, `aquí`, `él` keep theirs. Do not ASCII-fold `á é í ó ú ü ñ`, do
+  not re-case, and above all do not add an accent the key does not have -- `esta`
+  and `está` are different words with different keys, and "correcting" one into
+  the other silently overwrites the wrong entry. Copy the key and the word
+  exactly as given: a changed key breaks the lookup, and a changed word breaks
+  the repair path that would otherwise recover it.
+- `word` — the Spanish word as it appears in game. **Copy through verbatim.**
 - `current` — the existing Google Translate output. Often right, sometimes wrong.
 - `count` — how often the word occurs across all quests.
 - `context` — a real quest sentence containing the word.
@@ -28,7 +28,7 @@ teach the reader something worth knowing.
 **same order, same count, same keys**, with exactly these four fields:
 
 ```json
-{"key":"eisenschmiede","word":"Eisenschmiede","translation":"Ironforge","note":"literally iron+forge; the dwarven capital, not a smith"}
+{"key":"ventormenta","word":"Ventormenta","translation":"Stormwind","note":"viento (wind) + tormenta (storm); the human capital, not a weather effect"}
 ```
 
 Write the file with the Write tool. UTF-8, no BOM, no trailing commas, no
@@ -85,16 +85,19 @@ Atlantic each belongs to.
 ## translation
 
 - Give the meaning that fits **WoW quest text**, not a dictionary's first entry.
-- Use the **official English WoW term** when the German is a game proper noun:
-  `Eisenschmiede` → Ironforge (not "Ironsmith"), `Dracheninseln` → Dragon Isles
-  (not "Dragon Islands"), `Sturmwind` → Stormwind.
+- Use the **official English WoW term** when the Spanish is a game proper noun:
+  `Forjaz` → Ironforge (not "Forge-something"), `Entrañas` → Undercity (not
+  "Entrails"), `Ventormenta` → Stormwind.
 - If you are not confident an official English name exists, give a clean literal
-  translation instead. **Do not invent lore, zone names, or NPC names.**
+  translation instead. **Do not invent lore, zone names, or NPC names.** This is
+  the single most damaging mistake available here: `cerrotajo` had been glossed
+  "Ironforge" and is in fact Razor Hill.
 - Separate genuinely distinct senses with `; ` — at most three, most common first.
-- Keep the grammatical category of the German word (noun → noun, verb → verb).
+- Keep the grammatical category of the Spanish word (noun → noun, verb → verb).
   Nouns: no article. Verbs: bare infinitive without "to" unless it disambiguates.
-- Match the source's capitalisation habit: proper nouns capitalised, common nouns
-  lowercase, even though German capitalises every noun.
+- Capitalise by English convention, not the source's. Spanish lowercases things
+  English capitalises -- `español` → Spanish, `martes` → Tuesday, `enero` →
+  January -- so the translation is capitalised even though the word is not.
 - If `current` is already the best answer, repeat it unchanged. That is a normal
   and expected outcome — do not change things just to look busy.
 
@@ -104,22 +107,23 @@ This is the part the user actually reads for fun. Make it earn its place.
 
 Pick whichever of these applies, best first:
 
-1. **Compound breakdown**, when it illuminates the word:
-   `Dunkelheit` → "dunkel (dark) + -heit, the suffix that turns adjectives into nouns"
+1. **Word breakdown**, when it illuminates the word:
+   `oscuridad` → "oscuro (dark) + -idad, the suffix that turns adjectives into nouns"
 2. **False friend / trap**, when a learner would guess wrong:
-   `bekommen` → "false friend: means to receive, never to become"
+   `éxito` → "false friend: means success, never exit -- exit is salida"
 3. **Official name differs from the literal sense**:
-   `Schattenhammer` → "literally shadow-hammer; the English name is Twilight's Hammer"
+   `Entrañas` → "literally entrails; the English name is Undercity"
 4. **Idiom or fixed phrase** the word usually appears in:
-   `heißen` → "willkommen heißen = to welcome"
-5. **Etymology or a genuinely interesting fact** about the word.
+   `echar` → "echar de menos = to miss someone"
+5. **Etymology or a genuinely interesting fact** about the word:
+   `almacén` → "from Arabic al-makhzan, the storehouse"
 
 Rules:
 
 - English, lowercase start, **no trailing period**, at most ~120 characters.
 - Never merely restate the translation ("means darkness") — that is wasted space.
-- Never write filler like "compound noun" or "common German word" on its own.
-- Prefer concrete over vague. "from Old High German *hari* (army)" beats
+- Never write filler like "common verb" or "common Spanish word" on its own.
+- Prefer concrete over vague. "from Arabic al-qadi, the judge" beats
   "has an interesting history".
 - If nothing worth saying comes to mind, use `""`. An empty note is much better
   than a boring one.
