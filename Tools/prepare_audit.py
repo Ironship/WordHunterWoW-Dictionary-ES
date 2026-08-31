@@ -38,16 +38,18 @@ def main():
     ap.add_argument("--limit", type=int, default=6000)
     ap.add_argument("--batch-size", type=int, default=150)
     ap.add_argument("--offset", type=int, default=0)
+    ap.add_argument("--all", action="store_true",
+                    help="re-audit every word, including ones already curated")
     args = ap.parse_args()
 
     # Anything already audited, in either dictionary or in a wave still on disk.
     done = set()
-    for loc in LOCALES:
+    for loc in LOCALES if not args.all else ():
         for r in load(ROOT / f"Data/Curated{loc.upper()}.jsonl"):
             if r.get("key"):
                 done.add(r["key"])
     outdir = WORKDIR / "out"
-    if outdir.exists():
+    if outdir.exists() and not args.all:
         for path in sorted(outdir.glob("*.jsonl")):
             done.update(r["key"] for r in load(path) if r.get("key"))
 
@@ -73,6 +75,15 @@ def main():
             counts[key] = max(counts.get(key, 0), r.get("count", 0))
             if key not in context and r.get("context"):
                 context[key] = r["context"]
+
+    # Blizzard ships some quest lines untranslated, marked [PH] and left in
+    # English. The words in them are English, so they are not Spanish vocabulary
+    # and there is nothing to audit -- but they sit in the word list all the same
+    # and take up rows in a batch. A word cannot reach a [PH] line unless it is
+    # one of those, because those lines carry no Spanish at all.
+    skipped_ph = [k for k in rows if context.get(k, "").startswith("[PH]")]
+    for key in skipped_ph:
+        rows.pop(key, None)
 
     ordered = sorted(rows,
                      key=lambda k: (-len(locales_of[k]), -counts.get(k, 0), k))
@@ -103,6 +114,7 @@ def main():
                         encoding="utf-8")
         batches += 1
 
+    print(f"pominiete_PH={len(skipped_ph)}")
     print(f"selected={len(ordered)} shared={shared} batches={batches} already_done={len(done)}")
 
 
