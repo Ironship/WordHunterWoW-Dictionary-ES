@@ -86,7 +86,7 @@ def main():
             near = difflib.get_close_matches(k or "", list(src), n=1, cutoff=0.9)
             return near[0] if near else k
         if not rows:
-            stats.append((out_path.name, 0, 0, 0, True, 0)); continue
+            stats.append((out_path.name, 0, 0, 0, True, 0, 0)); continue
         # A subagent from an earlier wave can finish after the directory has been
         # rotated and write over the current wave's output. The key sets diverge
         # long before anything else does, so compare them first.
@@ -118,6 +118,21 @@ def main():
                       if resolve(r) in src
                       and (r.get("translation") or "").strip() != src[resolve(r)]["current"].strip())
         noted = sum(1 for r in rows if (r.get("note") or "").strip())
+        # Not every row is owed a note. The instructions say to leave one
+        # empty rather than invent lore for a name nobody can confirm, and the
+        # rare tail of the dictionary is mostly such names -- some batches there
+        # are 88% capitalised words echoed back untranslated. Scoring those
+        # against a flat note rate condemns exactly the batches that followed
+        # the rule. A row is owed a note unless it is a capitalised source word
+        # whose gloss is that same word.
+        expected = 0
+        for r in rows:
+            key = resolve(r)
+            word = src[key]["word"] if key in src else (r.get("word") or "")
+            gloss = (r.get("translation") or "").strip()
+            if word[:1].isupper() and gloss.casefold() == word.casefold():
+                continue
+            expected += 1
         # Advisory only. German capitalises every noun, and the commonest miss on
         # this dictionary is an English gloss that kept the capital. A row left
         # untouched whose gloss is a single capitalised word, and is not simply
@@ -141,17 +156,17 @@ def main():
                     and current.split()[0].casefold() != word.casefold()
                     and current.casefold() != word.casefold()):
                 capped += 1
-        stats.append((out_path.name, len(rows), changed, noted, bool(broken), capped))
+        stats.append((out_path.name, len(rows), changed, noted, bool(broken), capped, expected))
 
     if not stats:
         print("brak batchy")
         return 0
     med_ch = statistics.median(s[2] / max(s[1], 1) for s in stats)
-    med_nt = statistics.median(s[3] / max(s[1], 1) for s in stats)
+    med_nt = statistics.median(s[3] / max(s[6], 1) for s in stats)
     suspect = []
-    for name, n, ch, nt, broken, capped in stats:
+    for name, n, ch, nt, broken, capped, expected in stats:
         rate_ch = ch / max(n, 1)
-        rate_nt = nt / max(n, 1)
+        rate_nt = nt / max(expected, 1)
         share_ch = rate_ch / med_ch if med_ch else 1
         share_nt = rate_nt / med_nt if med_nt else 1
         why = []
@@ -165,7 +180,7 @@ def main():
             why.append(f"notatek {rate_nt:.0%}")
         if why:
             suspect.append(name)
-        print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3} notatek, {capped:>3} wielkich liter do sprawdzenia"
+        print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3}/{expected} notatek, {capped:>3} wielkich liter do sprawdzenia"
               + (f"   <-- PODEJRZANY ({', '.join(why)})" if why else ""))
     print(f"\nmediana fali: zmian {med_ch:.0%}, notatek {med_nt:.0%}"
           f" | progi bezwzgledne: zmian {args.min_change_rate:.0%}, notatek {args.min_note_rate:.0%}")
