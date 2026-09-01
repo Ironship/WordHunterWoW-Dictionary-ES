@@ -257,7 +257,7 @@ WordHunterWoW_Dictionary_ES_MX["abortado"] = { word = "abortado", translation = 
 WordHunterWoW_Dictionary_ES_MX["abosluta"] = { word = "ABOSLUTA", translation = "absolute", note = "likely a misspelling of absoluta; the context is truncated" }
 WordHunterWoW_Dictionary_ES_MX["abotagadas"] = { word = "abotagadas", translation = "bloated", note = "abotagado describes something swollen or distended" }
 WordHunterWoW_Dictionary_ES_MX["abra"] = { word = "abra", translation = "may open; open", note = "present subjunctive of abrir; the identical noun abra is a cove or a mountain gap" }
-WordHunterWoW_Dictionary_ES_MX["abrah"] = { word = "abrah", translation = "Abrah", note = "proper name; the context does not confirm that it refers to Abraham" }
+WordHunterWoW_Dictionary_ES_MX["abrah"] = { word = "abrah", translation = "abrah", note = "proper name; the context does not confirm that it refers to Abraham" }
 WordHunterWoW_Dictionary_ES_MX["abramatanza"] = { word = "Abramatanza", translation = "Abramatanza", note = "coined proper name; no confirmed English rendering is available" }
 WordHunterWoW_Dictionary_ES_MX["abramos"] = { word = "Abramos", translation = "let's open", note = "first-person plural subjunctive used to give a let's command" }
 WordHunterWoW_Dictionary_ES_MX["abran"] = { word = "abran", translation = "open; may open", note = "present subjunctive of abrir, the form that follows para que, espero que and the like" }
@@ -293,7 +293,7 @@ WordHunterWoW_Dictionary_ES_MX["abrazos"] = { word = "abrazos", translation = "h
 WordHunterWoW_Dictionary_ES_MX["abrazándolos"] = { word = "abrazándolos", translation = "hugging them", note = "the attached -los pronoun marks a masculine plural object" }
 WordHunterWoW_Dictionary_ES_MX["abre"] = { word = "abre", translation = "opens", note = "sometimes they think they're opening up" }
 WordHunterWoW_Dictionary_ES_MX["abreboca"] = { word = "abreboca", translation = "appetizer", note = "literally something that opens the mouth before a meal" }
-WordHunterWoW_Dictionary_ES_MX["abrecaminos"] = { word = "abrecaminos", translation = "Pathfinder", note = "abre (opens) + caminos (roads); used as an NPC surname, Pathfinder in English" }
+WordHunterWoW_Dictionary_ES_MX["abrecaminos"] = { word = "abrecaminos", translation = "pathfinder", note = "abre (opens) + caminos (roads); used as an NPC surname, Pathfinder in English" }
 WordHunterWoW_Dictionary_ES_MX["abren"] = { word = "abren", translation = "they open", note = "abrir has the irregular participle abierto, never 'abrido'" }
 WordHunterWoW_Dictionary_ES_MX["abreostras"] = { word = "abreostras", translation = "oyster opener", note = "the compound joins abre, opens, with ostras, oysters" }
 WordHunterWoW_Dictionary_ES_MX["abres"] = { word = "Abres", translation = "you open", note = "abrir is regular in the present but keeps an irregular participle, abierto" }
@@ -6124,7 +6124,7 @@ WordHunterWoW_Dictionary_ES_MX["asemejan"] = { word = "asemejan", translation = 
 WordHunterWoW_Dictionary_ES_MX["asentada"] = { word = "asentada", translation = "settled", note = "asentada is the feminine participle of asentar, to settle" }
 WordHunterWoW_Dictionary_ES_MX["asentado"] = { word = "asentado", translation = "settled; established", note = "asentar comes from sentar (to seat): to set something down in place" }
 WordHunterWoW_Dictionary_ES_MX["asentados"] = { word = "asentados", translation = "based", note = "asentarse can mean settle or establish oneself; here it means based" }
-WordHunterWoW_Dictionary_ES_MX["asentamiento"] = { word = "asentamiento", translation = "Settlement", note = "Amani Settlement" }
+WordHunterWoW_Dictionary_ES_MX["asentamiento"] = { word = "asentamiento", translation = "settlement", note = "Amani Settlement" }
 WordHunterWoW_Dictionary_ES_MX["asentamientos"] = { word = "asentamientos", translation = "settlements", note = "established communities; dwellings" }
 WordHunterWoW_Dictionary_ES_MX["asentamos"] = { word = "asentamos", translation = "we settled", note = "the -amos form is past here because cuando nos asentamos describes settling in" }
 WordHunterWoW_Dictionary_ES_MX["asentar"] = { word = "asentar", translation = "settle in", note = "asentarse en un lugar = settle in a place" }
@@ -6235,7 +6235,7 @@ WordHunterWoW_Dictionary_ES_MX["ashton"] = { word = "Ashton", translation = "Ash
 WordHunterWoW_Dictionary_ES_MX["ashunto"] = { word = "ashunto", translation = "matter", note = "slurred ashunto is asunto, meaning matter or subject" }
 WordHunterWoW_Dictionary_ES_MX["ashyen"] = { word = "Ashyen", translation = "Ashyen", note = "" }
 WordHunterWoW_Dictionary_ES_MX["ashyo"] = { word = "Ashyo", translation = "Ashyo", note = "" }
-WordHunterWoW_Dictionary_ES_MX["asi"] = { word = "asi", translation = "So", note = "the context clearly uses así, so; this key is the unaccented form" }
+WordHunterWoW_Dictionary_ES_MX["asi"] = { word = "asi", translation = "so", note = "the context clearly uses así, so; this key is the unaccented form" }
 WordHunterWoW_Dictionary_ES_MX["asidero"] = { word = "Asidero", translation = "hold", note = "asidero is something to hold onto; the literal sense is closer to hold or handhold" }
 WordHunterWoW_Dictionary_ES_MX["asideros"] = { word = "asideros", translation = "handholds", note = "asidero is a place or thing to grasp; plural asideros are handholds" }
 WordHunterWoW_Dictionary_ES_MX["asiduidad"] = { word = "asiduidad", translation = "assiduity", note = "asiduidad means steady diligence or regularity, from asiduo (assiduous)" }
@@ -8174,7 +8174,7 @@ WordHunterWoW_Dictionary_ES_MX["basiliscos"] = { word = "basiliscos", translatio
 WordHunterWoW_Dictionary_ES_MX["basilton"] = { word = "Basilton", translation = "Basilton", note = "" }
 WordHunterWoW_Dictionary_ES_MX["basin"] = { word = "Basin", translation = "Basin", note = "" }
 WordHunterWoW_Dictionary_ES_MX["bassstante"] = { word = "bassstante", translation = "bassstante", note = "" }
-WordHunterWoW_Dictionary_ES_MX["basta"] = { word = "basta", translation = "Enough", note = "stop" }
+WordHunterWoW_Dictionary_ES_MX["basta"] = { word = "basta", translation = "enough", note = "stop" }
 WordHunterWoW_Dictionary_ES_MX["bastaba"] = { word = "bastaba", translation = "it was enough", note = "the imperfect bastaba can mean was enough or used to be enough" }
 WordHunterWoW_Dictionary_ES_MX["bastado"] = { word = "bastado", translation = "sufficed", note = "bastar = suffice; ha bastado means has sufficed, not enough" }
 WordHunterWoW_Dictionary_ES_MX["bastan"] = { word = "bastan", translation = "are not enough", note = "bastar = be sufficient; bastan agrees with plural suministros" }
@@ -8194,7 +8194,7 @@ WordHunterWoW_Dictionary_ES_MX["bastia"] = { word = "Bastia", translation = "Bas
 WordHunterWoW_Dictionary_ES_MX["bastillax"] = { word = "Bastillax", translation = "Bastillax", note = "" }
 WordHunterWoW_Dictionary_ES_MX["bastiones"] = { word = "bastiones", translation = "bastions", note = "bastión comes from Italian bastione; plural bastiones means fortified strongholds" }
 WordHunterWoW_Dictionary_ES_MX["bastión"] = { word = "Bastión", translation = "Bastion", note = "WoW proper noun" }
-WordHunterWoW_Dictionary_ES_MX["basto"] = { word = "basto", translation = "Rugged", note = "basto can mean coarse, but cuero basto is the WoW material Rugged Leather" }
+WordHunterWoW_Dictionary_ES_MX["basto"] = { word = "basto", translation = "rugged", note = "basto can mean coarse, but cuero basto is the WoW material Rugged Leather" }
 WordHunterWoW_Dictionary_ES_MX["bastones"] = { word = "bastones", translation = "staves; canes", note = "a baston is a walking cane, a conductor's baton and a wizard's staff all at once" }
 WordHunterWoW_Dictionary_ES_MX["bastá"] = { word = "bastá", translation = "enough", note = "dialectal spelling of basta; it means enough or that is enough" }
 WordHunterWoW_Dictionary_ES_MX["bastó"] = { word = "bastó", translation = "was enough; sufficed", note = "preterite of bastar, to suffice; basto without the accent is the separate word coarse" }
@@ -18137,7 +18137,7 @@ WordHunterWoW_Dictionary_ES_MX["desgarra"] = { word = "desgarra", translation = 
 WordHunterWoW_Dictionary_ES_MX["desgarrada"] = { word = "desgarrada", translation = "torn", note = "" }
 WordHunterWoW_Dictionary_ES_MX["desgarradas"] = { word = "desgarradas", translation = "torn; ripped", note = "desgarrar is a violent rip, tied to garra (claw), far stronger than romper" }
 WordHunterWoW_Dictionary_ES_MX["desgarrado"] = { word = "desgarrado", translation = "torn; ripped open", note = "past participle of desgarrar; here the clothing was ripped apart by looters" }
-WordHunterWoW_Dictionary_ES_MX["desgarrador"] = { word = "desgarrador", translation = "Ripper", note = "as a title, desgarrador is the one who tears or rips" }
+WordHunterWoW_Dictionary_ES_MX["desgarrador"] = { word = "desgarrador", translation = "ripper", note = "as a title, desgarrador is the one who tears or rips" }
 WordHunterWoW_Dictionary_ES_MX["desgarradora"] = { word = "desgarradora", translation = "heartbreaking", note = "" }
 WordHunterWoW_Dictionary_ES_MX["desgarradoras"] = { word = "desgarradoras", translation = "soul-rending", note = "desgarrar = tear or rend; desgarrador can mean soul-rending" }
 WordHunterWoW_Dictionary_ES_MX["desgarradores"] = { word = "desgarradores", translation = "soul rippers", note = "desgarrar = tear or rend; a desgarrador de almas is a soul ripper" }
@@ -20043,7 +20043,7 @@ WordHunterWoW_Dictionary_ES_MX["distorsiones"] = { word = "distorsiones", transl
 WordHunterWoW_Dictionary_ES_MX["distorsionó"] = { word = "distorsionó", translation = "distorted", note = "" }
 WordHunterWoW_Dictionary_ES_MX["distorsión"] = { word = "distorsión", translation = "distortion", note = "implies warping or bending of reality; often in void or chaos magic" }
 WordHunterWoW_Dictionary_ES_MX["distracciones"] = { word = "distracciones", translation = "distractions", note = "from distraer, dis- + traer, to pull away; distraído means absent-minded" }
-WordHunterWoW_Dictionary_ES_MX["distracción"] = { word = "distracción", translation = "Distraction", note = "quest title/event" }
+WordHunterWoW_Dictionary_ES_MX["distracción"] = { word = "distracción", translation = "distraction", note = "quest title/event" }
 WordHunterWoW_Dictionary_ES_MX["distrae"] = { word = "Distrae", translation = "distract; distracts", note = "can be the command distract or third-person distracts; context is truncated" }
 WordHunterWoW_Dictionary_ES_MX["distraen"] = { word = "distraen", translation = "distract", note = "distraer means divert attention from something" }
 WordHunterWoW_Dictionary_ES_MX["distraer"] = { word = "distraer", translation = "distract; entertain", note = "dis- + traer (to pull): to pull attention away; distraerse is to amuse oneself" }
@@ -20396,7 +20396,7 @@ WordHunterWoW_Dictionary_ES_MX["donaron"] = { word = "donaron", translation = "t
 WordHunterWoW_Dictionary_ES_MX["donas"] = { word = "donas", translation = "donate", note = "false friend in context: donas is you donate, not the noun donuts" }
 WordHunterWoW_Dictionary_ES_MX["donathan"] = { word = "Donathan", translation = "Donathan", note = "" }
 WordHunterWoW_Dictionary_ES_MX["donativos"] = { word = "donativos", translation = "donations", note = "donativo comes from donar; the plural ending marks more than one" }
-WordHunterWoW_Dictionary_ES_MX["doncella"] = { word = "doncella", translation = "Maiden", note = "Maiden's Dagger ship" }
+WordHunterWoW_Dictionary_ES_MX["doncella"] = { word = "doncella", translation = "maiden", note = "Maiden's Dagger ship" }
 WordHunterWoW_Dictionary_ES_MX["doncellas"] = { word = "doncellas", translation = "maidens", note = "doncella also means a housemaid; the Doncellas de Hierro are the Iron Maidens" }
 WordHunterWoW_Dictionary_ES_MX["donde"] = { word = "donde", translation = "where", note = "dónde (with accent) = where?; donde (no accent) = where (relative pronoun)" }
 WordHunterWoW_Dictionary_ES_MX["dondequiera"] = { word = "dondequiera", translation = "wherever", note = "donde + quiera, the subjunctive of querer -- literally where it may wish to be" }
@@ -29421,7 +29421,7 @@ WordHunterWoW_Dictionary_ES_MX["hachazgo"] = { word = "hachazgo", translation = 
 WordHunterWoW_Dictionary_ES_MX["hachazo"] = { word = "Hachazo", translation = "axe blow", note = "hacha (axe) + -azo, the suffix for a blow struck with a thing -- a codazo is a jab with the elbow" }
 WordHunterWoW_Dictionary_ES_MX["hachazos"] = { word = "hachazos", translation = "ax blows", note = "plural of hachazo, a blow with an axe; -azo marks a forceful hit" }
 WordHunterWoW_Dictionary_ES_MX["hacia"] = { word = "hacia", translation = "toward; to; in the direction of", note = "direction (hacia el norte = toward the north); acia/hacia = toward; contra = against" }
-WordHunterWoW_Dictionary_ES_MX["hacienda"] = { word = "hacienda", translation = "Manor", note = "noun; large estate or location" }
+WordHunterWoW_Dictionary_ES_MX["hacienda"] = { word = "hacienda", translation = "manor", note = "noun; large estate or location" }
 WordHunterWoW_Dictionary_ES_MX["haciendo"] = { word = "haciendo", translation = "doing", note = "gerund/performing" }
 WordHunterWoW_Dictionary_ES_MX["hacinados"] = { word = "hacinados", translation = "crammed together", note = "hacinado means packed tightly into too little space; hence like chickens here" }
 WordHunterWoW_Dictionary_ES_MX["haciéndole"] = { word = "haciéndole", translation = "making him", note = "hacer + le in the gerund: making him or it; the pronoun le is attached" }
@@ -33272,7 +33272,7 @@ WordHunterWoW_Dictionary_ES_MX["isquelión"] = { word = "Isquelión", translatio
 WordHunterWoW_Dictionary_ES_MX["issam"] = { word = "Issam", translation = "Issam", note = "" }
 WordHunterWoW_Dictionary_ES_MX["issliruk"] = { word = "Issliruk", translation = "Issliruk", note = "" }
 WordHunterWoW_Dictionary_ES_MX["isuldof"] = { word = "Isuldof", translation = "Isuldof", note = "" }
-WordHunterWoW_Dictionary_ES_MX["it"] = { word = "it", translation = "Item", note = "" }
+WordHunterWoW_Dictionary_ES_MX["it"] = { word = "it", translation = "item", note = "" }
 WordHunterWoW_Dictionary_ES_MX["it's"] = { word = "It's", translation = "it's", note = "the quest line contains English text; it's is the contraction of it is" }
 WordHunterWoW_Dictionary_ES_MX["itanu"] = { word = "Itanu", translation = "Itanu", note = "" }
 WordHunterWoW_Dictionary_ES_MX["item"] = { word = "Item", translation = "Item", note = "" }
@@ -34475,7 +34475,7 @@ WordHunterWoW_Dictionary_ES_MX["kriiitchrglgr"] = { word = "Kriiitchrglgr", tran
 WordHunterWoW_Dictionary_ES_MX["krik'thik"] = { word = "Krik'thik", translation = "Krik'thik", note = "" }
 WordHunterWoW_Dictionary_ES_MX["krik'thir"] = { word = "Krik'thir", translation = "Krik'thir", note = "" }
 WordHunterWoW_Dictionary_ES_MX["krimple"] = { word = "Krimple", translation = "Krimple", note = "" }
-WordHunterWoW_Dictionary_ES_MX["kris"] = { word = "kris", translation = "Kris", note = "" }
+WordHunterWoW_Dictionary_ES_MX["kris"] = { word = "kris", translation = "kris", note = "" }
 WordHunterWoW_Dictionary_ES_MX["kristof"] = { word = "Kristof", translation = "Kristof", note = "" }
 WordHunterWoW_Dictionary_ES_MX["kristoff"] = { word = "Kristoff", translation = "Kristoff", note = "" }
 WordHunterWoW_Dictionary_ES_MX["kritch"] = { word = "Kritch", translation = "Kritch", note = "" }
@@ -38599,7 +38599,7 @@ WordHunterWoW_Dictionary_ES_MX["miss"] = { word = "Miss", translation = "Miss", 
 WordHunterWoW_Dictionary_ES_MX["mission"] = { word = "Mission", translation = "Mission", note = "" }
 WordHunterWoW_Dictionary_ES_MX["misss"] = { word = "misss", translation = "my", note = "elongated s's are character speech; standard form is mis, the possessive adjective" }
 WordHunterWoW_Dictionary_ES_MX["misterio"] = { word = "misterio", translation = "mystery", note = "" }
-WordHunterWoW_Dictionary_ES_MX["misterios"] = { word = "misterios", translation = "Mysteries", note = "book title" }
+WordHunterWoW_Dictionary_ES_MX["misterios"] = { word = "misterios", translation = "mysteries", note = "book title" }
 WordHunterWoW_Dictionary_ES_MX["misteriosa"] = { word = "misteriosa", translation = "mysterious; strange; enigmatic", note = "feminine adjective; meat of unknown origin in goblin kebab quest" }
 WordHunterWoW_Dictionary_ES_MX["misteriosamente"] = { word = "misteriosamente", translation = "mysteriously", note = "misterio (mystery) + -mente, the suffix that forms adverbs" }
 WordHunterWoW_Dictionary_ES_MX["misteriosas"] = { word = "misteriosas", translation = "mysterious", note = "misterio + -oso in the feminine plural; the suffix means full of" }
@@ -41531,10 +41531,10 @@ WordHunterWoW_Dictionary_ES_MX["olvidaré"] = { word = "olvidaré", translation 
 WordHunterWoW_Dictionary_ES_MX["olvidaría"] = { word = "olvidaría", translation = "would forget", note = "conditional form of olvidar; the question asks whether she would forget him" }
 WordHunterWoW_Dictionary_ES_MX["olvide"] = { word = "olvide", translation = "forget", note = "subjunctive after antes de que; English still uses forget after before I" }
 WordHunterWoW_Dictionary_ES_MX["olvideh"] = { word = "olvideh", translation = "forget", note = "dialect spelling of olvides; the final h represents the s sound" }
-WordHunterWoW_Dictionary_ES_MX["olvidemos"] = { word = "olvidemos", translation = "Let's forget", note = "first-person plural suggestion; olvidemos means let us forget" }
+WordHunterWoW_Dictionary_ES_MX["olvidemos"] = { word = "olvidemos", translation = "let's forget", note = "first-person plural suggestion; olvidemos means let us forget" }
 WordHunterWoW_Dictionary_ES_MX["olviden"] = { word = "olviden", translation = "forget", note = "olviden can be a plural command or subjunctive; context does not fully settle it" }
 WordHunterWoW_Dictionary_ES_MX["olvides"] = { word = "olvides", translation = "forget", note = "don't forget to duck" }
-WordHunterWoW_Dictionary_ES_MX["olvido"] = { word = "olvido", translation = "Oblivion", note = "proper place: Pools of Oblivion" }
+WordHunterWoW_Dictionary_ES_MX["olvido"] = { word = "olvido", translation = "oblivion", note = "proper place: Pools of Oblivion" }
 WordHunterWoW_Dictionary_ES_MX["olvidándome"] = { word = "olvidándome", translation = "forgetting", note = "the attached me marks the speaker: forgetting something from myself" }
 WordHunterWoW_Dictionary_ES_MX["olvidé"] = { word = "olvidé", translation = "I forgot", note = "preterite, not present; the everyday form is reflexive -- me olvide de las herramientas" }
 WordHunterWoW_Dictionary_ES_MX["olvidémonos"] = { word = "Olvidémonos", translation = "let's forget", note = "reflexive first-person plural imperative; nos means ourselves" }
@@ -41644,7 +41644,7 @@ WordHunterWoW_Dictionary_ES_MX["operaba"] = { word = "operaba", translation = "o
 WordHunterWoW_Dictionary_ES_MX["operaban"] = { word = "operaban", translation = "were operating", note = "the imperfect marks mana collectors that were operating there" }
 WordHunterWoW_Dictionary_ES_MX["operacional"] = { word = "operacional", translation = "operational", note = "operar (to operate) + -cional; it describes something ready to function" }
 WordHunterWoW_Dictionary_ES_MX["operaciones"] = { word = "operaciones", translation = "mining operations", note = "operaciones mineras shortened to operaciones; context is clear—mining is implied" }
-WordHunterWoW_Dictionary_ES_MX["operación"] = { word = "operación", translation = "Operation", note = "capitalized; 'Operación Recombobulación' → 'Operation Recombobulation' in WoW" }
+WordHunterWoW_Dictionary_ES_MX["operación"] = { word = "operación", translation = "operation", note = "capitalized; 'Operación Recombobulación' → 'Operation Recombobulation' in WoW" }
 WordHunterWoW_Dictionary_ES_MX["operador"] = { word = "operador", translation = "operator", note = "" }
 WordHunterWoW_Dictionary_ES_MX["operadora"] = { word = "operadora", translation = "operator", note = "operador plus feminine -a; the word names a female operator" }
 WordHunterWoW_Dictionary_ES_MX["operan"] = { word = "operan", translation = "operate", note = "the -an ending marks present-tense third-person plural" }
@@ -44095,7 +44095,7 @@ WordHunterWoW_Dictionary_ES_MX["pilota"] = { word = "Pilota", translation = "pil
 WordHunterWoW_Dictionary_ES_MX["pilotaba"] = { word = "pilotaba", translation = "was piloting", note = "imperfect of pilotar; the action was in progress in the past" }
 WordHunterWoW_Dictionary_ES_MX["pilotaje"] = { word = "pilotaje", translation = "piloting", note = "pilotaje names the activity or skill of pilotar, to pilot" }
 WordHunterWoW_Dictionary_ES_MX["pilotar"] = { word = "pilotar", translation = "pilot", note = "pilotar means to pilot or fly an aircraft; piloto is pilot" }
-WordHunterWoW_Dictionary_ES_MX["pilote"] = { word = "pilote", translation = "Pile", note = "pilote can mean a driven support or pile; here it appears in a name" }
+WordHunterWoW_Dictionary_ES_MX["pilote"] = { word = "pilote", translation = "pile", note = "pilote can mean a driven support or pile; here it appears in a name" }
 WordHunterWoW_Dictionary_ES_MX["pilotea"] = { word = "pilotea", translation = "pilot", note = "" }
 WordHunterWoW_Dictionary_ES_MX["piloteando"] = { word = "piloteando", translation = "piloting", note = "" }
 WordHunterWoW_Dictionary_ES_MX["pilotear"] = { word = "pilotear", translation = "pilot", note = "pilotear is formed from piloto (pilot); it means to operate a vehicle" }
@@ -45586,7 +45586,7 @@ WordHunterWoW_Dictionary_ES_MX["primas"] = { word = "primas", translation = "raw
 WordHunterWoW_Dictionary_ES_MX["primasol"] = { word = "Primasol", translation = "Primasol", note = "reads as prima (first) + sol (sun)" }
 WordHunterWoW_Dictionary_ES_MX["primates"] = { word = "primates", translation = "primates", note = "the biological group that includes humans and apes; plural noun" }
 WordHunterWoW_Dictionary_ES_MX["primatriona"] = { word = "Primatriona", translation = "Primatriona", note = "proper name of an ecodome; no confirmed English translation" }
-WordHunterWoW_Dictionary_ES_MX["primavera"] = { word = "primavera", translation = "Spring", note = "from Latin prima vera, the first spring; the season only, never a coil or a water source" }
+WordHunterWoW_Dictionary_ES_MX["primavera"] = { word = "primavera", translation = "spring", note = "from Latin prima vera, the first spring; the season only, never a coil or a water source" }
 WordHunterWoW_Dictionary_ES_MX["primaveral"] = { word = "primaveral", translation = "spring", note = "primavera (spring) + -al forms an adjective" }
 WordHunterWoW_Dictionary_ES_MX["primaverales"] = { word = "primaverales", translation = "spring", note = "primavera means spring; -al forms the adjective, here in the plural" }
 WordHunterWoW_Dictionary_ES_MX["prime"] = { word = "Prime", translation = "Prime", note = "" }
@@ -47310,7 +47310,7 @@ WordHunterWoW_Dictionary_ES_MX["raluca"] = { word = "Raluca", translation = "Ral
 WordHunterWoW_Dictionary_ES_MX["rama"] = { word = "rama", translation = "branch", note = "noun; tree limb or division; from Latin ramus; used literally and figuratively" }
 WordHunterWoW_Dictionary_ES_MX["ramacentella"] = { word = "Ramacentella", translation = "Sparkbranch", note = "literal compound: rama (branch) + centella (spark); official English name unconfirmed" }
 WordHunterWoW_Dictionary_ES_MX["ramaespolón"] = { word = "Ramaespolón", translation = "Branchspur", note = "literal compound rama (branch) + espolón (spur); the official name is not confirmed" }
-WordHunterWoW_Dictionary_ES_MX["ramah"] = { word = "ramah", translation = "Ramah", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ramah"] = { word = "ramah", translation = "ramah", note = "" }
 WordHunterWoW_Dictionary_ES_MX["ramal"] = { word = "ramal", translation = "branch", note = "ramal del tiempo = a branch of the timeline; ramal is literally a branch or offshoot" }
 WordHunterWoW_Dictionary_ES_MX["ramales"] = { word = "ramales", translation = "branches", note = "" }
 WordHunterWoW_Dictionary_ES_MX["ramaquieta"] = { word = "Ramaquieta", translation = "quiet branch", note = "rama means branch and quieta means quiet; it is a surname-style compound" }
@@ -49762,7 +49762,7 @@ WordHunterWoW_Dictionary_ES_MX["respectivamente"] = { word = "respectivamente", 
 WordHunterWoW_Dictionary_ES_MX["respectivas"] = { word = "respectivas", translation = "respective", note = "respectivas links each philosophy to its own person" }
 WordHunterWoW_Dictionary_ES_MX["respectivos"] = { word = "respectivos", translation = "respective", note = "agrees with a plural noun: sus respectivos = their respective" }
 WordHunterWoW_Dictionary_ES_MX["respecto"] = { word = "respecto", translation = "regard; respect", note = "al respecto = regarding or about" }
-WordHunterWoW_Dictionary_ES_MX["respeta"] = { word = "respeta", translation = "Respect", note = "tú imperative, identical in form to the 3rd-person present respecta" }
+WordHunterWoW_Dictionary_ES_MX["respeta"] = { word = "respeta", translation = "respect", note = "tú imperative, identical in form to the 3rd-person present respecta" }
 WordHunterWoW_Dictionary_ES_MX["respetaban"] = { word = "respetaban", translation = "they respected", note = "imperfect -aban gives the sense of used to respect" }
 WordHunterWoW_Dictionary_ES_MX["respetable"] = { word = "respetable", translation = "respectable", note = "can describe worthy status or quality, not only polite behavior" }
 WordHunterWoW_Dictionary_ES_MX["respetables"] = { word = "respetables", translation = "respectable", note = "respetable comes from respetar, to respect; it suggests worthy of respect" }
@@ -52624,7 +52624,7 @@ WordHunterWoW_Dictionary_ES_MX["señas"] = { word = "señas", translation = "sig
 WordHunterWoW_Dictionary_ES_MX["señor"] = { word = "señor", translation = "sir; mister; lord", note = "Mr., Sir, or Lord; señorita = Miss; señora = Mrs./Madam" }
 WordHunterWoW_Dictionary_ES_MX["señora"] = { word = "señora", translation = "lady", note = "woman of rank; address form" }
 WordHunterWoW_Dictionary_ES_MX["señore"] = { word = "señore", translation = "sir", note = "" }
-WordHunterWoW_Dictionary_ES_MX["señores"] = { word = "señores", translation = "Lords", note = "Fallen Sky Lords; title" }
+WordHunterWoW_Dictionary_ES_MX["señores"] = { word = "señores", translation = "lords", note = "Fallen Sky Lords; title" }
 WordHunterWoW_Dictionary_ES_MX["señorita"] = { word = "señorita", translation = "Miss", note = "formal address for a young lady" }
 WordHunterWoW_Dictionary_ES_MX["señoría"] = { word = "señoría", translation = "lordship", note = "the formal title Su Señoría means Your Lordship; señoría is not simply señor" }
 WordHunterWoW_Dictionary_ES_MX["señuelo"] = { word = "señuelo", translation = "lure; decoy", note = "originally the falconer's lure swung to call the hawk back to the fist" }
@@ -53582,7 +53582,7 @@ WordHunterWoW_Dictionary_ES_MX["sombra"] = { word = "sombra", translation = "sha
 WordHunterWoW_Dictionary_ES_MX["sombracortada"] = { word = "Sombracortada", translation = "Shadowslash", note = "sombra is shadow and cortada is cut or slashed; the compound becomes Shadowslash" }
 WordHunterWoW_Dictionary_ES_MX["sombraestelar"] = { word = "Sombraestelar", translation = "Starshadow", note = "literal compound of sombra (shadow) and estelar (stellar); used here as a surname" }
 WordHunterWoW_Dictionary_ES_MX["sombragélida"] = { word = "Sombragélida", translation = "Frostshadow", note = "" }
-WordHunterWoW_Dictionary_ES_MX["sombrah"] = { word = "sombrah", translation = "Shadow", note = "Sombrah is the dialect spelling of sombras; Cazador de las Sombras is Shadow Hunter" }
+WordHunterWoW_Dictionary_ES_MX["sombrah"] = { word = "sombrah", translation = "shadow", note = "Sombrah is the dialect spelling of sombras; Cazador de las Sombras is Shadow Hunter" }
 WordHunterWoW_Dictionary_ES_MX["sombraligera"] = { word = "Sombraligera", translation = "Shadowlight", note = "sombra (shadow) + ligera (light), a coined surname" }
 WordHunterWoW_Dictionary_ES_MX["sombraluna"] = { word = "Sombraluna", translation = "Shadowmoon", note = "WoW proper noun: valley where nagas poison water" }
 WordHunterWoW_Dictionary_ES_MX["sombramelena"] = { word = "Sombramelena", translation = "Shadowmane", note = "" }
@@ -54403,7 +54403,7 @@ WordHunterWoW_Dictionary_ES_MX["sumiso"] = { word = "sumiso", translation = "sub
 WordHunterWoW_Dictionary_ES_MX["sumió"] = { word = "sumió", translation = "plunged", note = "sumirse en la oscuridad = plunge into darkness; sumió is the preterite" }
 WordHunterWoW_Dictionary_ES_MX["summon"] = { word = "summon", translation = "summon", note = "" }
 WordHunterWoW_Dictionary_ES_MX["summons"] = { word = "summons", translation = "summons", note = "already English; summons can mean a call for help or a formal order" }
-WordHunterWoW_Dictionary_ES_MX["sumo"] = { word = "sumo", translation = "High; Supreme; Sumo", note = "superlative adjective; Sumo Executor is a high-ranking Horde official" }
+WordHunterWoW_Dictionary_ES_MX["sumo"] = { word = "sumo", translation = "high; supreme; sumo", note = "superlative adjective; Sumo Executor is a high-ranking Horde official" }
 WordHunterWoW_Dictionary_ES_MX["sumos"] = { word = "sumos", translation = "high", note = "sumo means highest or supreme; sumos sacerdotes are high priests" }
 WordHunterWoW_Dictionary_ES_MX["sumémosla"] = { word = "Sumémosla", translation = "Let's add it", note = "" }
 WordHunterWoW_Dictionary_ES_MX["sumérgela"] = { word = "sumérgela", translation = "submerge it", note = "sumergir + la (it/her); here the pronoun refers to the sword" }
@@ -54512,7 +54512,7 @@ WordHunterWoW_Dictionary_ES_MX["supervisaré"] = { word = "supervisaré", transl
 WordHunterWoW_Dictionary_ES_MX["supervise"] = { word = "supervise", translation = "supervise", note = "present subjunctive after me han encargado que; English uses bare supervise" }
 WordHunterWoW_Dictionary_ES_MX["supervisión"] = { word = "supervisión", translation = "supervision; oversight", note = "super- (over) + visión (sight), a literal calque that English built the same way" }
 WordHunterWoW_Dictionary_ES_MX["superviso"] = { word = "superviso", translation = "I supervise", note = "first-person present of supervisar; yo te superviso = I oversee you" }
-WordHunterWoW_Dictionary_ES_MX["supervisor"] = { word = "supervisor", translation = "Supervisor", note = "NPC; Supervisor Saltsprocket" }
+WordHunterWoW_Dictionary_ES_MX["supervisor"] = { word = "supervisor", translation = "supervisor", note = "NPC; Supervisor Saltsprocket" }
 WordHunterWoW_Dictionary_ES_MX["supervisora"] = { word = "supervisora", translation = "supervisor", note = "one who oversees or directs" }
 WordHunterWoW_Dictionary_ES_MX["supervisoras"] = { word = "supervisoras", translation = "supervisors", note = "the feminine plural ending is not marked in English; these are orphanage supervisors" }
 WordHunterWoW_Dictionary_ES_MX["supervisores"] = { word = "supervisores", translation = "supervisors", note = "plural of supervisor; the Spanish and English forms are close cognates" }
@@ -54859,7 +54859,7 @@ WordHunterWoW_Dictionary_ES_MX["sírvete"] = { word = "sírvete", translation = 
 WordHunterWoW_Dictionary_ES_MX["sísmica"] = { word = "sísmica", translation = "seismic", note = "from Greek seismos, earthquake; seismic describes movement or activity of the earth" }
 WordHunterWoW_Dictionary_ES_MX["sísmicas"] = { word = "sísmicas", translation = "seismic", note = "feminine plural adjective; English seismic has no gender or plural ending" }
 WordHunterWoW_Dictionary_ES_MX["sííííííí"] = { word = "sííííííí", translation = "yessss", note = "" }
-WordHunterWoW_Dictionary_ES_MX["sófica"] = { word = "sófica", translation = "Sophic", note = "a game terminology adjective associated with wisdom; capitalization follows the item term" }
+WordHunterWoW_Dictionary_ES_MX["sófica"] = { word = "sófica", translation = "sophic", note = "a game terminology adjective associated with wisdom; capitalization follows the item term" }
 WordHunterWoW_Dictionary_ES_MX["sólida"] = { word = "sólida", translation = "solid", note = "from Latin solidus, whole; that Roman coin also gave Spanish sueldo and soldado" }
 WordHunterWoW_Dictionary_ES_MX["sólidas"] = { word = "sólidas", translation = "solid", note = "feminine plural of sólido; of a sword it means dependable rather than dense" }
 WordHunterWoW_Dictionary_ES_MX["sólido"] = { word = "sólido", translation = "solid", note = "from Latin solidus, the coin that also gave English soldier and Spanish sueldo, wages" }
@@ -59837,7 +59837,7 @@ WordHunterWoW_Dictionary_ES_MX["válido"] = { word = "válido", translation = "c
 WordHunterWoW_Dictionary_ES_MX["válvula"] = { word = "válvula", translation = "valve", note = "related to valva, a hinged shell or flap" }
 WordHunterWoW_Dictionary_ES_MX["válvulas"] = { word = "válvulas", translation = "valves", note = "from Latin valva, one leaf of a folding door -- the same image as a valve swinging shut" }
 WordHunterWoW_Dictionary_ES_MX["vámonos"] = { word = "Vámonos", translation = "Let's go", note = "" }
-WordHunterWoW_Dictionary_ES_MX["vándalo"] = { word = "vándalo", translation = "Vandal", note = "context treats it as a modified machine name; literal vándalo means vandal" }
+WordHunterWoW_Dictionary_ES_MX["vándalo"] = { word = "vándalo", translation = "vandal", note = "context treats it as a modified machine name; literal vándalo means vandal" }
 WordHunterWoW_Dictionary_ES_MX["vándalos"] = { word = "Vándalos", translation = "Vandals", note = "the context presents Vándalos as a named group" }
 WordHunterWoW_Dictionary_ES_MX["vástago"] = { word = "vástago", translation = "offspring; spawn", note = "vástago can mean a plant shoot or a descendant; with Pa'ku it means spawn" }
 WordHunterWoW_Dictionary_ES_MX["vástagos"] = { word = "vástagos", translation = "offspring; scions, shoots", note = "a vástago is both a plant shoot and a descendant, the same image English keeps in scion" }
@@ -60471,7 +60471,7 @@ WordHunterWoW_Dictionary_ES_MX["zenn"] = { word = "Zenn", translation = "Zenn", 
 WordHunterWoW_Dictionary_ES_MX["zentimo"] = { word = "Zentimo", translation = "Zentimo", note = "" }
 WordHunterWoW_Dictionary_ES_MX["zeon"] = { word = "Zeon", translation = "Zeon", note = "" }
 WordHunterWoW_Dictionary_ES_MX["zepelines"] = { word = "zepelines", translation = "zeppelins", note = "plural of zepelin, after Count Zeppelin; the accent drops when -es is added" }
-WordHunterWoW_Dictionary_ES_MX["zepelín"] = { word = "zepelín", translation = "Zeppelin", note = "flying airship" }
+WordHunterWoW_Dictionary_ES_MX["zepelín"] = { word = "zepelín", translation = "zeppelin", note = "flying airship" }
 WordHunterWoW_Dictionary_ES_MX["zeph"] = { word = "Zeph", translation = "Zeph", note = "" }
 WordHunterWoW_Dictionary_ES_MX["zephyrus"] = { word = "Zephyrus", translation = "Zephyrus", note = "proper name; the context does not confirm an official English localization" }
 WordHunterWoW_Dictionary_ES_MX["zepik"] = { word = "Zepik", translation = "Zepik", note = "" }

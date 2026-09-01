@@ -1060,7 +1060,7 @@
 {"key": "cacería", "word": "Cacería", "translation": "Hunt", "note": "capitalized quest objective; cacería is the hunt itself, matches 'Hunt' quests in WoW"}
 {"key": "llevará", "word": "llevará", "translation": "will carry", "note": "future tense; 'will take' suggests movement, but literal 'will carry' (a passenger on the steed) is exact"}
 {"key": "orco", "word": "orco", "translation": "orc", "note": "official WoW race; no translation needed, proper noun"}
-{"key": "operación", "word": "operación", "translation": "Operation", "note": "capitalized; 'Operación Recombobulación' → 'Operation Recombobulation' in WoW"}
+{"key": "operación", "word": "operación", "translation": "operation", "note": "capitalized; 'Operación Recombobulación' → 'Operation Recombobulation' in WoW"}
 {"key": "pequeños", "word": "pequeños", "translation": "small", "note": "context clear: sprouting Sapling creatures; 'small' correct"}
 {"key": "pista", "word": "pista", "translation": "clue", "note": "pista = clue/hint/track; 'clue' fits quest objective"}
 {"key": "terminar", "word": "terminar", "translation": "finish", "note": "infinitive verb in quest title context; correct sense"}
@@ -2053,7 +2053,7 @@
 {"key": "resguardos", "word": "resguardos", "translation": "safeguards", "note": "shrine protections and measures"}
 {"key": "robaron", "word": "robaron", "translation": "they stole", "note": "trolls took everything from gnome"}
 {"key": "saca", "word": "saca", "translation": "eliminate", "note": "take out enemy; kill target"}
-{"key": "señores", "word": "señores", "translation": "Lords", "note": "Fallen Sky Lords; title"}
+{"key": "señores", "word": "señores", "translation": "lords", "note": "Fallen Sky Lords; title"}
 {"key": "sigan", "word": "sigan", "translation": "continue", "note": "can't let attacks continue"}
 {"key": "sueños", "word": "sueños", "translation": "dreams", "note": "fevered delirious visions"}
 {"key": "trozo", "word": "trozo", "translation": "piece", "note": "fragment of soul in creature"}
@@ -2337,7 +2337,7 @@
 {"key": "oyes", "word": "oyes", "translation": "hear", "note": "do you hear me"}
 {"key": "reciente", "word": "reciente", "translation": "recent", "note": "recent incident"}
 {"key": "sepan", "word": "sepan", "translation": "know", "note": "subjunctive; let them know"}
-{"key": "supervisor", "word": "supervisor", "translation": "Supervisor", "note": "NPC; Supervisor Saltsprocket"}
+{"key": "supervisor", "word": "supervisor", "translation": "supervisor", "note": "NPC; Supervisor Saltsprocket"}
 {"key": "todoh", "word": "todoh", "translation": "everythingz", "note": "troll dialect (all/everything)"}
 {"key": "tuyo", "word": "tuyo", "translation": "yours", "note": "your boomerang"}
 {"key": "acabe", "word": "acabe", "translation": "finished", "note": "they thought impregnable"}
@@ -2349,8 +2349,8 @@
 {"key": "cruel", "word": "cruel", "translation": "cruel", "note": "Korrak the Bloodrager"}
 {"key": "cuesta", "word": "cuesta", "translation": "costs", "note": "me cuesta = it costs me"}
 {"key": "deprisa", "word": "deprisa", "translation": "quickly", "note": "hurry"}
-{"key": "distracción", "word": "distracción", "translation": "Distraction", "note": "quest title/event"}
-{"key": "doncella", "word": "doncella", "translation": "Maiden", "note": "Maiden's Dagger ship"}
+{"key": "distracción", "word": "distracción", "translation": "distraction", "note": "quest title/event"}
+{"key": "doncella", "word": "doncella", "translation": "maiden", "note": "Maiden's Dagger ship"}
 {"key": "hiciste", "word": "hiciste", "translation": "you did", "note": "preterite; your actions"}
 {"key": "ideal", "word": "ideal", "translation": "ideal", "note": "death would be ideal"}
 {"key": "idioma", "word": "idioma", "translation": "language", "note": "speech of creatures"}
@@ -2400,7 +2400,7 @@
 {"key": "viva", "word": "viva", "translation": "burning bright", "note": "bonfire burn bright"}
 {"key": "abismo", "word": "abismo", "translation": "abyss", "note": "demonic abyss"}
 {"key": "ahn'qiraj", "word": "Ahn'Qiraj", "translation": "Ahn'Qiraj", "note": "insectoid empire"}
-{"key": "asentamiento", "word": "asentamiento", "translation": "Settlement", "note": "Amani Settlement"}
+{"key": "asentamiento", "word": "asentamiento", "translation": "settlement", "note": "Amani Settlement"}
 {"key": "corresponde", "word": "corresponde", "translation": "corresponds", "note": "it is fitting"}
 {"key": "depósito", "word": "depósito", "translation": "deposit", "note": "resource pool"}
 {"key": "particularmente", "word": "particularmente", "translation": "particularly", "note": "adverbial suffix -mente marks adverbs; the -mente ending turns adjectives into adverbs just as English -ly does"}
@@ -2795,7 +2795,7 @@
 {"key": "vendrá", "word": "vendrá", "translation": "will come", "note": "will arrive"}
 {"key": "aceite", "word": "aceite", "translation": "oil", "note": "lubricant"}
 {"key": "alerta", "word": "alerta", "translation": "alert", "note": "watchful"}
-{"key": "basta", "word": "basta", "translation": "Enough", "note": "stop"}
+{"key": "basta", "word": "basta", "translation": "enough", "note": "stop"}
 {"key": "cataclismo", "word": "Cataclismo", "translation": "Cataclysm", "note": "zone name"}
 {"key": "centinelas", "word": "centinelas", "translation": "sentinels", "note": "guards"}
 {"key": "curiosidad", "word": "curiosidad", "translation": "curiosity", "note": "desire to know"}
@@ -3367,7 +3367,7 @@
 {"key": "sabor", "word": "sabor", "translation": "flavor; taste; savor", "note": "taste or flavor; seeking cardamom plant for beer recipe innovation"}
 {"key": "sentencia", "word": "Sentencia", "translation": "Judgment; Sentience", "note": "proper location name; also means judgment or ruling in Spanish law"}
 {"key": "serían", "word": "serían", "translation": "they would be; they would", "note": "conditional form; giant crab legs would be perfect for the dish"}
-{"key": "sumo", "word": "sumo", "translation": "High; Supreme; Sumo", "note": "superlative adjective; Sumo Executor is a high-ranking Horde official"}
+{"key": "sumo", "word": "sumo", "translation": "high; supreme; sumo", "note": "superlative adjective; Sumo Executor is a high-ranking Horde official"}
 {"key": "terokk", "word": "Terokk", "translation": "Terokk", "note": "proper NPC name; no translation for arakkoa leader names"}
 {"key": "terráneo", "word": "terráneo", "translation": "earthen; of the earth; terrestrial", "note": "elemental seal from Gruul the Dragonkiller; earth-related magic"}
 {"key": "thalyssra", "word": "Thalyssra", "translation": "Thalyssra", "note": "proper NPC name (elf sorceress); no translation for character names"}
@@ -3560,8 +3560,8 @@
 {"key": "luces", "word": "luces", "translation": "lights", "note": "correct"}
 {"key": "magma", "word": "magma", "translation": "magma", "note": "cognate"}
 {"key": "minutos", "word": "minutos", "translation": "minutes", "note": "correct"}
-{"key": "misterios", "word": "misterios", "translation": "Mysteries", "note": "book title"}
-{"key": "olvido", "word": "olvido", "translation": "Oblivion", "note": "proper place: Pools of Oblivion"}
+{"key": "misterios", "word": "misterios", "translation": "mysteries", "note": "book title"}
+{"key": "olvido", "word": "olvido", "translation": "oblivion", "note": "proper place: Pools of Oblivion"}
 {"key": "parecido", "word": "parecido", "translation": "alike; similar", "note": "resembling"}
 {"key": "pensamientos", "word": "pensamientos", "translation": "thoughts", "note": "correct"}
 {"key": "pináculos", "word": "Pináculos", "translation": "Pinnacles", "note": "proper location"}
@@ -4115,7 +4115,7 @@
 {"key": "viajero", "word": "viajero", "translation": "traveler", "note": "one who journeys"}
 {"key": "vindicador", "word": "vindicador", "translation": "vindicator", "note": "one who defends"}
 {"key": "visitantes", "word": "visitantes", "translation": "visitors", "note": "those who call"}
-{"key": "zepelín", "word": "zepelín", "translation": "Zeppelin", "note": "flying airship"}
+{"key": "zepelín", "word": "zepelín", "translation": "zeppelin", "note": "flying airship"}
 {"key": "abominación", "word": "abominación", "translation": "abomination", "note": "something detestable"}
 {"key": "abrirse", "word": "abrirse", "translation": "open", "note": "make a path through"}
 {"key": "aguantar", "word": "aguantar", "translation": "endure", "note": "withstand or tolerate"}
@@ -4950,7 +4950,7 @@
 {"key": "inicial", "word": "inicial", "translation": "initial", "note": "at the beginning or first"}
 {"key": "inspeccionar", "word": "inspeccionar", "translation": "inspect", "note": "to examine carefully and critically"}
 {"key": "inútiles", "word": "inútiles", "translation": "useless", "note": "serving no purpose; worthless"}
-{"key": "it", "word": "it", "translation": "Item", "note": ""}
+{"key": "it", "word": "it", "translation": "item", "note": ""}
 {"key": "izquierda", "word": "izquierda", "translation": "left", "note": "direction opposite of right"}
 {"key": "larvas", "word": "larvas", "translation": "larvae", "note": "young insects before metamorphosis"}
 {"key": "lee", "word": "lee", "translation": "reads", "note": "se lee = reads/is written; what's inscribed, visible text"}
@@ -5425,7 +5425,7 @@
 {"key": "gorms", "word": "gorms", "translation": "gorms", "note": "plural noun; creatures producing amber"}
 {"key": "grilletes", "word": "grilletes", "translation": "shackles", "note": "plural noun; shackles/chains"}
 {"key": "habrían", "word": "habrían", "translation": "would have been", "note": "conditional perfect passive"}
-{"key": "hacienda", "word": "hacienda", "translation": "Manor", "note": "noun; large estate or location"}
+{"key": "hacienda", "word": "hacienda", "translation": "manor", "note": "noun; large estate or location"}
 {"key": "hermoso", "word": "hermoso", "translation": "beautiful", "note": "adjective; beautiful/handsome"}
 {"key": "huargo", "word": "huargo", "translation": "direwolf", "note": "noun; a dire wolf creature"}
 {"key": "humildad", "word": "humildad", "translation": "modesty", "note": "noun; humility/modesty"}
@@ -8645,7 +8645,7 @@
 {"key": "prefieren", "word": "prefieren", "translation": "they prefer", "note": "preferir shifts e to ie under stress: prefiero, prefieren, but preferimos keeps the e"}
 {"key": "preguntó", "word": "preguntó", "translation": "asked", "note": "preguntar is to ask a question; asking for a thing is pedir"}
 {"key": "prepare", "word": "prepare", "translation": "prepare; may prepare", "note": "present subjunctive after pedir que; prepare with an accent is the preterite I prepared"}
-{"key": "primavera", "word": "primavera", "translation": "Spring", "note": "from Latin prima vera, the first spring; the season only, never a coil or a water source"}
+{"key": "primavera", "word": "primavera", "translation": "spring", "note": "from Latin prima vera, the first spring; the season only, never a coil or a water source"}
 {"key": "problemilla", "word": "problemilla", "translation": "little problem", "note": "diminutive of problema, which stays masculine despite the -a: el problemilla"}
 {"key": "procesamiento", "word": "procesamiento", "translation": "processing", "note": "procesar means both to process and to prosecute, so this can also be an indictment"}
 {"key": "profanación", "word": "profanación", "translation": "desecration", "note": "from profanar, Latin pro fano, outside the temple -- the opposite of consecrated ground"}
@@ -9668,7 +9668,7 @@
 {"key": "zigurat", "word": "zigurat", "translation": "ziggurat", "note": "from Akkadian ziqqurratu, a stepped temple tower"}
 {"key": "abandonen", "word": "abandonen", "translation": "abandon; leave", "note": "present subjunctive of abandonar, obligatory after antes de que"}
 {"key": "abrasacielos", "word": "Abrasacielos", "translation": "Skyburner", "note": "abrasa (scorches) + cielos (skies); read literally, as a ship name in this quest"}
-{"key": "abrecaminos", "word": "abrecaminos", "translation": "Pathfinder", "note": "abre (opens) + caminos (roads); used as an NPC surname, Pathfinder in English"}
+{"key": "abrecaminos", "word": "abrecaminos", "translation": "pathfinder", "note": "abre (opens) + caminos (roads); used as an NPC surname, Pathfinder in English"}
 {"key": "absolución", "word": "absolución", "translation": "absolution", "note": "ab- (away) + solvere (to loosen), the root behind absolver and dissolve"}
 {"key": "aburrimiento", "word": "aburrimiento", "translation": "boredom", "note": "aburrir (to bore) + -miento, the suffix that turns a verb into a noun"}
 {"key": "acampado", "word": "acampado", "translation": "camped", "note": "past participle of acampar, built on campo, a field"}
@@ -15197,7 +15197,7 @@
 {"key": "sobrecargada", "word": "sobrecargada", "translation": "overloaded", "note": "sobre- means over and cargar means load, so sobrecargado is overloaded"}
 {"key": "sobrepasado", "word": "sobrepasado", "translation": "surpassed", "note": "sobrepasar = go beyond or surpass; -ado marks the past participle"}
 {"key": "solomon", "word": "Solomon", "translation": "Solomon", "note": ""}
-{"key": "sombrah", "word": "sombrah", "translation": "Shadow", "note": "Sombrah is the dialect spelling of sombras; Cazador de las Sombras is Shadow Hunter"}
+{"key": "sombrah", "word": "sombrah", "translation": "shadow", "note": "Sombrah is the dialect spelling of sombras; Cazador de las Sombras is Shadow Hunter"}
 {"key": "someterlos", "word": "someterlos", "translation": "subdue them", "note": "someterlos = someter (subdue or subject) + -los (them)"}
 {"key": "someterse", "word": "someterse", "translation": "undergo", "note": "someterse a una prueba = undergo a test; se marks the reflexive form"}
 {"key": "soplo", "word": "soplo", "translation": "breath", "note": "un soplo can be a breath or puff of air; it can also mean a hint"}
@@ -15875,7 +15875,7 @@
 {"key": "desechadas", "word": "desechadas", "translation": "discarded", "note": "past participle feminine plural: discarded things"}
 {"key": "desechado", "word": "desechado", "translation": "discarded", "note": "past participle masculine singular: discarded"}
 {"key": "desestabilizar", "word": "desestabilizar", "translation": "destabilize", "note": "desestabilizar = make unstable"}
-{"key": "desgarrador", "word": "desgarrador", "translation": "Ripper", "note": "as a title, desgarrador is the one who tears or rips"}
+{"key": "desgarrador", "word": "desgarrador", "translation": "ripper", "note": "as a title, desgarrador is the one who tears or rips"}
 {"key": "desgastadas", "word": "desgastadas", "translation": "worn", "note": "past participle feminine plural: worn-out scales"}
 {"key": "desgastados", "word": "desgastados", "translation": "worn", "note": "past participle masculine plural: worn-out or weathered people"}
 {"key": "designios", "word": "designios", "translation": "intentions", "note": "designios are intentions or plans, often with an ominous tone"}
@@ -16567,7 +16567,7 @@
 {"key": "old", "word": "OLD", "translation": "OLD", "note": ""}
 {"key": "olfatear", "word": "olfatear", "translation": "sniff", "note": "olfato (sense of smell) shares the olf- root; olfatear means test by smell"}
 {"key": "olores", "word": "olores", "translation": "smells", "note": "olor means a smell or odor; the plural ending -es follows the consonant"}
-{"key": "olvidemos", "word": "olvidemos", "translation": "Let's forget", "note": "first-person plural suggestion; olvidemos means let us forget"}
+{"key": "olvidemos", "word": "olvidemos", "translation": "let's forget", "note": "first-person plural suggestion; olvidemos means let us forget"}
 {"key": "om'bera", "word": "Om'bera", "translation": "Om'bera", "note": ""}
 {"key": "oniria", "word": "Oniria", "translation": "Oniria", "note": ""}
 {"key": "oomlot", "word": "Oomlot", "translation": "Oomlot", "note": ""}
@@ -19811,7 +19811,7 @@
 {"key": "barum", "word": "Barum", "translation": "Barum", "note": ""}
 {"key": "basten", "word": "basten", "translation": "enough", "note": "bastar = to be enough; basten is a plural or formal subjunctive/command form"}
 {"key": "bastillax", "word": "Bastillax", "translation": "Bastillax", "note": ""}
-{"key": "basto", "word": "basto", "translation": "Rugged", "note": "basto can mean coarse, but cuero basto is the WoW material Rugged Leather"}
+{"key": "basto", "word": "basto", "translation": "rugged", "note": "basto can mean coarse, but cuero basto is the WoW material Rugged Leather"}
 {"key": "bate", "word": "bate", "translation": "beats", "note": "batir alas = to beat or flap wings; bate is third-person present"}
 {"key": "bauer", "word": "Bauer", "translation": "Bauer", "note": ""}
 {"key": "bazillón", "word": "bazillón", "translation": "bazillion", "note": "informal exaggeration built on billion; it is not a precise number"}
@@ -21877,7 +21877,7 @@
 {"key": "resolvamos", "word": "resolvamos", "translation": "let's solve", "note": "1st-person plural subjunctive used for a proposed next step"}
 {"key": "resonará", "word": "resonará", "translation": "will resonate", "note": "future 3rd-person singular; resonar is sound with a continuing echo"}
 {"key": "respaldo", "word": "respaldo", "translation": "backing", "note": "respaldo means support in a figurative context; physical back is espalda"}
-{"key": "respeta", "word": "respeta", "translation": "Respect", "note": "tú imperative, identical in form to the 3rd-person present respecta"}
+{"key": "respeta", "word": "respeta", "translation": "respect", "note": "tú imperative, identical in form to the 3rd-person present respecta"}
 {"key": "respetada", "word": "respetada", "translation": "respected", "note": "feminine participle of respetar, agreeing with the family"}
 {"key": "respete", "word": "respete", "translation": "respects", "note": "subjunctive after estudiante que; it describes the kind of student not tolerated"}
 {"key": "respiraderos", "word": "respiraderos", "translation": "vents", "note": "from respirar (breathe); respiraderos are openings that let air pass"}
@@ -24992,7 +24992,7 @@
 {"key": "kram", "word": "Kram", "translation": "Kram", "note": ""}
 {"key": "krazek", "word": "Krazek", "translation": "Krazek", "note": ""}
 {"key": "krelnor", "word": "Krelnor", "translation": "Krelnor", "note": ""}
-{"key": "kris", "word": "kris", "translation": "Kris", "note": ""}
+{"key": "kris", "word": "kris", "translation": "kris", "note": ""}
 {"key": "kristof", "word": "Kristof", "translation": "Kristof", "note": ""}
 {"key": "kristoff", "word": "Kristoff", "translation": "Kristoff", "note": ""}
 {"key": "krokuun", "word": "Krokuun", "translation": "Krokuun", "note": ""}
@@ -25752,7 +25752,7 @@
 {"key": "pillaran", "word": "pillaran", "translation": "they caught", "note": "without an accent, -aran is imperfect subjunctive here: before they caught him"}
 {"key": "pillarlo", "word": "pillarlo", "translation": "catch him", "note": "pillar is colloquial for catch or get; -lo means him in this context"}
 {"key": "pilotaje", "word": "pilotaje", "translation": "piloting", "note": "pilotaje names the activity or skill of pilotar, to pilot"}
-{"key": "pilote", "word": "pilote", "translation": "Pile", "note": "pilote can mean a driven support or pile; here it appears in a name"}
+{"key": "pilote", "word": "pilote", "translation": "pile", "note": "pilote can mean a driven support or pile; here it appears in a name"}
 {"key": "pimientos", "word": "pimientos", "translation": "peppers", "note": "pimiento covers bell peppers and hot peppers; English chooses the context-specific type"}
 {"key": "pinceles", "word": "pinceles", "translation": "brushes", "note": "pincel normally means a paintbrush; the context is writing or painting tools"}
 {"key": "pinchar", "word": "pinchar", "translation": "poke", "note": "pinchar can mean prick, poke, or puncture; a spear makes poke the natural choice"}
@@ -47870,7 +47870,7 @@
 {"key": "abocados", "word": "abocados", "translation": "doomed", "note": "verse abocado a means being driven or headed toward something, often unwelcome"}
 {"key": "abogador", "word": "abogador", "translation": "lawyer", "note": "a playful coinage built from abogado, lawyer, with the agent ending -dor"}
 {"key": "aborrezca", "word": "aborrezca", "translation": "hate", "note": "the subjunctive form can mean may hate or that someone hate, depending on its clause"}
-{"key": "abrah", "word": "abrah", "translation": "Abrah", "note": "proper name; the context does not confirm that it refers to Abraham"}
+{"key": "abrah", "word": "abrah", "translation": "abrah", "note": "proper name; the context does not confirm that it refers to Abraham"}
 {"key": "abrumantes", "word": "abrumantes", "translation": "overwhelming", "note": "abrumar means overwhelm, and this adjective describes something oppressive or excessive"}
 {"key": "abrumen", "word": "abrumen", "translation": "overwhelm", "note": "subjunctive or command form of abrumar, to overwhelm"}
 {"key": "abría", "word": "abría", "translation": "opened", "note": "the imperfect describes the path opening before them as part of an ongoing scene"}
@@ -48748,7 +48748,7 @@
 {"key": "quiéneh", "word": "quiéneh", "translation": "who", "note": "dialect spelling of quiénes; final s is written as h"}
 {"key": "quémaloh", "word": "quémaloh", "translation": "burn them", "note": "dialect spelling of quémalos; final s is written as h"}
 {"key": "rahtari", "word": "Rahtari", "translation": "Rahtari", "note": ""}
-{"key": "ramah", "word": "ramah", "translation": "Ramah", "note": ""}
+{"key": "ramah", "word": "ramah", "translation": "ramah", "note": ""}
 {"key": "ranastanque", "word": "Ranastanque", "translation": "Frogpond", "note": "rana (frog) + estanque (pond), a coined place name"}
 {"key": "raptados", "word": "Raptados", "translation": "kidnapped", "note": "raptar means to kidnap; the participle is plural masculine here"}
 {"key": "rayquetbol", "word": "Rayquetbol", "translation": "racquetball", "note": "English spells it racquetball; Spanish rayquetbol follows the sound"}
@@ -48876,7 +48876,7 @@
 {"key": "sustentan", "word": "sustentan", "translation": "sustain", "note": "third-person plural present; the subject is what keeps the fields or people going"}
 {"key": "sustentar", "word": "sustentar", "translation": "sustain", "note": "the infinitive means keep something going or support it"}
 {"key": "sylvan", "word": "Sylvan", "translation": "Sylvan", "note": ""}
-{"key": "sófica", "word": "sófica", "translation": "Sophic", "note": "a game terminology adjective associated with wisdom; capitalization follows the item term"}
+{"key": "sófica", "word": "sófica", "translation": "sophic", "note": "a game terminology adjective associated with wisdom; capitalization follows the item term"}
 {"key": "talarlo", "word": "talarlo", "translation": "cut it down", "note": "talar + lo: cut down a masculine singular object such as a tree"}
 {"key": "tallatriza", "word": "Tallatriza", "translation": "Tallatriza", "note": "coined NPC name; the context does not confirm an official English replacement"}
 {"key": "tanquería", "word": "tanquería", "translation": "tank yard", "note": "the -ería ending denotes a place or facility, so this is not a tanker"}
@@ -52302,7 +52302,7 @@
 {"key": "vueltah", "word": "vueltah", "translation": "wandering around", "note": "-h represents final -s; dar vueltas = wander or loiter around"}
 {"key": "vuelveh", "word": "vuelveh", "translation": "return", "note": "-h represents final -s; volver = return or come back"}
 {"key": "vuélvete", "word": "vuélvete", "translation": "turn around", "note": "imperative of volverse; context can mean turn around or become"}
-{"key": "vándalo", "word": "vándalo", "translation": "Vandal", "note": "context treats it as a modified machine name; literal vándalo means vandal"}
+{"key": "vándalo", "word": "vándalo", "translation": "vandal", "note": "context treats it as a modified machine name; literal vándalo means vandal"}
 {"key": "vértice", "word": "Vértice", "translation": "Vertex", "note": "a geometric peak or point; capitalized here as part of a name"}
 {"key": "vínculoh", "word": "vínculoh", "translation": "bonds", "note": "eye-dialect -h represents final -s: vínculos = bonds or links"}
 {"key": "way", "word": "way", "translation": "way", "note": "english token; Spanish camino or manera can mean way"}
@@ -53753,7 +53753,7 @@
 {"key": "asfódelos", "word": "asfódelos", "translation": "asphodels", "note": "the plural -s refers to multiple asphodel flowers"}
 {"key": "asfóguelo", "word": "asfóguelo", "translation": "suffocate it", "note": "the command asfogue attaches the object pronoun -lo"}
 {"key": "asfóguelos", "word": "asfóguelos", "translation": "suffocate them", "note": "the command carries the plural object pronoun -los"}
-{"key": "asi", "word": "asi", "translation": "So", "note": "the context clearly uses así, so; this key is the unaccented form"}
+{"key": "asi", "word": "asi", "translation": "so", "note": "the context clearly uses así, so; this key is the unaccented form"}
 {"key": "asignaciones", "word": "asignaciones", "translation": "assignments", "note": "asignación is an assignment or task allocated to someone"}
 {"key": "asignamos", "word": "asignamos", "translation": "we assign", "note": "the -amos form can be present or preterite; context makes it present"}
 {"key": "asignaran", "word": "asignaran", "translation": "would assign", "note": "the unaccented imperfect subjunctive fits si tan solo, if only"}
