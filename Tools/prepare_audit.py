@@ -40,6 +40,9 @@ def main():
     ap.add_argument("--offset", type=int, default=0)
     ap.add_argument("--all", action="store_true",
                     help="re-audit every word, including ones already curated")
+    ap.add_argument("--by-count", action="store_true",
+                    help="order by how often the word appears rather than by "
+                         "how many dictionaries it serves")
     args = ap.parse_args()
 
     # Anything already audited, in either dictionary or in a wave still on disk.
@@ -85,8 +88,15 @@ def main():
     for key in skipped_ph:
         rows.pop(key, None)
 
-    ordered = sorted(rows,
-                     key=lambda k: (-len(locales_of[k]), -counts.get(k, 0), k))
+    # Shared words first by default: one reading counts for both dictionaries.
+    # Once the shared vocabulary is done that ordering starts to hurt, because a
+    # word one dictionary uses forty times sorts behind thousands of shared
+    # words used once. --by-count is for that tail.
+    if args.by_count:
+        ordered = sorted(rows, key=lambda k: (-counts.get(k, 0), k))
+    else:
+        ordered = sorted(rows,
+                         key=lambda k: (-len(locales_of[k]), -counts.get(k, 0), k))
     ordered = ordered[args.offset:args.offset + args.limit]
 
     indir = WORKDIR / "in"
