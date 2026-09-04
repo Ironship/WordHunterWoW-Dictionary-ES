@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_ES_ES = WordHunterWoW_Dictionary_ES_ES or {}
+;(function()
 WordHunterWoW_Dictionary_ES_ES["a"] = { word = "a", translation = "to; at", note = "preposition; a + el contracts to al" }
 WordHunterWoW_Dictionary_ES_ES["a'dal"] = { word = "A'dal", translation = "A'dal", note = "" }
 WordHunterWoW_Dictionary_ES_ES["a'htefactos"] = { word = "a'htefactos", translation = "artifacts", note = "the apostrophe and h are a troll-speech distortion of artefactos" }
@@ -19999,6 +20000,8 @@ WordHunterWoW_Dictionary_ES_ES["dehde"] = { word = "dehde", translation = "from;
 WordHunterWoW_Dictionary_ES_ES["dehgarra"] = { word = "dehgarra", translation = "tears", note = "stylized desgarra; the weight tears the seams" }
 WordHunterWoW_Dictionary_ES_ES["dehgracia"] = { word = "dehgracia", translation = "misfortune", note = "the dialect spelling hides desgracia behind h for s" }
 WordHunterWoW_Dictionary_ES_ES["dehhacen"] = { word = "dehhacen", translation = "undo", note = "stylized deshacen; des- reverses the action" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_ES_ES["dehhilachadoh"] = { word = "dehhilachadoh", translation = "frayed", note = "stylized plural deshilachados with the final s rendered as h" }
 WordHunterWoW_Dictionary_ES_ES["dehhilachamiento"] = { word = "dehhilachamiento", translation = "fraying", note = "the suffix -miento forms an action noun" }
 WordHunterWoW_Dictionary_ES_ES["dehlizarse"] = { word = "dehlizarse", translation = "slide", note = "stylized deslizarse; the reflexive form describes something sliding" }
@@ -39999,6 +40002,8 @@ WordHunterWoW_Dictionary_ES_ES["inseparables"] = { word = "inseparables", transl
 WordHunterWoW_Dictionary_ES_ES["inserción"] = { word = "Inserción", translation = "insertion", note = "insertar (insert) + -ción, the noun ending for an action" }
 WordHunterWoW_Dictionary_ES_ES["inserta"] = { word = "Inserta", translation = "Insert", note = "tú imperative of insertar: insert" }
 WordHunterWoW_Dictionary_ES_ES["insertado"] = { word = "insertado", translation = "inserted", note = "insertar = insert; -ado is the masculine singular past participle" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_ES_ES["insertar"] = { word = "insertar", translation = "insert", note = "insertar is a direct cognate of English insert" }
 WordHunterWoW_Dictionary_ES_ES["insertarla"] = { word = "insertarla", translation = "insert it", note = "the attached -la refers to a feminine machine or component" }
 WordHunterWoW_Dictionary_ES_ES["insertarlo"] = { word = "insertarlo", translation = "insert it", note = "the attached -lo refers to a masculine item such as a disk or gem" }
@@ -59999,6 +60004,8 @@ WordHunterWoW_Dictionary_ES_ES["reciclarlos"] = { word = "reciclarlos", translat
 WordHunterWoW_Dictionary_ES_ES["reciclas"] = { word = "reciclas", translation = "you recycle", note = "the -as ending marks the second-person singular present" }
 WordHunterWoW_Dictionary_ES_ES["recien"] = { word = "recien", translation = "newly", note = "standard spelling is usually recién with an accent before a participle" }
 WordHunterWoW_Dictionary_ES_ES["reciente"] = { word = "reciente", translation = "recent", note = "recent incident" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_ES_ES["recientemente"] = { word = "recientemente", translation = "recently; lately", note = "adverb meaning recently or of late; recientemente han surgido = have recently emerged" }
 WordHunterWoW_Dictionary_ES_ES["recientes"] = { word = "recientes", translation = "recent", note = "recent arrivals" }
 WordHunterWoW_Dictionary_ES_ES["reciento"] = { word = "Reciento", translation = "Recinto", note = "proper name; enclosure/dungeon" }
@@ -76610,3 +76617,4 @@ WordHunterWoW_Dictionary_ES_ES["útil"] = { word = "útil", translation = "usefu
 WordHunterWoW_Dictionary_ES_ES["útile"] = { word = "útile", translation = "useful", note = "plural útiles loses final -s in the dialect spelling; English useful is unchanged" }
 WordHunterWoW_Dictionary_ES_ES["útileh"] = { word = "útileh", translation = "useful", note = "speech quirk replaces final s with h; útiles is the plural of útil" }
 WordHunterWoW_Dictionary_ES_ES["útiles"] = { word = "útiles", translation = "useful", note = "helpful or serving a purpose" }
+end)()

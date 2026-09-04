@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_ES_MX = WordHunterWoW_Dictionary_ES_MX or {}
+;(function()
 WordHunterWoW_Dictionary_ES_MX["a"] = { word = "a", translation = "to; at", note = "preposition; a + el contracts to al" }
 WordHunterWoW_Dictionary_ES_MX["a'dal"] = { word = "A'dal", translation = "A'dal", note = "" }
 WordHunterWoW_Dictionary_ES_MX["a'htefactos"] = { word = "a'htefactos", translation = "artifacts", note = "the apostrophe and h are a troll-speech distortion of artefactos" }
@@ -19999,6 +20000,8 @@ WordHunterWoW_Dictionary_ES_MX["deprimidos"] = { word = "deprimidos", translatio
 WordHunterWoW_Dictionary_ES_MX["deprimo"] = { word = "deprimo", translation = "I get depressed", note = "me deprimo = I become melancholy; without hunting, the cook desponds" }
 WordHunterWoW_Dictionary_ES_MX["deprimí"] = { word = "deprimí", translation = "I got depressed", note = "preterite first person of deprimirse; the reflexive form means I became depressed" }
 WordHunterWoW_Dictionary_ES_MX["deprisa"] = { word = "deprisa", translation = "quickly", note = "hurry" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_ES_MX["depuración"] = { word = "Depuración", translation = "purification", note = "depuración means purification or clean-up; English depuration is a rare technical term" }
 WordHunterWoW_Dictionary_ES_MX["depurado"] = { word = "depurado", translation = "refined; purified", note = "polvo depurado = refined powder from magical processing" }
 WordHunterWoW_Dictionary_ES_MX["depuran"] = { word = "depuran", translation = "are cleansed", note = "depurar can mean cleanse or refine; the veins are the grammatical subject" }
@@ -39999,6 +40002,8 @@ WordHunterWoW_Dictionary_ES_MX["iros"] = { word = "iros", translation = "leave",
 WordHunterWoW_Dictionary_ES_MX["irracional"] = { word = "irracional", translation = "irrational", note = "irracional is a transparent cognate, but means unreasonable rather than non-rational in this sentence" }
 WordHunterWoW_Dictionary_ES_MX["irracionales"] = { word = "irracionales", translation = "irrational", note = "Spanish plural; English adjectives stay unchanged for plural nouns" }
 WordHunterWoW_Dictionary_ES_MX["irradia"] = { word = "irradia", translation = "radiates", note = "from radio, a ray or spoke -- the same root behind radio, radar and radius" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_ES_MX["irradiada"] = { word = "irradiada", translation = "irradiated", note = "" }
 WordHunterWoW_Dictionary_ES_MX["irradiado"] = { word = "irradiado", translation = "irradiated", note = "irradiar = radiate; -ado forms the past participle or adjective" }
 WordHunterWoW_Dictionary_ES_MX["irradiador"] = { word = "irradiador", translation = "irradiator", note = "irradiar + -dor; the suffix names something that performs the action" }
@@ -59999,6 +60004,8 @@ WordHunterWoW_Dictionary_ES_MX["rendel"] = { word = "Rendel", translation = "Ren
 WordHunterWoW_Dictionary_ES_MX["render"] = { word = "Render", translation = "Render", note = "" }
 WordHunterWoW_Dictionary_ES_MX["rendición"] = { word = "rendición", translation = "surrender", note = "from rendirse; rendir also means to yield -- rendir cuentas = to render an account" }
 WordHunterWoW_Dictionary_ES_MX["rendido"] = { word = "rendido", translation = "rendered", note = "rendir un servicio means render or do a service; rendirse means surrender" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_ES_MX["rendidos"] = { word = "Rendidos", translation = "Surrendered", note = "rendirse means to surrender; rendidos is masculine plural" }
 WordHunterWoW_Dictionary_ES_MX["rendija"] = { word = "rendija", translation = "slit", note = "a rendija is a narrow opening, often in armor, a wall, or ruins" }
 WordHunterWoW_Dictionary_ES_MX["rendijas"] = { word = "rendijas", translation = "slits", note = "plural of rendija; the -s marks multiple narrow openings" }
@@ -74496,3 +74503,4 @@ WordHunterWoW_Dictionary_ES_MX["útil"] = { word = "útil", translation = "usefu
 WordHunterWoW_Dictionary_ES_MX["útile"] = { word = "útile", translation = "useful", note = "plural útiles loses final -s in the dialect spelling; English useful is unchanged" }
 WordHunterWoW_Dictionary_ES_MX["útileh"] = { word = "útileh", translation = "useful", note = "speech quirk replaces final s with h; útiles is the plural of útil" }
 WordHunterWoW_Dictionary_ES_MX["útiles"] = { word = "útiles", translation = "useful", note = "helpful or serving a purpose" }
+end)()
