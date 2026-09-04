@@ -2,7 +2,7 @@
 
 Learning Spanish from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made Spanish→English glossary built from real quest text, so the words you click already have a meaning waiting. **58,211 words for European Spanish and 56,081 for Latin American.**
+This is a ready-made Spanish→English glossary built from real quest text, so the words you click already have a meaning waiting. **76,611 words for European Spanish and 74,497 for Latin American.**
 
 Both variants are included and the right one is picked automatically.
 
@@ -29,7 +29,7 @@ There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionar
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
-Retail 12.1. All rights reserved.
+Retail 12.1 and Classic Era. GPL v3 — see `LICENSE`.
 
 ## Rebuild (maintainers)
 
