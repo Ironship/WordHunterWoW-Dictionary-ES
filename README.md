@@ -2,7 +2,7 @@
 
 Learning Spanish from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made Spanish→English glossary built from real quest text, so the words you click already have a meaning waiting. **76,611 words for European Spanish and 74,497 for Latin American.**
+This is a ready-made Spanish→English glossary built from real quest text, so the words you click already have a meaning waiting. **75,360 words for European Spanish and 74,934 for Latin American.**
 
 Both variants are included and the right one is picked automatically.
 
