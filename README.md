@@ -8,7 +8,7 @@ Both variants are included and the right one is picked automatically.
 
 ## Install
 
-Unzip into `_retail_\Interface\AddOns\` and restart the game.
+Unzip into the `Interface\AddOns\` folder of your game (`_retail_`, `_classic_era_` or `_forever_`) and restart the game.
 
 You need:
 
@@ -31,7 +31,7 @@ There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionar
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
-Retail 12.1 and Classic Era. GPL v3 — see `LICENSE`.
+Retail 12.1, Classic Era and WoW Forever. GPL v3 — see `LICENSE`.
 
 ## Rebuild (maintainers)
 
