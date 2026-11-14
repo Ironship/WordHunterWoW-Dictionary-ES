@@ -2,7 +2,7 @@
 
 Learning Spanish from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made Spanish→English glossary built from real quest text, so the words you click already have a meaning waiting. **76,032 words for European Spanish and 75,386 for Latin American.**
+This is a ready-made Spanish→English glossary built from real quest text, so the words you click already have a meaning waiting. **77,845 words for European Spanish and 76,911 for Latin American.**
 
 Both variants are included and the right one is picked automatically.
 
@@ -24,6 +24,8 @@ This dictionary is read only when its language is the one you are learning, so h
 These translations are machine-made. They will get you through a quest, but expect the odd word to be off — a name translated literally, or the wrong sense of a word that has several. Fix any of them as you go; your edit sticks.
 
 **672 words for European Spanish and 452 for Latin American were added on 2026-11-14** (411 and 304 ordinary words and 261 and 148 names) from a second pass over the Spanish quest text in MultiLanguage, which found words the dictionary did not have yet. Only single words were taken; no sentence is shipped. These glosses are machine translations and have not been read through by hand, and the names are kept as they are.
+
+**1,813 more words for European Spanish and 1,525 for Latin American were added on 2026-11-14** from the item, spell and NPC descriptions in MultiLanguage (ordinary words such as terms of equipment and spell effects; the names of items, spells and NPCs were not taken). These glosses are machine translations too and have not been read through by hand.
 
 The [German pack](https://github.com/Ironship/WordHunterWoW-Dictionary-DE) is the one that has been checked by hand, word by word.
 

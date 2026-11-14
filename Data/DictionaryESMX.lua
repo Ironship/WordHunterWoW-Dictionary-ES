@@ -75395,3 +75395,1530 @@ WordHunterWoW_Dictionary_ES_MX["ícono"] = { word = "ícono", translation = "ico
 WordHunterWoW_Dictionary_ES_MX["íconos"] = { word = "íconos", translation = "icons", note = "" }
 WordHunterWoW_Dictionary_ES_MX["írguete"] = { word = "írguete", translation = "stand up", note = "" }
 end)()
+;(function()
+WordHunterWoW_Dictionary_ES_MX["a-med"] = { word = "a-Med", translation = "a-Med", note = "" }
+WordHunterWoW_Dictionary_ES_MX["abalanzas"] = { word = "abalanzas", translation = "pounces", note = "" }
+WordHunterWoW_Dictionary_ES_MX["abeto"] = { word = "abeto", translation = "fir", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aborigen"] = { word = "aborigen", translation = "aboriginal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aborígenes"] = { word = "aborígenes", translation = "aborigines", note = "" }
+WordHunterWoW_Dictionary_ES_MX["absorbes"] = { word = "absorbes", translation = "you absorb", note = "" }
+WordHunterWoW_Dictionary_ES_MX["abultado"] = { word = "abultado", translation = "bulky", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acatadas"] = { word = "acatadas", translation = "obeyed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acechaalba"] = { word = "acechaalba", translation = "dawnstalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acechadragón"] = { word = "acechadragón", translation = "dragonstalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acechagigantes"] = { word = "acechagigantes", translation = "giantstalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acechas"] = { word = "acechas", translation = "you stalk", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acerador"] = { word = "acerador", translation = "steelworker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acerovigor"] = { word = "acerovigor", translation = "steelvigor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acolchada"] = { word = "acolchada", translation = "padded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acolchadas"] = { word = "acolchadas", translation = "padded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acolchado"] = { word = "acolchado", translation = "padded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acolchados"] = { word = "acolchados", translation = "padded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acometas"] = { word = "acometas", translation = "rush", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acribillan"] = { word = "acribillan", translation = "riddled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acrobático"] = { word = "acrobático", translation = "acrobatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["activ"] = { word = "activ", translation = "active", note = "" }
+WordHunterWoW_Dictionary_ES_MX["activaciones"] = { word = "activaciones", translation = "activations", note = "" }
+WordHunterWoW_Dictionary_ES_MX["activaruna"] = { word = "activaruna", translation = "activate one", note = "" }
+WordHunterWoW_Dictionary_ES_MX["activarás"] = { word = "activarás", translation = "you will activate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acuadinámica"] = { word = "acuadinámica", translation = "aquadynamics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acuadinámico"] = { word = "acuadinámico", translation = "aquadynamic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["acumulaciones"] = { word = "acumulaciones", translation = "accumulations", note = "" }
+WordHunterWoW_Dictionary_ES_MX["adamantina"] = { word = "adamantina", translation = "adamantine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aderezo"] = { word = "aderezo", translation = "dressing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["adiestración"] = { word = "adiestración", translation = "training", note = "" }
+WordHunterWoW_Dictionary_ES_MX["adivinatoria"] = { word = "adivinatoria", translation = "divination", note = "" }
+WordHunterWoW_Dictionary_ES_MX["adoptara"] = { word = "adoptara", translation = "will adopt", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aferrafuerte"] = { word = "aferrafuerte", translation = "hold on tight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aferramiento"] = { word = "aferramiento", translation = "clinging", note = "" }
+WordHunterWoW_Dictionary_ES_MX["agazapas"] = { word = "agazapas", translation = "crouch", note = "" }
+WordHunterWoW_Dictionary_ES_MX["agobio"] = { word = "agobio", translation = "burden", note = "" }
+WordHunterWoW_Dictionary_ES_MX["agostador"] = { word = "agostador", translation = "exhausting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["agostadora"] = { word = "agostadora", translation = "exhausting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["agostando"] = { word = "agostando", translation = "wasting away", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aguada"] = { word = "aguada", translation = "gouache", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aguafría"] = { word = "aguafría", translation = "aquacol", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aguamarina"] = { word = "aguamarina", translation = "aquamarine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aguasucia"] = { word = "aguasucia", translation = "dirty water", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aguerrida"] = { word = "aguerrida", translation = "brave", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aguzas"] = { word = "aguzas", translation = "sharpen", note = "" }
+WordHunterWoW_Dictionary_ES_MX["agüero"] = { word = "agüero", translation = "omen", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ahogantes"] = { word = "ahogantes", translation = "drowning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ahogará"] = { word = "ahogará", translation = "will drown", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ahogas"] = { word = "ahogas", translation = "you drown", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ahumado"] = { word = "ahumado", translation = "smoked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aislantes"] = { word = "aislantes", translation = "insulators", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ajustador"] = { word = "ajustador", translation = "adjuster", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ají"] = { word = "ají", translation = "chili", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alambre"] = { word = "alambre", translation = "wire", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alaorgullos"] = { word = "alaorgullos", translation = "pridewing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["albina"] = { word = "albina", translation = "albino", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alcachofa"] = { word = "alcachofa", translation = "artichoke", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alcanzada"] = { word = "alcanzada", translation = "reached", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alcanzal"] = { word = "alcanzal", translation = "reachable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alcaudociélago"] = { word = "alcaudociélago", translation = "artichoke", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alcohólica"] = { word = "alcohólica", translation = "alcoholic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alconil"] = { word = "alconil", translation = "alconyl", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aleatoriamente"] = { word = "aleatoriamente", translation = "randomly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aleatorizador"] = { word = "aleatorizador", translation = "randomizer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aletargante"] = { word = "aletargante", translation = "lethargic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alforjas"] = { word = "alforjas", translation = "saddlebags", note = "" }
+WordHunterWoW_Dictionary_ES_MX["algodón"] = { word = "algodón", translation = "cotton", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alimentarás"] = { word = "alimentarás", translation = "you will feed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alineada"] = { word = "alineada", translation = "aligned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["almablanca"] = { word = "almablanca", translation = "whitesoul", note = "" }
+WordHunterWoW_Dictionary_ES_MX["almacenarse"] = { word = "almacenarse", translation = "be stored", note = "" }
+WordHunterWoW_Dictionary_ES_MX["almádena"] = { word = "almádena", translation = "sledgehammer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alocado"] = { word = "alocado", translation = "crazy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alteramentes"] = { word = "alteramentes", translation = "alteriously", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alternador"] = { word = "alternador", translation = "alternator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alternar"] = { word = "alternar", translation = "alternate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["alunado"] = { word = "alunado", translation = "mooned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amago"] = { word = "amago", translation = "feint", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amarrahuesos"] = { word = "amarrahuesos", translation = "bone binder", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amito"] = { word = "amito", translation = "amice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amoplador"] = { word = "amoplador", translation = "ampuller", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amortigua"] = { word = "amortigua", translation = "cushions", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amortiguado"] = { word = "amortiguado", translation = "cushioned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amortiguando"] = { word = "amortiguando", translation = "cushioning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amplificado"] = { word = "amplificado", translation = "amplified", note = "" }
+WordHunterWoW_Dictionary_ES_MX["amplificadora"] = { word = "amplificadora", translation = "amplifier", note = "" }
+WordHunterWoW_Dictionary_ES_MX["anguladas"] = { word = "anguladas", translation = "angled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["anilladas"] = { word = "anilladas", translation = "ringed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["anim"] = { word = "anim", translation = "anime", note = "" }
+WordHunterWoW_Dictionary_ES_MX["animación"] = { word = "animación", translation = "animation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["anodino"] = { word = "anodino", translation = "anodyne", note = "" }
+WordHunterWoW_Dictionary_ES_MX["antagonista"] = { word = "antagonista", translation = "antagonist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["antimanipulación"] = { word = "antimanipulación", translation = "anti-tamper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["antimaná"] = { word = "antimaná", translation = "antimana", note = "" }
+WordHunterWoW_Dictionary_ES_MX["antiácido"] = { word = "antiácido", translation = "antacid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["antípoda"] = { word = "antípoda", translation = "antipodal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["anulainterferencias"] = { word = "anulainterferencias", translation = "cancels interference", note = "" }
+WordHunterWoW_Dictionary_ES_MX["apabullantes"] = { word = "apabullantes", translation = "overwhelming", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aparador"] = { word = "aparador", translation = "sideboard", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aparicionador"] = { word = "aparicionador", translation = "apparitor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aperitiva"] = { word = "aperitiva", translation = "appetizer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["apisonadoras"] = { word = "apisonadoras", translation = "road rollers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aplacachoques"] = { word = "aplacachoques", translation = "shock absorbers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aplastaalmas"] = { word = "aplastaalmas", translation = "soulcrusher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aplastatoria"] = { word = "aplastatoria", translation = "crushing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aplicarte"] = { word = "aplicarte", translation = "apply yourself", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aplicarán"] = { word = "aplicarán", translation = "will apply", note = "" }
+WordHunterWoW_Dictionary_ES_MX["apliquen"] = { word = "apliquen", translation = "apply", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aportándole"] = { word = "aportándole", translation = "contributing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["apuradas"] = { word = "apuradas", translation = "in a hurry", note = "" }
+WordHunterWoW_Dictionary_ES_MX["apócrifa"] = { word = "apócrifa", translation = "apocryphal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arañado"] = { word = "arañado", translation = "scratched", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcabuz"] = { word = "arcabuz", translation = "arquebus", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcadano"] = { word = "arcadano", translation = "arcade", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcanfilamento"] = { word = "arcanfilamento", translation = "arcanfilament", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcanofilamento"] = { word = "arcanofilamento", translation = "arcanofilament", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcanotrituradora"] = { word = "arcanotrituradora", translation = "arcane crusher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arce"] = { word = "arce", translation = "maple", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcoíris"] = { word = "arcoíris", translation = "rainbow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcádica"] = { word = "arcádica", translation = "arcadian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arcádico"] = { word = "arcádico", translation = "arcadian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ardes"] = { word = "ardes", translation = "you burn", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ardoroso"] = { word = "ardoroso", translation = "burning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["argollas"] = { word = "argollas", translation = "hoops", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arlequín"] = { word = "arlequín", translation = "harlequin", note = "" }
+WordHunterWoW_Dictionary_ES_MX["armadósea"] = { word = "armadósea", translation = "armored", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arqueada"] = { word = "arqueada", translation = "arched", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arqueado"] = { word = "arqueado", translation = "arcuate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arrasamiento"] = { word = "arrasamiento", translation = "leveling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arrodíllense"] = { word = "arrodíllense", translation = "kneel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arrojadizo"] = { word = "arrojadizo", translation = "throwable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arrugados"] = { word = "arrugados", translation = "wrinkled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["arrullo"] = { word = "arrullo", translation = "coo", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asertividad"] = { word = "asertividad", translation = "assertiveness", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asestan"] = { word = "asestan", translation = "they attack", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asestará"] = { word = "asestará", translation = "will attack", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asestas"] = { word = "asestas", translation = "you throw", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asesten"] = { word = "asesten", translation = "attack", note = "" }
+WordHunterWoW_Dictionary_ES_MX["astil"] = { word = "astil", translation = "shaft", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asumen"] = { word = "asumen", translation = "assume", note = "" }
+WordHunterWoW_Dictionary_ES_MX["asumes"] = { word = "asumes", translation = "you assume", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atacándote"] = { word = "atacándote", translation = "attacking you", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atemorizar"] = { word = "atemorizar", translation = "frighten", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aterracrines"] = { word = "aterracrines", translation = "terrines", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aterraespadas"] = { word = "aterraespadas", translation = "swordslayers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aterramagos"] = { word = "aterramagos", translation = "magicians", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aterrorizador"] = { word = "aterrorizador", translation = "terrifying", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aterrorizadores"] = { word = "aterrorizadores", translation = "terrifying", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atonta"] = { word = "atonta", translation = "stupefied", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atontado"] = { word = "atontado", translation = "stunned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atontamiento"] = { word = "atontamiento", translation = "daze", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atontar"] = { word = "atontar", translation = "stun", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atracadora"] = { word = "atracadora", translation = "robber", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atraepeces"] = { word = "atraepeces", translation = "fish attractor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atrapadora"] = { word = "atrapadora", translation = "catcher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atrapantes"] = { word = "atrapantes", translation = "catchers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["atrófico"] = { word = "atrófico", translation = "atrophic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdes"] = { word = "aturdes", translation = "you stun", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdidor"] = { word = "aturdidor", translation = "stunner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdimiento"] = { word = "aturdimiento", translation = "daze", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdirse"] = { word = "aturdirse", translation = "stun", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdiéndole"] = { word = "aturdiéndole", translation = "stunning him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdiéndolo"] = { word = "aturdiéndolo", translation = "stunning him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aturdiéndolos"] = { word = "aturdiéndolos", translation = "stunning them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aullaviento"] = { word = "aullaviento", translation = "howlingwind", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aullavientos"] = { word = "aullavientos", translation = "howling winds", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aumentados"] = { word = "aumentados", translation = "increased", note = "" }
+WordHunterWoW_Dictionary_ES_MX["auspiciosa"] = { word = "auspiciosa", translation = "auspicious", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autobombo"] = { word = "autobombo", translation = "car bomb", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autocierre"] = { word = "autocierre", translation = "self-closing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autodestruirá"] = { word = "autodestruirá", translation = "will self-destruct", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autodestruyen"] = { word = "autodestruyen", translation = "self-destruct", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autodrenaje"] = { word = "autodrenaje", translation = "self drain", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autoforzarse"] = { word = "autoforzarse", translation = "force yourself", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autografiada"] = { word = "autografiada", translation = "autographed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autoinflexión"] = { word = "autoinflexión", translation = "self inflection", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autoinflige"] = { word = "autoinflige", translation = "self-inflicted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["automuerte"] = { word = "automuerte", translation = "self-death", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autorreciclaje"] = { word = "autorreciclaje", translation = "self-recycling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autosanación"] = { word = "autosanación", translation = "self healing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autosuficiente"] = { word = "autosuficiente", translation = "self-sufficient", note = "" }
+WordHunterWoW_Dictionary_ES_MX["autosuficientes"] = { word = "autosuficientes", translation = "self-sufficient", note = "" }
+WordHunterWoW_Dictionary_ES_MX["azurita"] = { word = "azurita", translation = "azurite", note = "" }
+WordHunterWoW_Dictionary_ES_MX["añadan"] = { word = "añadan", translation = "add", note = "" }
+WordHunterWoW_Dictionary_ES_MX["aúreo"] = { word = "aúreo", translation = "golden", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ba'so"] = { word = "ba'so", translation = "ba'so", note = "" }
+WordHunterWoW_Dictionary_ES_MX["babeante"] = { word = "babeante", translation = "drooling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bacalaos"] = { word = "bacalaos", translation = "cod", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bancario"] = { word = "bancario", translation = "banking", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bandolero"] = { word = "bandolero", translation = "bandit", note = "" }
+WordHunterWoW_Dictionary_ES_MX["banquera"] = { word = "banquera", translation = "banker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["barbárica"] = { word = "barbárica", translation = "barbaric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["batallador"] = { word = "batallador", translation = "fighter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["benefician"] = { word = "benefician", translation = "benefit", note = "" }
+WordHunterWoW_Dictionary_ES_MX["besollama"] = { word = "besollama", translation = "kisscall", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bife"] = { word = "bife", translation = "steak", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bifurcado"] = { word = "bifurcado", translation = "forked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["binario"] = { word = "binario", translation = "binary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["blasonadas"] = { word = "blasonadas", translation = "emblazoned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["blasonados"] = { word = "blasonados", translation = "emblazoned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["block"] = { word = "block", translation = "blocks", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bloqueador"] = { word = "bloqueador", translation = "blocker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bloqueará"] = { word = "bloqueará", translation = "will block", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bloqueas"] = { word = "bloqueas", translation = "you block", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bloquees"] = { word = "bloquees", translation = "blocks", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bocanegra"] = { word = "bocanegra", translation = "blackmouth", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bocarda"] = { word = "bocarda", translation = "mouthful", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bocardas"] = { word = "bocardas", translation = "mouthfuls", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bollo"] = { word = "bollo", translation = "bun", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bombachos"] = { word = "bombachos", translation = "bloomers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["boquilargo"] = { word = "boquilargo", translation = "long mouth", note = "" }
+WordHunterWoW_Dictionary_ES_MX["borroneadas"] = { word = "borroneadas", translation = "blurred", note = "" }
+WordHunterWoW_Dictionary_ES_MX["borroneados"] = { word = "borroneados", translation = "blurred", note = "" }
+WordHunterWoW_Dictionary_ES_MX["botarga"] = { word = "botarga", translation = "motley", note = "" }
+WordHunterWoW_Dictionary_ES_MX["botitas"] = { word = "botitas", translation = "little boots", note = "" }
+WordHunterWoW_Dictionary_ES_MX["botos"] = { word = "botos", translation = "boots", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bramante"] = { word = "bramante", translation = "twine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brigandina"] = { word = "brigandina", translation = "brigandine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brillantín"] = { word = "brillantín", translation = "glitter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brocada"] = { word = "brocada", translation = "brocade", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brocadas"] = { word = "brocadas", translation = "brocades", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brocado"] = { word = "brocado", translation = "brocade", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brocados"] = { word = "brocados", translation = "brocades", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brotasangre"] = { word = "brotasangre", translation = "bloodspring", note = "" }
+WordHunterWoW_Dictionary_ES_MX["brotaserpiente"] = { word = "brotaserpiente", translation = "snakesprout", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bruñida"] = { word = "bruñida", translation = "burnished", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bruñidas"] = { word = "bruñidas", translation = "burnished", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bruñidos"] = { word = "bruñidos", translation = "burnished", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bucal"] = { word = "bucal", translation = "oral", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bucales"] = { word = "bucales", translation = "oral", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bujía"] = { word = "bujía", translation = "spark plug", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bumerán"] = { word = "bumerán", translation = "boomerang", note = "" }
+WordHunterWoW_Dictionary_ES_MX["buscacorazones"] = { word = "buscacorazones", translation = "heartseeker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["buscapresas"] = { word = "buscapresas", translation = "prey hunter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["buscaráfagas"] = { word = "buscaráfagas", translation = "will look for phages", note = "" }
+WordHunterWoW_Dictionary_ES_MX["buscasangre"] = { word = "buscasangre", translation = "bloodseeker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bárbara"] = { word = "bárbara", translation = "barbara", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bébeme"] = { word = "bébeme", translation = "drink me", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bífida"] = { word = "bífida", translation = "bifida", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bílica"] = { word = "bílica", translation = "bilic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bílicas"] = { word = "bílicas", translation = "bilic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["bílico"] = { word = "bílico", translation = "bilic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cabalista"] = { word = "cabalista", translation = "cabalist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caballa"] = { word = "caballa", translation = "mackerel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caballeresco"] = { word = "caballeresco", translation = "chivalrous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cabelludo"] = { word = "cabelludo", translation = "scalp", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cacahuetes"] = { word = "cacahuetes", translation = "peanuts", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cacareador"] = { word = "cacareador", translation = "cackler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cachiporrazo"] = { word = "cachiporrazo", translation = "blow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caché"] = { word = "caché", translation = "cache", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cacófonos"] = { word = "cacófonos", translation = "cacophones", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cadavérico"] = { word = "cadavérico", translation = "cadaverous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cadenade"] = { word = "cadenade", translation = "chain", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cadera"] = { word = "cadera", translation = "hip", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cajasesos"] = { word = "cajasesos", translation = "boxes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["calador"] = { word = "calador", translation = "jigsaw", note = "" }
+WordHunterWoW_Dictionary_ES_MX["calcinita"] = { word = "calcinita", translation = "calcinite", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caleidoscópica"] = { word = "caleidoscópica", translation = "kaleidoscopic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["calibrada"] = { word = "calibrada", translation = "calibrated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["callosa"] = { word = "callosa", translation = "callose", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caloría"] = { word = "caloría", translation = "calorie", note = "" }
+WordHunterWoW_Dictionary_ES_MX["calurosas"] = { word = "calurosas", translation = "hot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["camaleón"] = { word = "camaleón", translation = "chameleon", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caminabestias"] = { word = "caminabestias", translation = "beastwalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caminacriptas"] = { word = "caminacriptas", translation = "cryptwalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caminaescarcha"] = { word = "caminaescarcha", translation = "frostwalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caminafuego"] = { word = "caminafuego", translation = "firewalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["camionero"] = { word = "camionero", translation = "trucker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["campanita"] = { word = "campanita", translation = "little bell", note = "" }
+WordHunterWoW_Dictionary_ES_MX["campestres"] = { word = "campestres", translation = "country", note = "" }
+WordHunterWoW_Dictionary_ES_MX["camuflado"] = { word = "camuflado", translation = "camouflaged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canalices"] = { word = "canalices", translation = "channel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canalizada"] = { word = "canalizada", translation = "channeled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canalé"] = { word = "canalé", translation = "ribbed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canalón"] = { word = "canalón", translation = "gutter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cancelan"] = { word = "cancelan", translation = "they cancel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cancele"] = { word = "cancele", translation = "cancel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canela"] = { word = "canela", translation = "cinnamon", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canica"] = { word = "canica", translation = "marble", note = "" }
+WordHunterWoW_Dictionary_ES_MX["canjearlo"] = { word = "canjearlo", translation = "redeem it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cantoazur"] = { word = "cantoazur", translation = "bluesong", note = "" }
+WordHunterWoW_Dictionary_ES_MX["capacete"] = { word = "capacete", translation = "cape", note = "" }
+WordHunterWoW_Dictionary_ES_MX["carbones"] = { word = "carbones", translation = "coals", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cardiaca"] = { word = "cardiaca", translation = "cardiac", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cardopresto"] = { word = "cardopresto", translation = "thistle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["carisma"] = { word = "carisma", translation = "charisma", note = "" }
+WordHunterWoW_Dictionary_ES_MX["carismática"] = { word = "carismática", translation = "charismatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["carneliano"] = { word = "carneliano", translation = "carnelian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["carnicera"] = { word = "carnicera", translation = "butcher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cartero"] = { word = "cartero", translation = "mailman", note = "" }
+WordHunterWoW_Dictionary_ES_MX["casarte"] = { word = "casarte", translation = "get married", note = "" }
+WordHunterWoW_Dictionary_ES_MX["caseras"] = { word = "caseras", translation = "homemade", note = "" }
+WordHunterWoW_Dictionary_ES_MX["casilla"] = { word = "casilla", translation = "box", note = "" }
+WordHunterWoW_Dictionary_ES_MX["casillas"] = { word = "casillas", translation = "boxes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["castaño"] = { word = "castaño", translation = "chestnut", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cataclísmicos"] = { word = "cataclísmicos", translation = "cataclysmic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["causados"] = { word = "causados", translation = "caused", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cauterizantes"] = { word = "cauterizantes", translation = "cauterizing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cautivada"] = { word = "cautivada", translation = "captivated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cavatumbas"] = { word = "cavatumbas", translation = "grave digger", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cazabestias"] = { word = "cazabestias", translation = "beasthunter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cazador-asesino"] = { word = "cazador-asesino", translation = "hunter-killer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cañonera"] = { word = "cañonera", translation = "gunboat", note = "" }
+WordHunterWoW_Dictionary_ES_MX["censura"] = { word = "censura", translation = "censorship", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cernícalo"] = { word = "cernícalo", translation = "kestrel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cestero"] = { word = "cestero", translation = "basket maker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ceñido"] = { word = "ceñido", translation = "tight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["chaquetón"] = { word = "chaquetón", translation = "reefer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["chinche"] = { word = "chinche", translation = "bug", note = "" }
+WordHunterWoW_Dictionary_ES_MX["chismorreo"] = { word = "chismorreo", translation = "gossip", note = "" }
+WordHunterWoW_Dictionary_ES_MX["chispeado"] = { word = "chispeado", translation = "sparked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["choques"] = { word = "choques", translation = "crashes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ciclónicos"] = { word = "ciclónicos", translation = "cyclonic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ciclópea"] = { word = "ciclópea", translation = "cyclopean", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cincelador"] = { word = "cincelador", translation = "chiseler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cinchado"] = { word = "cinchado", translation = "cinched", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cinto"] = { word = "cinto", translation = "belt", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cinético"] = { word = "cinético", translation = "kinetic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["circonio"] = { word = "circonio", translation = "zirconium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["circunferencia"] = { word = "circunferencia", translation = "circumference", note = "" }
+WordHunterWoW_Dictionary_ES_MX["clororrejilla"] = { word = "clororrejilla", translation = "chlorogrid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["clástico"] = { word = "clástico", translation = "clastic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["coagulante"] = { word = "coagulante", translation = "coagulant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cochinillo"] = { word = "cochinillo", translation = "pig", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cocinarán"] = { word = "cocinarán", translation = "they will cook", note = "" }
+WordHunterWoW_Dictionary_ES_MX["codillo"] = { word = "codillo", translation = "knuckle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["codorniz"] = { word = "codorniz", translation = "quail", note = "" }
+WordHunterWoW_Dictionary_ES_MX["colmenilla"] = { word = "colmenilla", translation = "morel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["combada"] = { word = "combada", translation = "warped", note = "" }
+WordHunterWoW_Dictionary_ES_MX["combado"] = { word = "combado", translation = "cambered", note = "" }
+WordHunterWoW_Dictionary_ES_MX["combados"] = { word = "combados", translation = "warped", note = "" }
+WordHunterWoW_Dictionary_ES_MX["combinándolos"] = { word = "combinándolos", translation = "combining them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["combínala"] = { word = "combínala", translation = "combine it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["combínalo"] = { word = "combínalo", translation = "combine it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["comentarista"] = { word = "comentarista", translation = "commentator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["comodín"] = { word = "comodín", translation = "wildcard", note = "" }
+WordHunterWoW_Dictionary_ES_MX["compactas"] = { word = "compactas", translation = "compact", note = "" }
+WordHunterWoW_Dictionary_ES_MX["compactos"] = { word = "compactos", translation = "compact", note = "" }
+WordHunterWoW_Dictionary_ES_MX["compenetración"] = { word = "compenetración", translation = "rapport", note = "" }
+WordHunterWoW_Dictionary_ES_MX["compiladas"] = { word = "compiladas", translation = "compiled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["comprobando"] = { word = "comprobando", translation = "checking", note = "" }
+WordHunterWoW_Dictionary_ES_MX["concejal"] = { word = "concejal", translation = "councilor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["conceptualizar"] = { word = "conceptualizar", translation = "conceptualize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["condenan"] = { word = "condenan", translation = "condemn", note = "" }
+WordHunterWoW_Dictionary_ES_MX["conductoras"] = { word = "conductoras", translation = "drivers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["conflujos"] = { word = "conflujos", translation = "conflows", note = "" }
+WordHunterWoW_Dictionary_ES_MX["congelamático"] = { word = "congelamático", translation = "freezing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["congelaron"] = { word = "congelaron", translation = "froze", note = "" }
+WordHunterWoW_Dictionary_ES_MX["congelándolos"] = { word = "congelándolos", translation = "freezing them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["conjurante"] = { word = "conjurante", translation = "conspirator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["conquistada"] = { word = "conquistada", translation = "conquered", note = "" }
+WordHunterWoW_Dictionary_ES_MX["consagra"] = { word = "consagra", translation = "consecrates", note = "" }
+WordHunterWoW_Dictionary_ES_MX["consagrados"] = { word = "consagrados", translation = "consecrated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["consecución"] = { word = "consecución", translation = "achievement", note = "" }
+WordHunterWoW_Dictionary_ES_MX["consecutivos"] = { word = "consecutivos", translation = "consecutive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["contraatacas"] = { word = "contraatacas", translation = "you fight back", note = "" }
+WordHunterWoW_Dictionary_ES_MX["contrafuerte"] = { word = "contrafuerte", translation = "buttress", note = "" }
+WordHunterWoW_Dictionary_ES_MX["contragolpe"] = { word = "contragolpe", translation = "kickback", note = "" }
+WordHunterWoW_Dictionary_ES_MX["converso"] = { word = "converso", translation = "convert", note = "" }
+WordHunterWoW_Dictionary_ES_MX["convulsivos"] = { word = "convulsivos", translation = "convulsive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["corista"] = { word = "corista", translation = "showgirl", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cornualles"] = { word = "cornualles", translation = "cornwall", note = "" }
+WordHunterWoW_Dictionary_ES_MX["corredora"] = { word = "corredora", translation = "runner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["correnubes"] = { word = "correnubes", translation = "cloudrunner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["corresponderse"] = { word = "corresponderse", translation = "correspond", note = "" }
+WordHunterWoW_Dictionary_ES_MX["corroborado"] = { word = "corroborado", translation = "corroborated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["corroídos"] = { word = "corroídos", translation = "corroded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cortaalas"] = { word = "cortaalas", translation = "wing clipper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["corvo"] = { word = "corvo", translation = "crooked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cosechaenjambres"] = { word = "cosechaenjambres", translation = "harvestswarms", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cosechasangre"] = { word = "cosechasangre", translation = "bloodharvest", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cosidas"] = { word = "cosidas", translation = "sewn", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cosquilla"] = { word = "cosquilla", translation = "tickle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["costos"] = { word = "costos", translation = "costs", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cota"] = { word = "cota", translation = "height", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cotillee"] = { word = "cotillee", translation = "gossip", note = "" }
+WordHunterWoW_Dictionary_ES_MX["craneal"] = { word = "craneal", translation = "cranial", note = "" }
+WordHunterWoW_Dictionary_ES_MX["crecida"] = { word = "crecida", translation = "spate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["criadora"] = { word = "criadora", translation = "breeder", note = "" }
+WordHunterWoW_Dictionary_ES_MX["criomante"] = { word = "criomante", translation = "cryomancer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["criomántico"] = { word = "criomántico", translation = "cryomancer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cromita"] = { word = "cromita", translation = "chromite", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cromática"] = { word = "cromática", translation = "chromatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cromáticamente"] = { word = "cromáticamente", translation = "chromatically", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cronobeneficios"] = { word = "cronobeneficios", translation = "chronoprofits", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cronoestática"] = { word = "cronoestática", translation = "chronostatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cronomántica"] = { word = "cronomántica", translation = "chronomantic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cronosanador"] = { word = "cronosanador", translation = "chronoshealer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cronómetro"] = { word = "cronómetro", translation = "chronometer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cubretorso"] = { word = "cubretorso", translation = "torso cover", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cuernosombrío"] = { word = "cuernosombrío", translation = "grimhorn", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cuerospalda"] = { word = "cuerospalda", translation = "leathersback", note = "" }
+WordHunterWoW_Dictionary_ES_MX["culebraíz"] = { word = "culebraíz", translation = "snakeroot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cuorobronce"] = { word = "cuorobronce", translation = "leather-bronze", note = "" }
+WordHunterWoW_Dictionary_ES_MX["curruca"] = { word = "curruca", translation = "warbler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cáusticas"] = { word = "cáusticas", translation = "caustic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cíngaro"] = { word = "cíngaro", translation = "gypsy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cómela"] = { word = "cómela", translation = "eat it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cómeme"] = { word = "cómeme", translation = "eat me", note = "" }
+WordHunterWoW_Dictionary_ES_MX["cúrate"] = { word = "cúrate", translation = "heal yourself", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dable"] = { word = "dable", translation = "possible", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dacio"] = { word = "dacio", translation = "dacian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dadora"] = { word = "dadora", translation = "giver", note = "" }
+WordHunterWoW_Dictionary_ES_MX["danzan"] = { word = "danzan", translation = "they dance", note = "" }
+WordHunterWoW_Dictionary_ES_MX["danzarina"] = { word = "danzarina", translation = "dancer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dañas"] = { word = "dañas", translation = "you damage", note = "" }
+WordHunterWoW_Dictionary_ES_MX["debatiéndose"] = { word = "debatiéndose", translation = "debating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["debilitador"] = { word = "debilitador", translation = "debilitator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["debilitadora"] = { word = "debilitadora", translation = "debilitating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["decae"] = { word = "decae", translation = "decays", note = "" }
+WordHunterWoW_Dictionary_ES_MX["decaiga"] = { word = "decaiga", translation = "decay", note = "" }
+WordHunterWoW_Dictionary_ES_MX["decano"] = { word = "decano", translation = "dean", note = "" }
+WordHunterWoW_Dictionary_ES_MX["decapitadora"] = { word = "decapitadora", translation = "decapitator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["defectuosa"] = { word = "defectuosa", translation = "defective", note = "" }
+WordHunterWoW_Dictionary_ES_MX["degenerativas"] = { word = "degenerativas", translation = "degenerative", note = "" }
+WordHunterWoW_Dictionary_ES_MX["degollador"] = { word = "degollador", translation = "cutthroat", note = "" }
+WordHunterWoW_Dictionary_ES_MX["degradada"] = { word = "degradada", translation = "degraded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["delgadez"] = { word = "delgadez", translation = "thinness", note = "" }
+WordHunterWoW_Dictionary_ES_MX["delusiones"] = { word = "delusiones", translation = "delusions", note = "" }
+WordHunterWoW_Dictionary_ES_MX["demonólogo"] = { word = "demonólogo", translation = "demonologist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["demoran"] = { word = "demoran", translation = "delay", note = "" }
+WordHunterWoW_Dictionary_ES_MX["depositada"] = { word = "depositada", translation = "deposited", note = "" }
+WordHunterWoW_Dictionary_ES_MX["depositario"] = { word = "depositario", translation = "depositary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["derretimiento"] = { word = "derretimiento", translation = "melting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["derribador"] = { word = "derribador", translation = "knockdown", note = "" }
+WordHunterWoW_Dictionary_ES_MX["derribándolo"] = { word = "derribándolo", translation = "knocking him down", note = "" }
+WordHunterWoW_Dictionary_ES_MX["derribándolos"] = { word = "derribándolos", translation = "knocking them down", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desact"] = { word = "desact", translation = "disable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desafilado"] = { word = "desafilado", translation = "blunt", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desalmada"] = { word = "desalmada", translation = "heartless", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desangrador"] = { word = "desangrador", translation = "bloodletting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desangramiento"] = { word = "desangramiento", translation = "bleeding", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desarmarlo"] = { word = "desarmarlo", translation = "take it apart", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desarmarte"] = { word = "desarmarte", translation = "disarm you", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desarmen"] = { word = "desarmen", translation = "disarm", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desaventajado"] = { word = "desaventajado", translation = "disadvantaged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desbocada"] = { word = "desbocada", translation = "runaway", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descargados"] = { word = "descargados", translation = "downloaded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descargo"] = { word = "descargo", translation = "discharge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descifrados"] = { word = "descifrados", translation = "decrypted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descombobulación"] = { word = "descombobulación", translation = "decombobulation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descombobulador"] = { word = "descombobulador", translation = "decombobulator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desconectarte"] = { word = "desconectarte", translation = "disconnect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descongelada"] = { word = "descongelada", translation = "thawed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descorazonadora"] = { word = "descorazonadora", translation = "heartbreaking", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descuartizador"] = { word = "descuartizador", translation = "quarterer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descubridor"] = { word = "descubridor", translation = "discoverer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["descubridores"] = { word = "descubridores", translation = "discoverers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desdeñoso"] = { word = "desdeñoso", translation = "disdainful", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desenvoltura"] = { word = "desenvoltura", translation = "ease", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desequilibran"] = { word = "desequilibran", translation = "unbalance", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desequilibrante"] = { word = "desequilibrante", translation = "destabilizing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desequipar"] = { word = "desequipar", translation = "unequip", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desfibrilador"] = { word = "desfibrilador", translation = "defibrillator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desfibriladores"] = { word = "desfibriladores", translation = "defibrillators", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desgarradura"] = { word = "desgarradura", translation = "tear", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desgarrafallas"] = { word = "desgarrafallas", translation = "rippers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desgarravil"] = { word = "desgarravil", translation = "devil tearer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desguarnecer"] = { word = "desguarnecer", translation = "dismantle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["deshechizar"] = { word = "deshechizar", translation = "unspell", note = "" }
+WordHunterWoW_Dictionary_ES_MX["deshielo"] = { word = "deshielo", translation = "thaw", note = "" }
+WordHunterWoW_Dictionary_ES_MX["deshilachada"] = { word = "deshilachada", translation = "frayed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["designarlo"] = { word = "designarlo", translation = "designate it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["deslucida"] = { word = "deslucida", translation = "lackluster", note = "" }
+WordHunterWoW_Dictionary_ES_MX["deslustradas"] = { word = "deslustradas", translation = "tarnished", note = "" }
+WordHunterWoW_Dictionary_ES_MX["deslustrados"] = { word = "deslustrados", translation = "tarnished", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desmenuzadora"] = { word = "desmenuzadora", translation = "shredder", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desmontador"] = { word = "desmontador", translation = "dismounter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desmontadora"] = { word = "desmontadora", translation = "disassembler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desnuda"] = { word = "desnuda", translation = "naked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desoladora"] = { word = "desoladora", translation = "desolate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desorientador"] = { word = "desorientador", translation = "disorienting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desovación"] = { word = "desovación", translation = "spawning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["despedazador"] = { word = "despedazador", translation = "breaker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["despellejadoras"] = { word = "despellejadoras", translation = "skinners", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desplomándolos"] = { word = "desplomándolos", translation = "collapsing them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["despojador"] = { word = "despojador", translation = "stripper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["despuntada"] = { word = "despuntada", translation = "blunt", note = "" }
+WordHunterWoW_Dictionary_ES_MX["destransformar"] = { word = "destransformar", translation = "detransform", note = "" }
+WordHunterWoW_Dictionary_ES_MX["destripadioses"] = { word = "destripadioses", translation = "disembowelers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["destripados"] = { word = "destripados", translation = "gutted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["destrozador"] = { word = "destrozador", translation = "destroyer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desvaneces"] = { word = "desvaneces", translation = "you fade", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desvaneciente"] = { word = "desvaneciente", translation = "fading", note = "" }
+WordHunterWoW_Dictionary_ES_MX["desvanecimiento"] = { word = "desvanecimiento", translation = "fading", note = "" }
+WordHunterWoW_Dictionary_ES_MX["detonan"] = { word = "detonan", translation = "detonate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["detrito"] = { word = "detrito", translation = "detritus", note = "" }
+WordHunterWoW_Dictionary_ES_MX["devolviéndoselos"] = { word = "devolviéndoselos", translation = "giving them back", note = "" }
+WordHunterWoW_Dictionary_ES_MX["devoracarnes"] = { word = "devoracarnes", translation = "meat-eater", note = "" }
+WordHunterWoW_Dictionary_ES_MX["diabolista"] = { word = "diabolista", translation = "diabolist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dibujante"] = { word = "dibujante", translation = "cartoonist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["didyeridú"] = { word = "didyeridú", translation = "didyeridú", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dieléctrico"] = { word = "dieléctrico", translation = "dielectric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["diminuye"] = { word = "diminuye", translation = "decreases", note = "" }
+WordHunterWoW_Dictionary_ES_MX["disentería"] = { word = "disentería", translation = "dysentery", note = "" }
+WordHunterWoW_Dictionary_ES_MX["diseñadora"] = { word = "diseñadora", translation = "designer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["disfrazas"] = { word = "disfrazas", translation = "you disguise", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dispararse"] = { word = "dispararse", translation = "shoot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["disparará"] = { word = "disparará", translation = "will shoot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["disparatado"] = { word = "disparatado", translation = "crazy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["distinguirse"] = { word = "distinguirse", translation = "distinguish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["disuades"] = { word = "disuades", translation = "you dissuade", note = "" }
+WordHunterWoW_Dictionary_ES_MX["disuadiendo"] = { word = "disuadiendo", translation = "deterring", note = "" }
+WordHunterWoW_Dictionary_ES_MX["diádico"] = { word = "diádico", translation = "dyadic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["doliente"] = { word = "doliente", translation = "suffering", note = "" }
+WordHunterWoW_Dictionary_ES_MX["domesticada"] = { word = "domesticada", translation = "domesticated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dracodente"] = { word = "dracodente", translation = "drakedent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["draconiano"] = { word = "draconiano", translation = "draconian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["draconianos"] = { word = "draconianos", translation = "draconians", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dragante"] = { word = "dragante", translation = "dredger", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dragoncán"] = { word = "dragoncán", translation = "dragoncan", note = "" }
+WordHunterWoW_Dictionary_ES_MX["dragonizo"] = { word = "dragonizo", translation = "dragon", note = "" }
+WordHunterWoW_Dictionary_ES_MX["drenada"] = { word = "drenada", translation = "drained", note = "" }
+WordHunterWoW_Dictionary_ES_MX["drenador"] = { word = "drenador", translation = "drainer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["drenadora"] = { word = "drenadora", translation = "drainer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["drenas"] = { word = "drenas", translation = "you drain", note = "" }
+WordHunterWoW_Dictionary_ES_MX["droga"] = { word = "droga", translation = "drug", note = "" }
+WordHunterWoW_Dictionary_ES_MX["duplican"] = { word = "duplican", translation = "duplicate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["durables"] = { word = "durables", translation = "durable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["efectúes"] = { word = "efectúes", translation = "effect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["efeto"] = { word = "efeto", translation = "effect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["eidolones"] = { word = "eidolones", translation = "eidolons", note = "" }
+WordHunterWoW_Dictionary_ES_MX["electromagnética"] = { word = "electromagnética", translation = "electromagnetic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["electromagnético"] = { word = "electromagnético", translation = "electromagnetic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["electromántica"] = { word = "electromántica", translation = "electromantic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["electromántico"] = { word = "electromántico", translation = "electromantic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["electrostática"] = { word = "electrostática", translation = "electrostatics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["elunarita"] = { word = "elunarita", translation = "elunarite", note = "" }
+WordHunterWoW_Dictionary_ES_MX["elunaritas"] = { word = "elunaritas", translation = "elunarites", note = "" }
+WordHunterWoW_Dictionary_ES_MX["elásticas"] = { word = "elásticas", translation = "elastic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["eléctricamente"] = { word = "eléctricamente", translation = "electrically", note = "" }
+WordHunterWoW_Dictionary_ES_MX["elíxeres"] = { word = "elíxeres", translation = "elixers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["emanador"] = { word = "emanador", translation = "emanator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embalado"] = { word = "embalado", translation = "packed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embalsamado"] = { word = "embalsamado", translation = "embalmed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embalsamadora"] = { word = "embalsamadora", translation = "embalmer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embelesada"] = { word = "embelesada", translation = "enthralled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embelesamiento"] = { word = "embelesamiento", translation = "enchantment", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embelesar"] = { word = "embelesar", translation = "enchant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["emborracha"] = { word = "emborracha", translation = "drunk", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embriaguez"] = { word = "embriaguez", translation = "drunkenness", note = "" }
+WordHunterWoW_Dictionary_ES_MX["embuste"] = { word = "embuste", translation = "lie", note = "" }
+WordHunterWoW_Dictionary_ES_MX["emersión"] = { word = "emersión", translation = "emersion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["emotexto"] = { word = "emotexto", translation = "emotext", note = "" }
+WordHunterWoW_Dictionary_ES_MX["emplazar"] = { word = "emplazar", translation = "place", note = "" }
+WordHunterWoW_Dictionary_ES_MX["empollar"] = { word = "empollar", translation = "hatch", note = "" }
+WordHunterWoW_Dictionary_ES_MX["empuñaduras"] = { word = "empuñaduras", translation = "grips", note = "" }
+WordHunterWoW_Dictionary_ES_MX["empuñavorágine"] = { word = "empuñavorágine", translation = "maelstrom", note = "" }
+WordHunterWoW_Dictionary_ES_MX["encadenamientos"] = { word = "encadenamientos", translation = "chainings", note = "" }
+WordHunterWoW_Dictionary_ES_MX["encadenándolo"] = { word = "encadenándolo", translation = "chaining him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["encarcela"] = { word = "encarcela", translation = "imprisons", note = "" }
+WordHunterWoW_Dictionary_ES_MX["encerada"] = { word = "encerada", translation = "waxed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["encomiado"] = { word = "encomiado", translation = "commended", note = "" }
+WordHunterWoW_Dictionary_ES_MX["endurece"] = { word = "endurece", translation = "hardens", note = "" }
+WordHunterWoW_Dictionary_ES_MX["endurecerlo"] = { word = "endurecerlo", translation = "harden it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["energice"] = { word = "energice", translation = "energize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["energicen"] = { word = "energicen", translation = "energize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["energices"] = { word = "energices", translation = "energize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["energizan"] = { word = "energizan", translation = "energize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["energizarte"] = { word = "energizarte", translation = "energize you", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enfocador"] = { word = "enfocador", translation = "focuser", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enfundada"] = { word = "enfundada", translation = "sheathed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enfurecedora"] = { word = "enfurecedora", translation = "infuriating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enfurecedores"] = { word = "enfurecedores", translation = "infuriating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enfurecerte"] = { word = "enfurecerte", translation = "get angry", note = "" }
+WordHunterWoW_Dictionary_ES_MX["engendrador"] = { word = "engendrador", translation = "begetter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["engrasado"] = { word = "engrasado", translation = "oiled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["engullido"] = { word = "engullido", translation = "engulfed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enjundioso"] = { word = "enjundioso", translation = "substantial", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enlazadas"] = { word = "enlazadas", translation = "linked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enlazados"] = { word = "enlazados", translation = "linked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enloquecedora"] = { word = "enloquecedora", translation = "maddening", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enmohecida"] = { word = "enmohecida", translation = "moldy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enraizamiento"] = { word = "enraizamiento", translation = "rooting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enraícen"] = { word = "enraícen", translation = "root", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enraíza"] = { word = "enraíza", translation = "roots", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enredador"] = { word = "enredador", translation = "intriguing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ensortijada"] = { word = "ensortijada", translation = "curly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ensortijado"] = { word = "ensortijado", translation = "curly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entierras"] = { word = "entierras", translation = "you bury", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entiérralos"] = { word = "entiérralos", translation = "bury them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entomología"] = { word = "entomología", translation = "entomology", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entorpecedor"] = { word = "entorpecedor", translation = "hindering", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entorpecedora"] = { word = "entorpecedora", translation = "hindering", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entreabierta"] = { word = "entreabierta", translation = "ajar", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entremezclan"] = { word = "entremezclan", translation = "intermingle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["entumecedor"] = { word = "entumecedor", translation = "numbing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["envenenándolo"] = { word = "envenenándolo", translation = "poisoning him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["envolventes"] = { word = "envolventes", translation = "enveloping", note = "" }
+WordHunterWoW_Dictionary_ES_MX["envuelvas"] = { word = "envuelvas", translation = "wrap", note = "" }
+WordHunterWoW_Dictionary_ES_MX["enzima"] = { word = "enzima", translation = "enzyme", note = "" }
+WordHunterWoW_Dictionary_ES_MX["equilibrista"] = { word = "equilibrista", translation = "equilibrist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["equipen"] = { word = "equipen", translation = "equip", note = "" }
+WordHunterWoW_Dictionary_ES_MX["equitativa"] = { word = "equitativa", translation = "equitable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["erizada"] = { word = "erizada", translation = "bristling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escamada"] = { word = "escamada", translation = "flaky", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escandalosa"] = { word = "escandalosa", translation = "scandalous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escapabruma"] = { word = "escapabruma", translation = "mist escaper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escarbador"] = { word = "escarbador", translation = "scraper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escindido"] = { word = "escindido", translation = "split", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escudas"] = { word = "escudas", translation = "shields", note = "" }
+WordHunterWoW_Dictionary_ES_MX["escutelaria"] = { word = "escutelaria", translation = "skullcap", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esfumación"] = { word = "esfumación", translation = "vanishing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esgrimidor"] = { word = "esgrimidor", translation = "fencer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esmaltada"] = { word = "esmaltada", translation = "enameled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esmoquin"] = { word = "esmoquin", translation = "tuxedo", note = "" }
+WordHunterWoW_Dictionary_ES_MX["especiadas"] = { word = "especiadas", translation = "spicy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["especificada"] = { word = "especificada", translation = "specified", note = "" }
+WordHunterWoW_Dictionary_ES_MX["espetahuesos"] = { word = "espetahuesos", translation = "bone spitter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["espinácula"] = { word = "espinácula", translation = "spinachula", note = "" }
+WordHunterWoW_Dictionary_ES_MX["espináculas"] = { word = "espináculas", translation = "spinach", note = "" }
+WordHunterWoW_Dictionary_ES_MX["espirálica"] = { word = "espirálica", translation = "spiral", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esporidio"] = { word = "esporidio", translation = "sporidium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esprínter"] = { word = "esprínter", translation = "sprinter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esquilador"] = { word = "esquilador", translation = "shearer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esquivados"] = { word = "esquivados", translation = "dodged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esquive"] = { word = "esquive", translation = "dodge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esquiven"] = { word = "esquiven", translation = "dodge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["esquivez"] = { word = "esquivez", translation = "elusiveness", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estatutos"] = { word = "estatutos", translation = "statutes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estigias"] = { word = "estigias", translation = "stygian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estigio"] = { word = "estigio", translation = "stygian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estimulador"] = { word = "estimulador", translation = "stimulating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estornudar"] = { word = "estornudar", translation = "sneeze", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estragado"] = { word = "estragado", translation = "ravaged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estrangulamiento"] = { word = "estrangulamiento", translation = "constriction", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estrellamiento"] = { word = "estrellamiento", translation = "crash", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estropee"] = { word = "estropee", translation = "spoil", note = "" }
+WordHunterWoW_Dictionary_ES_MX["estruendor"] = { word = "estruendor", translation = "roar", note = "" }
+WordHunterWoW_Dictionary_ES_MX["eternio"] = { word = "eternio", translation = "eternium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["evasiones"] = { word = "evasiones", translation = "evasions", note = "" }
+WordHunterWoW_Dictionary_ES_MX["evasivo"] = { word = "evasivo", translation = "evasive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["exceder"] = { word = "exceder", translation = "exceed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["excomulgador"] = { word = "excomulgador", translation = "excommunicator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["exitosos"] = { word = "exitosos", translation = "successful", note = "" }
+WordHunterWoW_Dictionary_ES_MX["expandementes"] = { word = "expandementes", translation = "expansively", note = "" }
+WordHunterWoW_Dictionary_ES_MX["expansiva"] = { word = "expansiva", translation = "expansive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["expiador"] = { word = "expiador", translation = "atoner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["explicite"] = { word = "explicite", translation = "explain", note = "" }
+WordHunterWoW_Dictionary_ES_MX["explocódigos"] = { word = "explocódigos", translation = "explocodes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["explorapozos"] = { word = "explorapozos", translation = "well explorers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["explosionará"] = { word = "explosionará", translation = "will explode", note = "" }
+WordHunterWoW_Dictionary_ES_MX["explosione"] = { word = "explosione", translation = "explosion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["extiendetormentas"] = { word = "extiendetormentas", translation = "storm spreader", note = "" }
+WordHunterWoW_Dictionary_ES_MX["extirpación"] = { word = "extirpación", translation = "removal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["extrabidimensionales"] = { word = "extrabidimensionales", translation = "extra two-dimensional", note = "" }
+WordHunterWoW_Dictionary_ES_MX["faculta"] = { word = "faculta", translation = "empowers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["falanges"] = { word = "falanges", translation = "phalanges", note = "" }
+WordHunterWoW_Dictionary_ES_MX["famélica"] = { word = "famélica", translation = "starving", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fanfarria"] = { word = "fanfarria", translation = "fanfare", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fangoapestosos"] = { word = "fangoapestosos", translation = "stinking mud", note = "" }
+WordHunterWoW_Dictionary_ES_MX["feegón"] = { word = "feegón", translation = "feegon", note = "" }
+WordHunterWoW_Dictionary_ES_MX["femenino"] = { word = "femenino", translation = "female", note = "" }
+WordHunterWoW_Dictionary_ES_MX["filoespina"] = { word = "filoespina", translation = "philosophie", note = "" }
+WordHunterWoW_Dictionary_ES_MX["filosofal"] = { word = "filosofal", translation = "philosopher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["filosos"] = { word = "filosos", translation = "sharp", note = "" }
+WordHunterWoW_Dictionary_ES_MX["finalizador"] = { word = "finalizador", translation = "finisher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fitopiel"] = { word = "fitopiel", translation = "phyto-leather", note = "" }
+WordHunterWoW_Dictionary_ES_MX["flagela"] = { word = "flagela", translation = "flagella", note = "" }
+WordHunterWoW_Dictionary_ES_MX["flamas"] = { word = "flamas", translation = "flames", note = "" }
+WordHunterWoW_Dictionary_ES_MX["flameante"] = { word = "flameante", translation = "flaming", note = "" }
+WordHunterWoW_Dictionary_ES_MX["flamígero"] = { word = "flamígero", translation = "flaming", note = "" }
+WordHunterWoW_Dictionary_ES_MX["flan"] = { word = "flan", translation = "custard", note = "" }
+WordHunterWoW_Dictionary_ES_MX["flautín"] = { word = "flautín", translation = "piccolo", note = "" }
+WordHunterWoW_Dictionary_ES_MX["floreada"] = { word = "floreada", translation = "flowered", note = "" }
+WordHunterWoW_Dictionary_ES_MX["florecida"] = { word = "florecida", translation = "flowered", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fogueado"] = { word = "fogueado", translation = "trained", note = "" }
+WordHunterWoW_Dictionary_ES_MX["forcejeador"] = { word = "forcejeador", translation = "wrestler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["forradas"] = { word = "forradas", translation = "lined", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fortalecedoras"] = { word = "fortalecedoras", translation = "strengthening", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fortalecedores"] = { word = "fortalecedores", translation = "strengtheners", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fosforito"] = { word = "fosforito", translation = "phosphorite", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fotogénica"] = { word = "fotogénica", translation = "photogenic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fragmentación"] = { word = "fragmentación", translation = "fragmentation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fragmentizo"] = { word = "fragmentizo", translation = "fragment", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fragmentizos"] = { word = "fragmentizos", translation = "fragmented", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fraile"] = { word = "fraile", translation = "friar", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fritura"] = { word = "fritura", translation = "frying", note = "" }
+WordHunterWoW_Dictionary_ES_MX["frutal"] = { word = "frutal", translation = "fruity", note = "" }
+WordHunterWoW_Dictionary_ES_MX["frénico"] = { word = "frénico", translation = "phrenic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fulgentes"] = { word = "fulgentes", translation = "fulgent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fusible"] = { word = "fusible", translation = "fuse", note = "" }
+WordHunterWoW_Dictionary_ES_MX["fósforos"] = { word = "fósforos", translation = "matches", note = "" }
+WordHunterWoW_Dictionary_ES_MX["galante"] = { word = "galante", translation = "gallant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["galochas"] = { word = "galochas", translation = "galoshes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["galvánico"] = { word = "galvánico", translation = "galvanic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gamuza"] = { word = "gamuza", translation = "suede", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ganchillo"] = { word = "ganchillo", translation = "crochet", note = "" }
+WordHunterWoW_Dictionary_ES_MX["garraja"] = { word = "garraja", translation = "claw", note = "" }
+WordHunterWoW_Dictionary_ES_MX["garrales"] = { word = "garrales", translation = "claws", note = "" }
+WordHunterWoW_Dictionary_ES_MX["garrancla"] = { word = "garrancla", translation = "claw", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gastronómica"] = { word = "gastronómica", translation = "gastronomic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gatera"] = { word = "gatera", translation = "cat flap", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gavilana"] = { word = "gavilana", translation = "hawk", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gelatinosa"] = { word = "gelatinosa", translation = "gelatinous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gemebundo"] = { word = "gemebundo", translation = "groaning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gemólogo"] = { word = "gemólogo", translation = "gemologist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["geoda"] = { word = "geoda", translation = "geode", note = "" }
+WordHunterWoW_Dictionary_ES_MX["germinada"] = { word = "germinada", translation = "germinated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gigaflujo"] = { word = "gigaflujo", translation = "gigaflow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["giratorios"] = { word = "giratorios", translation = "rotating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["girohielo"] = { word = "girohielo", translation = "gyroice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["giromecánico"] = { word = "giromecánico", translation = "gyromechanical", note = "" }
+WordHunterWoW_Dictionary_ES_MX["giromática"] = { word = "giromática", translation = "gyromatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["giromático"] = { word = "giromático", translation = "gyromatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["giroscópica"] = { word = "giroscópica", translation = "gyroscopic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["girotiro"] = { word = "girotiro", translation = "gyroshot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gneuroconductiva"] = { word = "gneuroconductiva", translation = "neuroconductive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gneuroestática"] = { word = "gneuroestática", translation = "gneurostatics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gneurovinculada"] = { word = "gneurovinculada", translation = "neurolinked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gneurovinculado"] = { word = "gneurovinculado", translation = "neurolinked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gobernadora"] = { word = "gobernadora", translation = "governor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["golpearán"] = { word = "golpearán", translation = "will hit", note = "" }
+WordHunterWoW_Dictionary_ES_MX["golpeguiño"] = { word = "golpeguiño", translation = "wink", note = "" }
+WordHunterWoW_Dictionary_ES_MX["golpeo"] = { word = "golpeo", translation = "hit", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gozando"] = { word = "gozando", translation = "enjoying", note = "" }
+WordHunterWoW_Dictionary_ES_MX["grabapenumbras"] = { word = "grabapenumbras", translation = "penumbragrabber", note = "" }
+WordHunterWoW_Dictionary_ES_MX["graneado"] = { word = "graneado", translation = "grained", note = "" }
+WordHunterWoW_Dictionary_ES_MX["grasoso"] = { word = "grasoso", translation = "fatty", note = "" }
+WordHunterWoW_Dictionary_ES_MX["grava"] = { word = "grava", translation = "gravel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["grisácea"] = { word = "grisácea", translation = "grayish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["grisáceas"] = { word = "grisáceas", translation = "grayish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guantazo"] = { word = "guantazo", translation = "slap", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guantazos"] = { word = "guantazos", translation = "slaps", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guardaenjambre"] = { word = "guardaenjambre", translation = "swarm guard", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guardamano"] = { word = "guardamano", translation = "handguard", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guardanubes"] = { word = "guardanubes", translation = "cloudkeeper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guardapolvo"] = { word = "guardapolvo", translation = "smock", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guardarás"] = { word = "guardarás", translation = "you will save", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guardasueños"] = { word = "guardasueños", translation = "dreamguard", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guarnecida"] = { word = "guarnecida", translation = "garrisoned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guateados"] = { word = "guateados", translation = "quilted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guepardo"] = { word = "guepardo", translation = "cheetah", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guepardos"] = { word = "guepardos", translation = "cheetahs", note = "" }
+WordHunterWoW_Dictionary_ES_MX["guinda"] = { word = "guinda", translation = "cherry", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gárfico"] = { word = "gárfico", translation = "graphic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gárficos"] = { word = "gárficos", translation = "graphics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["góticas"] = { word = "góticas", translation = "gothic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["gótico"] = { word = "gótico", translation = "gothic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["góticos"] = { word = "góticos", translation = "gothic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["h-med"] = { word = "h-Med", translation = "h-Med", note = "" }
+WordHunterWoW_Dictionary_ES_MX["habas"] = { word = "habas", translation = "broad beans", note = "" }
+WordHunterWoW_Dictionary_ES_MX["habilitación"] = { word = "habilitación", translation = "qualification", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hachastola"] = { word = "hachastola", translation = "hatchet", note = "" }
+WordHunterWoW_Dictionary_ES_MX["harapiento"] = { word = "harapiento", translation = "ragged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hebillas"] = { word = "hebillas", translation = "buckles", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hechizadas"] = { word = "hechizadas", translation = "bewitched", note = "" }
+WordHunterWoW_Dictionary_ES_MX["helipuerto"] = { word = "helipuerto", translation = "heliport", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hematites"] = { word = "hematites", translation = "hematite", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hendevidente"] = { word = "hendevidente", translation = "cleft", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hendiente"] = { word = "hendiente", translation = "cleft", note = "" }
+WordHunterWoW_Dictionary_ES_MX["herbasátiro"] = { word = "herbasátiro", translation = "herbasatyr", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hermética"] = { word = "hermética", translation = "airtight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["herrumbrada"] = { word = "herrumbrada", translation = "rusty", note = "" }
+WordHunterWoW_Dictionary_ES_MX["herrumbrado"] = { word = "herrumbrado", translation = "rusted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["herrumbrados"] = { word = "herrumbrados", translation = "rusted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["herrumbre"] = { word = "herrumbre", translation = "rust", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hervidos"] = { word = "hervidos", translation = "boiled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hervor"] = { word = "hervor", translation = "boil", note = "" }
+WordHunterWoW_Dictionary_ES_MX["heráldico"] = { word = "heráldico", translation = "heraldic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["heráldicos"] = { word = "heráldicos", translation = "heraldic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["herética"] = { word = "herética", translation = "heretical", note = "" }
+WordHunterWoW_Dictionary_ES_MX["heréticas"] = { word = "heréticas", translation = "heretical", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hibernar"] = { word = "hibernar", translation = "hibernate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hidraxiana"] = { word = "hidraxiana", translation = "hydraxian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hidrizo"] = { word = "hidrizo", translation = "hydrizo", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hielahuesos"] = { word = "hielahuesos", translation = "bone chiller", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hierbal"] = { word = "hierbal", translation = "herbal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hierbales"] = { word = "hierbales", translation = "herbs", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hilador"] = { word = "hilador", translation = "spinner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hilanderos"] = { word = "hilanderos", translation = "spinners", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiloalmeja"] = { word = "hiloalmeja", translation = "clam thread", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hinchazón"] = { word = "hinchazón", translation = "swelling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiper-resurrección"] = { word = "hiper-resurrección", translation = "hyper-resurrection", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hipercargado"] = { word = "hipercargado", translation = "hypercharged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperconductiva"] = { word = "hiperconductiva", translation = "hyperconductive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperconductivas"] = { word = "hiperconductivas", translation = "hyperconductive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperconductivo"] = { word = "hiperconductivo", translation = "hyperconductive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperconductivos"] = { word = "hiperconductivos", translation = "hyperconductive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperconductor"] = { word = "hiperconductor", translation = "hyperconductor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperflujo"] = { word = "hiperflujo", translation = "hyperflow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiperradiante"] = { word = "hiperradiante", translation = "hyperradiant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hipertécnica"] = { word = "hipertécnica", translation = "hypertechnic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hipertérmicamente"] = { word = "hipertérmicamente", translation = "hyperthermically", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hipnotizante"] = { word = "hipnotizante", translation = "hypnotizing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hiriente"] = { word = "hiriente", translation = "hurtful", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hogareño"] = { word = "hogareño", translation = "homelike", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hojaplata"] = { word = "hojaplata", translation = "tinplate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hojasueño"] = { word = "hojasueño", translation = "leafdream", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hojaverde"] = { word = "hojaverde", translation = "greenleaf", note = "" }
+WordHunterWoW_Dictionary_ES_MX["hondoazur"] = { word = "hondoazur", translation = "deepazur", note = "" }
+WordHunterWoW_Dictionary_ES_MX["horadador"] = { word = "horadador", translation = "digger", note = "" }
+WordHunterWoW_Dictionary_ES_MX["horneada"] = { word = "horneada", translation = "baked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["horqueta"] = { word = "horqueta", translation = "pitchfork", note = "" }
+WordHunterWoW_Dictionary_ES_MX["horquilla"] = { word = "horquilla", translation = "fork", note = "" }
+WordHunterWoW_Dictionary_ES_MX["horrorizado"] = { word = "horrorizado", translation = "horrified", note = "" }
+WordHunterWoW_Dictionary_ES_MX["huesopúa"] = { word = "huesopúa", translation = "spikebone", note = "" }
+WordHunterWoW_Dictionary_ES_MX["huevociliscopio"] = { word = "huevociliscopio", translation = "eggcilliscope", note = "" }
+WordHunterWoW_Dictionary_ES_MX["humitos"] = { word = "humitos", translation = "smoke", note = "" }
+WordHunterWoW_Dictionary_ES_MX["huracanados"] = { word = "huracanados", translation = "hurricanes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["híbrida"] = { word = "híbrida", translation = "hybrid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ictíneo"] = { word = "ictíneo", translation = "ichtineous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["identificatoria"] = { word = "identificatoria", translation = "identification", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ilegibilidad"] = { word = "ilegibilidad", translation = "illegibility", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ilusionaria"] = { word = "ilusionaria", translation = "illusionary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ilusoria"] = { word = "ilusoria", translation = "illusory", note = "" }
+WordHunterWoW_Dictionary_ES_MX["imbecilidad"] = { word = "imbecilidad", translation = "imbecility", note = "" }
+WordHunterWoW_Dictionary_ES_MX["imbuimientos"] = { word = "imbuimientos", translation = "imbuments", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impacten"] = { word = "impacten", translation = "impact", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impactoforjada"] = { word = "impactoforjada", translation = "impactforged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impactoforjados"] = { word = "impactoforjados", translation = "impactforged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impactojorfadas"] = { word = "impactojorfadas", translation = "impactjorfadas", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impetuosos"] = { word = "impetuosos", translation = "impetuous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impides"] = { word = "impides", translation = "you prevent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["impidiéndole"] = { word = "impidiéndole", translation = "preventing him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["implacabilidad"] = { word = "implacabilidad", translation = "implacability", note = "" }
+WordHunterWoW_Dictionary_ES_MX["imposibilita"] = { word = "imposibilita", translation = "makes impossible", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inamovibles"] = { word = "inamovibles", translation = "immovable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incapacita"] = { word = "incapacita", translation = "incapacitates", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incapacitador"] = { word = "incapacitador", translation = "disabling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incapacitante"] = { word = "incapacitante", translation = "disabling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incapacitándolo"] = { word = "incapacitándolo", translation = "incapacitating him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incapacitándolos"] = { word = "incapacitándolos", translation = "incapacitating them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incautadas"] = { word = "incautadas", translation = "seized", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incendiarse"] = { word = "incendiarse", translation = "catch fire", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incinerada"] = { word = "incinerada", translation = "cremated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incrementa"] = { word = "incrementa", translation = "increases", note = "" }
+WordHunterWoW_Dictionary_ES_MX["incurre"] = { word = "incurre", translation = "incurs", note = "" }
+WordHunterWoW_Dictionary_ES_MX["indeseado"] = { word = "indeseado", translation = "unwanted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["indigentes"] = { word = "indigentes", translation = "homeless", note = "" }
+WordHunterWoW_Dictionary_ES_MX["indignidad"] = { word = "indignidad", translation = "indignity", note = "" }
+WordHunterWoW_Dictionary_ES_MX["induciendo"] = { word = "induciendo", translation = "inducing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["infante"] = { word = "infante", translation = "infant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["infernalista"] = { word = "infernalista", translation = "infernalist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["infestadores"] = { word = "infestadores", translation = "infesters", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inflige"] = { word = "inflige", translation = "inflicts", note = "" }
+WordHunterWoW_Dictionary_ES_MX["infligidos"] = { word = "infligidos", translation = "inflicted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["infligiéndole"] = { word = "infligiéndole", translation = "inflicting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inflija"] = { word = "inflija", translation = "inflict", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ingeniaste"] = { word = "ingeniaste", translation = "you engineered", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inicializar"] = { word = "inicializar", translation = "initialize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilización"] = { word = "inmovilización", translation = "immobilization", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilizador"] = { word = "inmovilizador", translation = "immobilizer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilizadora"] = { word = "inmovilizadora", translation = "immobilizer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilizadores"] = { word = "inmovilizadores", translation = "immobilizers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilizan"] = { word = "inmovilizan", translation = "immobilize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilizándolo"] = { word = "inmovilizándolo", translation = "immobilizing him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inmovilizándolos"] = { word = "inmovilizándolos", translation = "immobilizing them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inoculándole"] = { word = "inoculándole", translation = "inoculating him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inserciones"] = { word = "inserciones", translation = "inserts", note = "" }
+WordHunterWoW_Dictionary_ES_MX["instar"] = { word = "instar", translation = "urge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["integrales"] = { word = "integrales", translation = "integral", note = "" }
+WordHunterWoW_Dictionary_ES_MX["intensificador"] = { word = "intensificador", translation = "intensifier", note = "" }
+WordHunterWoW_Dictionary_ES_MX["intercepción"] = { word = "intercepción", translation = "interception", note = "" }
+WordHunterWoW_Dictionary_ES_MX["interrumpirá"] = { word = "interrumpirá", translation = "will interrupt", note = "" }
+WordHunterWoW_Dictionary_ES_MX["intimidador"] = { word = "intimidador", translation = "intimidator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["invernalias"] = { word = "invernalias", translation = "wintry", note = "" }
+WordHunterWoW_Dictionary_ES_MX["inversor"] = { word = "inversor", translation = "investor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["invocarse"] = { word = "invocarse", translation = "invoke", note = "" }
+WordHunterWoW_Dictionary_ES_MX["involuntaria"] = { word = "involuntaria", translation = "involuntary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ionizante"] = { word = "ionizante", translation = "ionizing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["irradiación"] = { word = "irradiación", translation = "irradiation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["irradiadas"] = { word = "irradiadas", translation = "irradiated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["irradiarlo"] = { word = "irradiarlo", translation = "irradiate it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["irradie"] = { word = "irradie", translation = "radiate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["irrefrenables"] = { word = "irrefrenables", translation = "irrepressible", note = "" }
+WordHunterWoW_Dictionary_ES_MX["irritación"] = { word = "irritación", translation = "irritation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["izq"] = { word = "izq", translation = "left", note = "" }
+WordHunterWoW_Dictionary_ES_MX["josh's"] = { word = "josh's", translation = "josh's", note = "" }
+WordHunterWoW_Dictionary_ES_MX["jubilosa"] = { word = "jubilosa", translation = "jubilant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["juerguista"] = { word = "juerguista", translation = "reveler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["juglar"] = { word = "juglar", translation = "minstrel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["jurafuegos"] = { word = "jurafuegos", translation = "fireswearer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["jurasueños"] = { word = "jurasueños", translation = "dreamjurers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["jurásicos"] = { word = "jurásicos", translation = "jurassic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["kajárico"] = { word = "kajárico", translation = "kajaric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["kan"] = { word = "kan", translation = "khan", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lacadas"] = { word = "lacadas", translation = "lacquered", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lacerador"] = { word = "lacerador", translation = "lacerating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["laminadas"] = { word = "laminadas", translation = "laminated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["laminado"] = { word = "laminado", translation = "laminate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lanar"] = { word = "lanar", translation = "wool", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lancero"] = { word = "lancero", translation = "lancer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lanzadardos"] = { word = "lanzadardos", translation = "dart thrower", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lanzaduendes"] = { word = "lanzaduendes", translation = "goblin launcher", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lanzalluvias"] = { word = "lanzalluvias", translation = "rainthrower", note = "" }
+WordHunterWoW_Dictionary_ES_MX["latonadas"] = { word = "latonadas", translation = "brassed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lazomortal"] = { word = "lazomortal", translation = "deadlysnare", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lectores"] = { word = "lectores", translation = "readers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["legitimación"] = { word = "legitimación", translation = "legitimation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["leonada"] = { word = "leonada", translation = "tawny", note = "" }
+WordHunterWoW_Dictionary_ES_MX["leonado"] = { word = "leonado", translation = "tawny", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lepra"] = { word = "lepra", translation = "leprosy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["leproso"] = { word = "leproso", translation = "leper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["level-up"] = { word = "level-up", translation = "level-up", note = "" }
+WordHunterWoW_Dictionary_ES_MX["levitas"] = { word = "levitas", translation = "frock coats", note = "" }
+WordHunterWoW_Dictionary_ES_MX["leída"] = { word = "leída", translation = "read", note = "" }
+WordHunterWoW_Dictionary_ES_MX["leñogris"] = { word = "leñogris", translation = "loggray", note = "" }
+WordHunterWoW_Dictionary_ES_MX["licántropo"] = { word = "licántropo", translation = "lycanthrope", note = "" }
+WordHunterWoW_Dictionary_ES_MX["limpiarán"] = { word = "limpiarán", translation = "they will clean", note = "" }
+WordHunterWoW_Dictionary_ES_MX["llamacometas"] = { word = "llamacometas", translation = "kitecaller", note = "" }
+WordHunterWoW_Dictionary_ES_MX["locamente"] = { word = "locamente", translation = "madly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lotería"] = { word = "lotería", translation = "lottery", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lubina"] = { word = "lubina", translation = "sea bass", note = "" }
+WordHunterWoW_Dictionary_ES_MX["luminaria"] = { word = "luminaria", translation = "luminary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lupinas"] = { word = "lupinas", translation = "lupines", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lupinos"] = { word = "lupinos", translation = "lupines", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lánzame"] = { word = "lánzame", translation = "throw me", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lúas"] = { word = "lúas", translation = "luas", note = "" }
+WordHunterWoW_Dictionary_ES_MX["lúcidos"] = { word = "lúcidos", translation = "lucid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["m'grrgl"] = { word = "m'grrgl", translation = "m'grrgl", note = "" }
+WordHunterWoW_Dictionary_ES_MX["maciza"] = { word = "maciza", translation = "solid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["maderahelecho"] = { word = "maderahelecho", translation = "woodfern", note = "" }
+WordHunterWoW_Dictionary_ES_MX["madrugador"] = { word = "madrugador", translation = "early bird", note = "" }
+WordHunterWoW_Dictionary_ES_MX["magdalena"] = { word = "magdalena", translation = "cupcake", note = "" }
+WordHunterWoW_Dictionary_ES_MX["magdalenas"] = { word = "magdalenas", translation = "cupcakes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["magmeante"] = { word = "magmeante", translation = "magmeant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["magnánimas"] = { word = "magnánimas", translation = "magnanimous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["magnánimos"] = { word = "magnánimos", translation = "magnanimous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["magullar"] = { word = "magullar", translation = "bruise", note = "" }
+WordHunterWoW_Dictionary_ES_MX["malvavisco"] = { word = "malvavisco", translation = "marshmallow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mandiletes"] = { word = "mandiletes", translation = "aprons", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mandoble"] = { word = "mandoble", translation = "greatsword", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mandú"] = { word = "mandú", translation = "mandu", note = "" }
+WordHunterWoW_Dictionary_ES_MX["manecillas"] = { word = "manecillas", translation = "hands", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mangosta"] = { word = "mangosta", translation = "mongoose", note = "" }
+WordHunterWoW_Dictionary_ES_MX["manifestados"] = { word = "manifestados", translation = "manifested", note = "" }
+WordHunterWoW_Dictionary_ES_MX["manopla"] = { word = "manopla", translation = "mitten", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mantícora"] = { word = "mantícora", translation = "manticore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mar'li's"] = { word = "mar'li's", translation = "mar'li's", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mareante"] = { word = "mareante", translation = "dizzy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["marejada"] = { word = "marejada", translation = "surge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mareos"] = { word = "mareos", translation = "dizziness", note = "" }
+WordHunterWoW_Dictionary_ES_MX["marquen"] = { word = "marquen", translation = "mark", note = "" }
+WordHunterWoW_Dictionary_ES_MX["masona"] = { word = "masona", translation = "mason", note = "" }
+WordHunterWoW_Dictionary_ES_MX["masticadas"] = { word = "masticadas", translation = "chewed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mastín"] = { word = "mastín", translation = "mastiff", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mataelementales"] = { word = "mataelementales", translation = "elemental slayer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["matasanos"] = { word = "matasanos", translation = "quack", note = "" }
+WordHunterWoW_Dictionary_ES_MX["matatroggs"] = { word = "matatroggs", translation = "slayertroggs", note = "" }
+WordHunterWoW_Dictionary_ES_MX["matinal"] = { word = "matinal", translation = "morning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["medidor"] = { word = "medidor", translation = "meter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["megaespecial"] = { word = "megaespecial", translation = "mega special", note = "" }
+WordHunterWoW_Dictionary_ES_MX["megatiro"] = { word = "megatiro", translation = "megashot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mejoría"] = { word = "mejoría", translation = "improvement", note = "" }
+WordHunterWoW_Dictionary_ES_MX["melaza"] = { word = "melaza", translation = "molasses", note = "" }
+WordHunterWoW_Dictionary_ES_MX["melocotón"] = { word = "melocotón", translation = "peach", note = "" }
+WordHunterWoW_Dictionary_ES_MX["melé"] = { word = "melé", translation = "scrum", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mendrugo"] = { word = "mendrugo", translation = "crust of bread", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mercachifle"] = { word = "mercachifle", translation = "huckster", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mercúricas"] = { word = "mercúricas", translation = "mercuric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mercúrico"] = { word = "mercúrico", translation = "mercuric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["microajustador"] = { word = "microajustador", translation = "microadjuster", note = "" }
+WordHunterWoW_Dictionary_ES_MX["microprocesador"] = { word = "microprocesador", translation = "microprocessor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["microrradiación"] = { word = "microrradiación", translation = "microradiation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mielero"] = { word = "mielero", translation = "honeyeater", note = "" }
+WordHunterWoW_Dictionary_ES_MX["milimétricamente"] = { word = "milimétricamente", translation = "millimetrically", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mini-yo"] = { word = "mini-yo", translation = "mini-me", note = "" }
+WordHunterWoW_Dictionary_ES_MX["miniaturizada"] = { word = "miniaturizada", translation = "miniaturized", note = "" }
+WordHunterWoW_Dictionary_ES_MX["minipestes"] = { word = "minipestes", translation = "mini pests", note = "" }
+WordHunterWoW_Dictionary_ES_MX["minotauro"] = { word = "minotauro", translation = "minotaur", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mirmidón"] = { word = "mirmidón", translation = "myrmidon", note = "" }
+WordHunterWoW_Dictionary_ES_MX["misericordiosa"] = { word = "misericordiosa", translation = "merciful", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mitones"] = { word = "mitones", translation = "mittens", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mixólogo"] = { word = "mixólogo", translation = "mixologist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["moa'kin"] = { word = "moa'kin", translation = "moa'kin", note = "" }
+WordHunterWoW_Dictionary_ES_MX["moderadas"] = { word = "moderadas", translation = "moderate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["modifies"] = { word = "modifies", translation = "modify", note = "" }
+WordHunterWoW_Dictionary_ES_MX["modisto"] = { word = "modisto", translation = "couturier", note = "" }
+WordHunterWoW_Dictionary_ES_MX["monaguillo"] = { word = "monaguillo", translation = "altar boy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["monedero"] = { word = "monedero", translation = "purse", note = "" }
+WordHunterWoW_Dictionary_ES_MX["monederos"] = { word = "monederos", translation = "purses", note = "" }
+WordHunterWoW_Dictionary_ES_MX["monocultivos"] = { word = "monocultivos", translation = "monocultures", note = "" }
+WordHunterWoW_Dictionary_ES_MX["monolítico"] = { word = "monolítico", translation = "monolithic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["montañés"] = { word = "montañés", translation = "highlander", note = "" }
+WordHunterWoW_Dictionary_ES_MX["montos"] = { word = "montos", translation = "amounts", note = "" }
+WordHunterWoW_Dictionary_ES_MX["moquillo"] = { word = "moquillo", translation = "distemper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["moquito"] = { word = "moquito", translation = "mosquito", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mordedora"] = { word = "mordedora", translation = "biter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["moribunda"] = { word = "moribunda", translation = "dying", note = "" }
+WordHunterWoW_Dictionary_ES_MX["moro'gan"] = { word = "moro'gan", translation = "moro'gan", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mortecina"] = { word = "mortecina", translation = "dead", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mosquete"] = { word = "mosquete", translation = "musket", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mostacherizo"] = { word = "mostacherizo", translation = "mustacherizo", note = "" }
+WordHunterWoW_Dictionary_ES_MX["motaletas"] = { word = "motaletas", translation = "motlets", note = "" }
+WordHunterWoW_Dictionary_ES_MX["muerdas"] = { word = "muerdas", translation = "bites", note = "" }
+WordHunterWoW_Dictionary_ES_MX["multicolor"] = { word = "multicolor", translation = "multicolored", note = "" }
+WordHunterWoW_Dictionary_ES_MX["multidisparo"] = { word = "multidisparo", translation = "multishot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["multiplicador"] = { word = "multiplicador", translation = "multiplier", note = "" }
+WordHunterWoW_Dictionary_ES_MX["multitalento"] = { word = "multitalento", translation = "multitalent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["murcipeste"] = { word = "murcipeste", translation = "bat", note = "" }
+WordHunterWoW_Dictionary_ES_MX["murki"] = { word = "murki", translation = "murky", note = "" }
+WordHunterWoW_Dictionary_ES_MX["murotuerca"] = { word = "murotuerca", translation = "nutwall", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mutadas"] = { word = "mutadas", translation = "mutated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mutagén"] = { word = "mutagén", translation = "mutagen", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mutágeno"] = { word = "mutágeno", translation = "mutagen", note = "" }
+WordHunterWoW_Dictionary_ES_MX["muérdago"] = { word = "muérdago", translation = "mistletoe", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ménsulas"] = { word = "ménsulas", translation = "corbels", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mímico"] = { word = "mímico", translation = "mimic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["mórbido"] = { word = "mórbido", translation = "morbid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nacarados"] = { word = "nacarados", translation = "pearly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["natovacío"] = { word = "natovacío", translation = "bornempty", note = "" }
+WordHunterWoW_Dictionary_ES_MX["navideño"] = { word = "navideño", translation = "christmas", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrocaballero"] = { word = "necrocaballero", translation = "necroknight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrología"] = { word = "necrología", translation = "obituary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrófaga"] = { word = "necrófaga", translation = "ghoul", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrópila"] = { word = "necrópila", translation = "necropyla", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrópilas"] = { word = "necrópilas", translation = "necropylae", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrópilo"] = { word = "necrópilo", translation = "necropyle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["necrópilos"] = { word = "necrópilos", translation = "necropyles", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nefaria"] = { word = "nefaria", translation = "nefarious", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nemoroso"] = { word = "nemoroso", translation = "nemorous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nenaza"] = { word = "nenaza", translation = "babe", note = "" }
+WordHunterWoW_Dictionary_ES_MX["neurológico"] = { word = "neurológico", translation = "neurological", note = "" }
+WordHunterWoW_Dictionary_ES_MX["neuromántica"] = { word = "neuromántica", translation = "neuromantics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nihilista"] = { word = "nihilista", translation = "nihilistic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nitropropulsores"] = { word = "nitropropulsores", translation = "nitroprops", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nitrosa"] = { word = "nitrosa", translation = "nitrous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nivifaciente"] = { word = "nivifaciente", translation = "nivifacient", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nogal"] = { word = "nogal", translation = "walnut", note = "" }
+WordHunterWoW_Dictionary_ES_MX["noqueo"] = { word = "noqueo", translation = "knockout", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nubosa"] = { word = "nubosa", translation = "cloudy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["nórdico"] = { word = "nórdico", translation = "nordic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["obligándole"] = { word = "obligándole", translation = "forcing him", note = "" }
+WordHunterWoW_Dictionary_ES_MX["obligándote"] = { word = "obligándote", translation = "forcing you", note = "" }
+WordHunterWoW_Dictionary_ES_MX["oblongo"] = { word = "oblongo", translation = "oblong", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ocasiona"] = { word = "ocasiona", translation = "causes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["oficiante"] = { word = "oficiante", translation = "officiant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ofuscar"] = { word = "ofuscar", translation = "obfuscate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["oliva"] = { word = "oliva", translation = "olive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["omelette"] = { word = "omelette", translation = "omelet", note = "" }
+WordHunterWoW_Dictionary_ES_MX["omnidifusión"] = { word = "omnidifusión", translation = "omnidiffusion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["omnitiro"] = { word = "omnitiro", translation = "omnishot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ondeante"] = { word = "ondeante", translation = "waving", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ondulante"] = { word = "ondulante", translation = "wavy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ondularse"] = { word = "ondularse", translation = "ripple", note = "" }
+WordHunterWoW_Dictionary_ES_MX["onza"] = { word = "onza", translation = "ounce", note = "" }
+WordHunterWoW_Dictionary_ES_MX["opalino"] = { word = "opalino", translation = "opaline", note = "" }
+WordHunterWoW_Dictionary_ES_MX["optomático"] = { word = "optomático", translation = "optomatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["opulentas"] = { word = "opulentas", translation = "opulent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["opulento"] = { word = "opulento", translation = "opulent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["orientadora"] = { word = "orientadora", translation = "counselor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ornamentados"] = { word = "ornamentados", translation = "ornate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["osuno"] = { word = "osuno", translation = "bearish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["paganas"] = { word = "paganas", translation = "pagan", note = "" }
+WordHunterWoW_Dictionary_ES_MX["paisajista"] = { word = "paisajista", translation = "landscape", note = "" }
+WordHunterWoW_Dictionary_ES_MX["papada"] = { word = "papada", translation = "dewlap", note = "" }
+WordHunterWoW_Dictionary_ES_MX["papagayo"] = { word = "papagayo", translation = "parrot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["paquetito"] = { word = "paquetito", translation = "little package", note = "" }
+WordHunterWoW_Dictionary_ES_MX["parara"] = { word = "parara", translation = "will stop", note = "" }
+WordHunterWoW_Dictionary_ES_MX["parasitar"] = { word = "parasitar", translation = "parasitize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["parasitaria"] = { word = "parasitaria", translation = "parasitic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["parasitario"] = { word = "parasitario", translation = "parasitic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["parciales"] = { word = "parciales", translation = "partial", note = "" }
+WordHunterWoW_Dictionary_ES_MX["parral"] = { word = "parral", translation = "vine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["participante"] = { word = "participante", translation = "participant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["patees"] = { word = "patees", translation = "kick", note = "" }
+WordHunterWoW_Dictionary_ES_MX["patidifusión"] = { word = "patidifusión", translation = "patididiffusion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pavés"] = { word = "pavés", translation = "paves", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pellejofrío"] = { word = "pellejofrío", translation = "coldskin", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pellejomúsculo"] = { word = "pellejomúsculo", translation = "skinmuscle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["penaliza"] = { word = "penaliza", translation = "penalize", note = "" }
+WordHunterWoW_Dictionary_ES_MX["penalización"] = { word = "penalización", translation = "penalty", note = "" }
+WordHunterWoW_Dictionary_ES_MX["penetración"] = { word = "penetración", translation = "penetration", note = "" }
+WordHunterWoW_Dictionary_ES_MX["percusión"] = { word = "percusión", translation = "percussion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perdigón"] = { word = "perdigón", translation = "pellet", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perforador"] = { word = "perforador", translation = "perforator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["performer's"] = { word = "performer's", translation = "performer's", note = "" }
+WordHunterWoW_Dictionary_ES_MX["peridoto"] = { word = "peridoto", translation = "peridot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["periódicas"] = { word = "periódicas", translation = "periodic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["periódicos"] = { word = "periódicos", translation = "newspapers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perjuicios"] = { word = "perjuicios", translation = "damages", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perladas"] = { word = "perladas", translation = "pearly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perlado"] = { word = "perlado", translation = "pearly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perlados"] = { word = "perlados", translation = "pearlescent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["permea"] = { word = "permea", translation = "permeate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perpetuas"] = { word = "perpetuas", translation = "perpetual", note = "" }
+WordHunterWoW_Dictionary_ES_MX["perpetuos"] = { word = "perpetuos", translation = "perpetual", note = "" }
+WordHunterWoW_Dictionary_ES_MX["persistirá"] = { word = "persistirá", translation = "will persist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["persuasor"] = { word = "persuasor", translation = "persuader", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pespunte"] = { word = "pespunte", translation = "backstitch", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pestillo"] = { word = "pestillo", translation = "latch", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pezcá"] = { word = "pezcá", translation = "fish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pezsol"] = { word = "pezsol", translation = "sunfish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["peña"] = { word = "peña", translation = "grief", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piedrafría"] = { word = "piedrafría", translation = "stonecold", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piedrescama"] = { word = "piedrescama", translation = "stonescale", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pinto"] = { word = "pinto", translation = "I paint", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piquero"] = { word = "piquero", translation = "pikeman", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piroarcana"] = { word = "piroarcana", translation = "pyroarchan", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piroarcano"] = { word = "piroarcano", translation = "pyroarcane", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piroclasta"] = { word = "piroclasta", translation = "pyroclast", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piroclástico"] = { word = "piroclástico", translation = "pyroclastic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piromalla"] = { word = "piromalla", translation = "pyromalle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pirosangre"] = { word = "pirosangre", translation = "pyroblood", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pirotécnicos"] = { word = "pirotécnicos", translation = "pyrotechnics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["piruleta"] = { word = "piruleta", translation = "lollipop", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pirómano"] = { word = "pirómano", translation = "arsonist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["plebeyo"] = { word = "plebeyo", translation = "commoner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["plomiza"] = { word = "plomiza", translation = "leaden", note = "" }
+WordHunterWoW_Dictionary_ES_MX["plumahierro"] = { word = "plumahierro", translation = "ironfeather", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pochado"] = { word = "pochado", translation = "poached", note = "" }
+WordHunterWoW_Dictionary_ES_MX["podrisangre"] = { word = "podrisangre", translation = "blood rot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["poesía"] = { word = "poesía", translation = "poetry", note = "" }
+WordHunterWoW_Dictionary_ES_MX["policromática"] = { word = "policromática", translation = "polychromatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["polimorfa"] = { word = "polimorfa", translation = "polymorphic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["polimorfado"] = { word = "polimorfado", translation = "polymorphed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["polimorfas"] = { word = "polimorfas", translation = "polymorphic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["polimorfo"] = { word = "polimorfo", translation = "polymorphous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["polivalente"] = { word = "polivalente", translation = "polyvalent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["polémica"] = { word = "polémica", translation = "controversy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["porcentual"] = { word = "porcentual", translation = "percentage", note = "" }
+WordHunterWoW_Dictionary_ES_MX["portaalas"] = { word = "portaalas", translation = "wing holder", note = "" }
+WordHunterWoW_Dictionary_ES_MX["portatruenos"] = { word = "portatruenos", translation = "thunder bearer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["portransportadores"] = { word = "portransportadores", translation = "portransporters", note = "" }
+WordHunterWoW_Dictionary_ES_MX["posterioridad"] = { word = "posterioridad", translation = "posteriority", note = "" }
+WordHunterWoW_Dictionary_ES_MX["potenciaciones"] = { word = "potenciaciones", translation = "empowerments", note = "" }
+WordHunterWoW_Dictionary_ES_MX["precognoscente"] = { word = "precognoscente", translation = "precognitive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["preeminencia"] = { word = "preeminencia", translation = "preeminence", note = "" }
+WordHunterWoW_Dictionary_ES_MX["preinvocación"] = { word = "preinvocación", translation = "preinvocation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["prelación"] = { word = "prelación", translation = "priority", note = "" }
+WordHunterWoW_Dictionary_ES_MX["prerrenderizar"] = { word = "prerrenderizar", translation = "prerender", note = "" }
+WordHunterWoW_Dictionary_ES_MX["preservador"] = { word = "preservador", translation = "preserver", note = "" }
+WordHunterWoW_Dictionary_ES_MX["presurosos"] = { word = "presurosos", translation = "hasty", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pretoriana"] = { word = "pretoriana", translation = "praetorian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["prieta"] = { word = "prieta", translation = "tight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["profanadora"] = { word = "profanadora", translation = "defiler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["programador"] = { word = "programador", translation = "programmer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["prot"] = { word = "prot", translation = "protection", note = "" }
+WordHunterWoW_Dictionary_ES_MX["protegecabezas"] = { word = "protegecabezas", translation = "head protector", note = "" }
+WordHunterWoW_Dictionary_ES_MX["provinciano"] = { word = "provinciano", translation = "provincial", note = "" }
+WordHunterWoW_Dictionary_ES_MX["prólogo"] = { word = "prólogo", translation = "prologue", note = "" }
+WordHunterWoW_Dictionary_ES_MX["psicosófica"] = { word = "psicosófica", translation = "psychosophical", note = "" }
+WordHunterWoW_Dictionary_ES_MX["psíquico"] = { word = "psíquico", translation = "psychic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["puag"] = { word = "puag", translation = "yuck", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pugilista"] = { word = "pugilista", translation = "boxer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pujante"] = { word = "pujante", translation = "vigorous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pujantes"] = { word = "pujantes", translation = "thriving", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pulmonar"] = { word = "pulmonar", translation = "pulmonary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["puntiaguda"] = { word = "puntiaguda", translation = "pointed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["purgación"] = { word = "purgación", translation = "purgation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["purgadora"] = { word = "purgadora", translation = "purge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["purificadores"] = { word = "purificadores", translation = "purifiers", note = "" }
+WordHunterWoW_Dictionary_ES_MX["putrefaccionista"] = { word = "putrefaccionista", translation = "putrefactionist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["puyazos"] = { word = "puyazos", translation = "punches", note = "" }
+WordHunterWoW_Dictionary_ES_MX["puñoluz"] = { word = "puñoluz", translation = "fistlight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["péñola"] = { word = "péñola", translation = "peñola", note = "" }
+WordHunterWoW_Dictionary_ES_MX["píldoras"] = { word = "píldoras", translation = "pills", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pírico"] = { word = "pírico", translation = "pyric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["pómez"] = { word = "pómez", translation = "pumice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quebradiza"] = { word = "quebradiza", translation = "brittle", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quebrador"] = { word = "quebrador", translation = "cracker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quedaste"] = { word = "quedaste", translation = "you stayed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["querosén"] = { word = "querosén", translation = "kerosene", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quesera"] = { word = "quesera", translation = "cheese maker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quesito"] = { word = "quesito", translation = "cheese", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quimérica"] = { word = "quimérica", translation = "chimeric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quiméricas"] = { word = "quiméricas", translation = "chimeric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quimérico"] = { word = "quimérico", translation = "chimerical", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quiméricos"] = { word = "quiméricos", translation = "chimeric", note = "" }
+WordHunterWoW_Dictionary_ES_MX["quintaesencia"] = { word = "quintaesencia", translation = "quintessence", note = "" }
+WordHunterWoW_Dictionary_ES_MX["radioactivos"] = { word = "radioactivos", translation = "radioactive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rajada"] = { word = "rajada", translation = "cracked", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ralentización"] = { word = "ralentización", translation = "slowdown", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ralentizando"] = { word = "ralentizando", translation = "slowing down", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ralentizante"] = { word = "ralentizante", translation = "slowing down", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ramazarza"] = { word = "ramazarza", translation = "bramble branch", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ratanegra"] = { word = "ratanegra", translation = "blackrat", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reactivador"] = { word = "reactivador", translation = "reactivator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reaplicar"] = { word = "reaplicar", translation = "reapply", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reavivación"] = { word = "reavivación", translation = "revival", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reavivador"] = { word = "reavivador", translation = "reviver", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rebana"] = { word = "rebana", translation = "slice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rebanada"] = { word = "rebanada", translation = "slice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rebanadora"] = { word = "rebanadora", translation = "slicer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rebordeada"] = { word = "rebordeada", translation = "beaded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rebosen"] = { word = "rebosen", translation = "overflow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rebotador"] = { word = "rebotador", translation = "bouncer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["recargas"] = { word = "recargas", translation = "refills", note = "" }
+WordHunterWoW_Dictionary_ES_MX["recompuestas"] = { word = "recompuestas", translation = "recomposed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rectas"] = { word = "rectas", translation = "straight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rectos"] = { word = "rectos", translation = "straight", note = "" }
+WordHunterWoW_Dictionary_ES_MX["recuperaciones"] = { word = "recuperaciones", translation = "recoveries", note = "" }
+WordHunterWoW_Dictionary_ES_MX["recurrente"] = { word = "recurrente", translation = "recurrent", note = "" }
+WordHunterWoW_Dictionary_ES_MX["recurvo"] = { word = "recurvo", translation = "recurve", note = "" }
+WordHunterWoW_Dictionary_ES_MX["recíproca"] = { word = "recíproca", translation = "reciprocal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["redimiéndolo"] = { word = "redimiéndolo", translation = "redeeming it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["redireccionar"] = { word = "redireccionar", translation = "redirect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["redirigirá"] = { word = "redirigirá", translation = "will redirect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["redomático"] = { word = "redomático", translation = "redomatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reduciéndola"] = { word = "reduciéndola", translation = "reducing it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reembaucador"] = { word = "reembaucador", translation = "retrickster", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reencarnas"] = { word = "reencarnas", translation = "you reincarnate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reevaluados"] = { word = "reevaluados", translation = "reevaluated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reflectar"] = { word = "reflectar", translation = "reflect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reflectivo"] = { word = "reflectivo", translation = "reflective", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reflejará"] = { word = "reflejará", translation = "will reflect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reflejas"] = { word = "reflejas", translation = "you reflect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reflejen"] = { word = "reflejen", translation = "reflect", note = "" }
+WordHunterWoW_Dictionary_ES_MX["refracción"] = { word = "refracción", translation = "refraction", note = "" }
+WordHunterWoW_Dictionary_ES_MX["refundido"] = { word = "refundido", translation = "revised", note = "" }
+WordHunterWoW_Dictionary_ES_MX["regenerador"] = { word = "regenerador", translation = "regenerator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["regeneradoras"] = { word = "regeneradoras", translation = "regenerating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["regenerará"] = { word = "regenerará", translation = "will regenerate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["regeneras"] = { word = "regeneras", translation = "regenerate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["regenerándose"] = { word = "regenerándose", translation = "regenerating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reguladores"] = { word = "reguladores", translation = "regulators", note = "" }
+WordHunterWoW_Dictionary_ES_MX["regálate"] = { word = "regálate", translation = "treat yourself", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rehuida"] = { word = "rehuida", translation = "shunned", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reinvoques"] = { word = "reinvoques", translation = "reinvokes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reiteradamente"] = { word = "reiteradamente", translation = "repeatedly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rejuvenecedora"] = { word = "rejuvenecedora", translation = "rejuvenating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["remplaza"] = { word = "remplaza", translation = "replace", note = "" }
+WordHunterWoW_Dictionary_ES_MX["remplazado"] = { word = "remplazado", translation = "replaced", note = "" }
+WordHunterWoW_Dictionary_ES_MX["remueve"] = { word = "remueve", translation = "stir", note = "" }
+WordHunterWoW_Dictionary_ES_MX["renataki's"] = { word = "renataki's", translation = "renataki's", note = "" }
+WordHunterWoW_Dictionary_ES_MX["renovarán"] = { word = "renovarán", translation = "will renew", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reorientación"] = { word = "reorientación", translation = "reorientation", note = "" }
+WordHunterWoW_Dictionary_ES_MX["repeliéndolo"] = { word = "repeliéndolo", translation = "repelling it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reprentizador"] = { word = "reprentizador", translation = "reprentizer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reprobables"] = { word = "reprobables", translation = "reprehensible", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reproductor"] = { word = "reproductor", translation = "reproductive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["res"] = { word = "res", translation = "beef", note = "" }
+WordHunterWoW_Dictionary_ES_MX["resbaladiza"] = { word = "resbaladiza", translation = "slippery", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reservista"] = { word = "reservista", translation = "reservist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["resguardador"] = { word = "resguardador", translation = "protector", note = "" }
+WordHunterWoW_Dictionary_ES_MX["resonadora"] = { word = "resonadora", translation = "resonator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restablecedor"] = { word = "restablecedor", translation = "restorer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restablecen"] = { word = "restablecen", translation = "restore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restablecerte"] = { word = "restablecerte", translation = "reset yourself", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restablecerán"] = { word = "restablecerán", translation = "will restore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restablezcan"] = { word = "restablezcan", translation = "restore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restará"] = { word = "restará", translation = "will subtract", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restauradora"] = { word = "restauradora", translation = "restorer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restauran"] = { word = "restauran", translation = "restore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restaurarte"] = { word = "restaurarte", translation = "restore you", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restaurarán"] = { word = "restaurarán", translation = "will restore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restauren"] = { word = "restauren", translation = "restore", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restituye"] = { word = "restituye", translation = "restores", note = "" }
+WordHunterWoW_Dictionary_ES_MX["restringidas"] = { word = "restringidas", translation = "restricted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["retaliador"] = { word = "retaliador", translation = "retaliator", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reticulado"] = { word = "reticulado", translation = "reticulated", note = "" }
+WordHunterWoW_Dictionary_ES_MX["retributiva"] = { word = "retributiva", translation = "retributive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reutilizables"] = { word = "reutilizables", translation = "reusable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reutilizarlo"] = { word = "reutilizarlo", translation = "reuse it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["revelada"] = { word = "revelada", translation = "revealed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reventados"] = { word = "reventados", translation = "busted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reverberante"] = { word = "reverberante", translation = "reverberant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reversión"] = { word = "reversión", translation = "reversion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["revistiendo"] = { word = "revistiendo", translation = "covering", note = "" }
+WordHunterWoW_Dictionary_ES_MX["revitalizadas"] = { word = "revitalizadas", translation = "revitalized", note = "" }
+WordHunterWoW_Dictionary_ES_MX["revitalizadoras"] = { word = "revitalizadoras", translation = "revitalizing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["reviviéndolo"] = { word = "reviviéndolo", translation = "reviving it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["revocar"] = { word = "revocar", translation = "revoke", note = "" }
+WordHunterWoW_Dictionary_ES_MX["riachuelo"] = { word = "riachuelo", translation = "creek", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ribeteados"] = { word = "ribeteados", translation = "edged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["riñonera"] = { word = "riñonera", translation = "fanny pack", note = "" }
+WordHunterWoW_Dictionary_ES_MX["robaalmas"] = { word = "robaalmas", translation = "soul stealer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["robaesquirlas"] = { word = "robaesquirlas", translation = "fragment stealer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["robasalud"] = { word = "robasalud", translation = "robosalud", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rojizas"] = { word = "rojizas", translation = "reddish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rojizos"] = { word = "rojizos", translation = "reddish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rollito"] = { word = "rollito", translation = "roll", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rollitos"] = { word = "rollitos", translation = "rolls", note = "" }
+WordHunterWoW_Dictionary_ES_MX["romboide"] = { word = "romboide", translation = "rhomboid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rompebloques"] = { word = "rompebloques", translation = "block breaker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rompeborrasca"] = { word = "rompeborrasca", translation = "storm breaker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rompeluz"] = { word = "rompeluz", translation = "lightbreaker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rompementes"] = { word = "rompementes", translation = "mind breaker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["románticos"] = { word = "románticos", translation = "romantic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rondada"] = { word = "rondada", translation = "rounded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rosado"] = { word = "rosado", translation = "pink", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rosario"] = { word = "rosario", translation = "rosary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["roído"] = { word = "roído", translation = "gnawed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rubicundos"] = { word = "rubicundos", translation = "ruddy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rubidio"] = { word = "rubidio", translation = "rubidium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rudimentariamente"] = { word = "rudimentariamente", translation = "rudimentarily", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rutilante"] = { word = "rutilante", translation = "sparkling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rutilantes"] = { word = "rutilantes", translation = "sparkling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rábano"] = { word = "rábano", translation = "radish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rábanos"] = { word = "rábanos", translation = "radishes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rígida"] = { word = "rígida", translation = "rigid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["rústico"] = { word = "rústico", translation = "rustic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sabiola"] = { word = "sabiola", translation = "wisela", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sableinvernales"] = { word = "sableinvernales", translation = "wintersable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sacrificas"] = { word = "sacrificas", translation = "you sacrifice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sacrifiques"] = { word = "sacrifiques", translation = "sacrifice", note = "" }
+WordHunterWoW_Dictionary_ES_MX["salamandra"] = { word = "salamandra", translation = "salamander", note = "" }
+WordHunterWoW_Dictionary_ES_MX["salchicha"] = { word = "salchicha", translation = "sausage", note = "" }
+WordHunterWoW_Dictionary_ES_MX["salpicada"] = { word = "salpicada", translation = "splashed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["salteado"] = { word = "salteado", translation = "sautéed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["salteador"] = { word = "salteador", translation = "robber", note = "" }
+WordHunterWoW_Dictionary_ES_MX["san"] = { word = "san", translation = "saint", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sanarte"] = { word = "sanarte", translation = "heal you", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sandía"] = { word = "sandía", translation = "watermelon", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sangrecorteza"] = { word = "sangrecorteza", translation = "bloodbark", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sangrefuego"] = { word = "sangrefuego", translation = "bloodfire", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sanguinista"] = { word = "sanguinista", translation = "sanguinist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sanidad"] = { word = "sanidad", translation = "health", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sardinita"] = { word = "sardinita", translation = "sardine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sarga"] = { word = "sarga", translation = "serge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["saurio"] = { word = "saurio", translation = "saurian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sañoso"] = { word = "sañoso", translation = "vicious", note = "" }
+WordHunterWoW_Dictionary_ES_MX["saúco"] = { word = "saúco", translation = "elder", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sebáceo"] = { word = "sebáceo", translation = "sebaceous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seccionador"] = { word = "seccionador", translation = "disconnector", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seccionadora"] = { word = "seccionadora", translation = "sectioner", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seccionar"] = { word = "seccionar", translation = "section", note = "" }
+WordHunterWoW_Dictionary_ES_MX["secuoya"] = { word = "secuoya", translation = "sequoia", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seg"] = { word = "seg", translation = "sec", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seleccionada"] = { word = "seleccionada", translation = "selected", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seleccionas"] = { word = "seleccionas", translation = "you select", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seleccionen"] = { word = "seleccionen", translation = "select", note = "" }
+WordHunterWoW_Dictionary_ES_MX["selenio"] = { word = "selenio", translation = "selenium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["selvático"] = { word = "selvático", translation = "wild", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sembrador"] = { word = "sembrador", translation = "sower", note = "" }
+WordHunterWoW_Dictionary_ES_MX["semiseguro"] = { word = "semiseguro", translation = "semi-safe", note = "" }
+WordHunterWoW_Dictionary_ES_MX["senderismo"] = { word = "senderismo", translation = "hiking", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sentenciará"] = { word = "sentenciará", translation = "will sentence", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sequedad"] = { word = "sequedad", translation = "dryness", note = "" }
+WordHunterWoW_Dictionary_ES_MX["serafín"] = { word = "serafín", translation = "seraph", note = "" }
+WordHunterWoW_Dictionary_ES_MX["serendipia"] = { word = "serendipia", translation = "serendipity", note = "" }
+WordHunterWoW_Dictionary_ES_MX["servomecánica"] = { word = "servomecánica", translation = "servomechanics", note = "" }
+WordHunterWoW_Dictionary_ES_MX["seto"] = { word = "seto", translation = "hedge", note = "" }
+WordHunterWoW_Dictionary_ES_MX["señoriales"] = { word = "señoriales", translation = "stately", note = "" }
+WordHunterWoW_Dictionary_ES_MX["siamés"] = { word = "siamés", translation = "siamese", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sideral"] = { word = "sideral", translation = "sidereal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sidioso"] = { word = "sidioso", translation = "sidious", note = "" }
+WordHunterWoW_Dictionary_ES_MX["silenciador"] = { word = "silenciador", translation = "muffler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["silenciamiento"] = { word = "silenciamiento", translation = "silencing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["silenciamientos"] = { word = "silenciamientos", translation = "silences", note = "" }
+WordHunterWoW_Dictionary_ES_MX["silenciará"] = { word = "silenciará", translation = "will silence", note = "" }
+WordHunterWoW_Dictionary_ES_MX["silvicultor"] = { word = "silvicultor", translation = "forester", note = "" }
+WordHunterWoW_Dictionary_ES_MX["simbólicas"] = { word = "simbólicas", translation = "symbolic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["simbólicos"] = { word = "simbólicos", translation = "symbolic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["simulando"] = { word = "simulando", translation = "simulating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["simultáneo"] = { word = "simultáneo", translation = "simultaneous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sincronización"] = { word = "sincronización", translation = "synchronization", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sinergia"] = { word = "sinergia", translation = "synergy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sintoniza"] = { word = "sintoniza", translation = "tune in", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sintético"] = { word = "sintético", translation = "synthetic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sobredosis"] = { word = "sobredosis", translation = "overdose", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sobrehombro"] = { word = "sobrehombro", translation = "shoulder", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sofocadora"] = { word = "sofocadora", translation = "suffocating", note = "" }
+WordHunterWoW_Dictionary_ES_MX["solariega"] = { word = "solariega", translation = "manor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soldadas"] = { word = "soldadas", translation = "welded", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soldadura"] = { word = "soldadura", translation = "welding", note = "" }
+WordHunterWoW_Dictionary_ES_MX["solidificación"] = { word = "solidificación", translation = "solidification", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soltada"] = { word = "soltada", translation = "released", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soltadas"] = { word = "soltadas", translation = "released", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sombradermas"] = { word = "sombradermas", translation = "shadowdermas", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sombradermos"] = { word = "sombradermos", translation = "shadowderms", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sombramante"] = { word = "sombramante", translation = "shadowman", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sombriescamas"] = { word = "sombriescamas", translation = "shadowscales", note = "" }
+WordHunterWoW_Dictionary_ES_MX["somático"] = { word = "somático", translation = "somatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sonambulismo"] = { word = "sonambulismo", translation = "somnambulism", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soplaviento"] = { word = "soplaviento", translation = "windblower", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soporífera"] = { word = "soporífera", translation = "soporific", note = "" }
+WordHunterWoW_Dictionary_ES_MX["soporífero"] = { word = "soporífero", translation = "soporific", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sosegado"] = { word = "sosegado", translation = "sedate", note = "" }
+WordHunterWoW_Dictionary_ES_MX["subacuáticos"] = { word = "subacuáticos", translation = "underwater", note = "" }
+WordHunterWoW_Dictionary_ES_MX["subastador"] = { word = "subastador", translation = "auctioneer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["subatómico"] = { word = "subatómico", translation = "subatomic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["subtítulo"] = { word = "subtítulo", translation = "caption", note = "" }
+WordHunterWoW_Dictionary_ES_MX["subyugas"] = { word = "subyugas", translation = "subjugates", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sucesivo"] = { word = "sucesivo", translation = "successive", note = "" }
+WordHunterWoW_Dictionary_ES_MX["suicido"] = { word = "suicido", translation = "suicide", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sujeción"] = { word = "sujeción", translation = "subjection", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sujetadores"] = { word = "sujetadores", translation = "bras", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sumersión"] = { word = "sumersión", translation = "submersion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["superachicharradas"] = { word = "superachicharradas", translation = "superscorched", note = "" }
+WordHunterWoW_Dictionary_ES_MX["superbeneficio"] = { word = "superbeneficio", translation = "super profit", note = "" }
+WordHunterWoW_Dictionary_ES_MX["superbola"] = { word = "superbola", translation = "superball", note = "" }
+WordHunterWoW_Dictionary_ES_MX["supercargada"] = { word = "supercargada", translation = "supercharged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["supercargado"] = { word = "supercargado", translation = "supercharged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["superenfriado"] = { word = "superenfriado", translation = "supercooled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["superpuesto"] = { word = "superpuesto", translation = "overlapping", note = "" }
+WordHunterWoW_Dictionary_ES_MX["superrayo"] = { word = "superrayo", translation = "super ray", note = "" }
+WordHunterWoW_Dictionary_ES_MX["suprcargado"] = { word = "suprcargado", translation = "supercharged", note = "" }
+WordHunterWoW_Dictionary_ES_MX["supremas"] = { word = "supremas", translation = "supreme", note = "" }
+WordHunterWoW_Dictionary_ES_MX["suprime"] = { word = "suprime", translation = "suppress", note = "" }
+WordHunterWoW_Dictionary_ES_MX["suprimiendo"] = { word = "suprimiendo", translation = "suppressing", note = "" }
+WordHunterWoW_Dictionary_ES_MX["suprimirá"] = { word = "suprimirá", translation = "will delete", note = "" }
+WordHunterWoW_Dictionary_ES_MX["suspende"] = { word = "suspende", translation = "suspend", note = "" }
+WordHunterWoW_Dictionary_ES_MX["susurradora"] = { word = "susurradora", translation = "whisperer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["sísmico"] = { word = "sísmico", translation = "seismic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tachas"] = { word = "tachas", translation = "crossed out", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tachuelas"] = { word = "tachuelas", translation = "tacks", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tactofrío"] = { word = "tactofrío", translation = "touchcold", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tacón"] = { word = "tacón", translation = "heel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tajante"] = { word = "tajante", translation = "cutting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["talio"] = { word = "talio", translation = "thallium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tallarlo"] = { word = "tallarlo", translation = "carve it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tardía"] = { word = "tardía", translation = "late", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tarja"] = { word = "tarja", translation = "tally", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tañidos"] = { word = "tañidos", translation = "tolling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tejedaño"] = { word = "tejedaño", translation = "tejedano", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tejespíritus"] = { word = "tejespíritus", translation = "spiritweaver", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tejevidas"] = { word = "tejevidas", translation = "weaving lives", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tejón"] = { word = "tejón", translation = "badger", note = "" }
+WordHunterWoW_Dictionary_ES_MX["teledirigido"] = { word = "teledirigido", translation = "remote controlled", note = "" }
+WordHunterWoW_Dictionary_ES_MX["teletranspórtate"] = { word = "teletranspórtate", translation = "teleport", note = "" }
+WordHunterWoW_Dictionary_ES_MX["telurio"] = { word = "telurio", translation = "tellurium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tenuemente"] = { word = "tenuemente", translation = "dimly", note = "" }
+WordHunterWoW_Dictionary_ES_MX["termostático"] = { word = "termostático", translation = "thermostatic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ternario"] = { word = "ternario", translation = "ternary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ternera"] = { word = "ternera", translation = "veal", note = "" }
+WordHunterWoW_Dictionary_ES_MX["terrorífica"] = { word = "terrorífica", translation = "terrifying", note = "" }
+WordHunterWoW_Dictionary_ES_MX["teóricamente"] = { word = "teóricamente", translation = "in theory", note = "" }
+WordHunterWoW_Dictionary_ES_MX["teúrgo"] = { word = "teúrgo", translation = "theurgist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tierraleño"] = { word = "tierraleño", translation = "earthling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tintada"] = { word = "tintada", translation = "tinted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tintadas"] = { word = "tintadas", translation = "tinted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tintados"] = { word = "tintados", translation = "tinted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tintinea"] = { word = "tintinea", translation = "tinkles", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tintineante"] = { word = "tintineante", translation = "tinkling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tirante"] = { word = "tirante", translation = "strap", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tiroespina"] = { word = "tiroespina", translation = "tyrospine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tiroexplosión"] = { word = "tiroexplosión", translation = "shotexplosion", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tirosangre"] = { word = "tirosangre", translation = "bloodshot", note = "" }
+WordHunterWoW_Dictionary_ES_MX["toallita"] = { word = "toallita", translation = "wipe", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tobilleras"] = { word = "tobilleras", translation = "anklets", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tonificación"] = { word = "tonificación", translation = "toning", note = "" }
+WordHunterWoW_Dictionary_ES_MX["torácicos"] = { word = "torácicos", translation = "thoracic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["toscas"] = { word = "toscas", translation = "rough", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tostado"] = { word = "tostado", translation = "toasted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tostar"] = { word = "tostar", translation = "roast", note = "" }
+WordHunterWoW_Dictionary_ES_MX["totémico"] = { word = "totémico", translation = "totemic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["toxicólogo"] = { word = "toxicólogo", translation = "toxicologist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["toxinólogo"] = { word = "toxinólogo", translation = "toxinologist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["trabador"] = { word = "trabador", translation = "worker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tragarse"] = { word = "tragarse", translation = "swallow", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tramoyista"] = { word = "tramoyista", translation = "stagehand", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transferirlos"] = { word = "transferirlos", translation = "transfer them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transfigura"] = { word = "transfigura", translation = "transfigure", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transfiriéndolos"] = { word = "transfiriéndolos", translation = "transferring them", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transfiriéndosela"] = { word = "transfiriéndosela", translation = "transferring it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transfiriéndoselo"] = { word = "transfiriéndoselo", translation = "transferring it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transformador"] = { word = "transformador", translation = "transformer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transfusionista"] = { word = "transfusionista", translation = "transfusionist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transfórmate"] = { word = "transfórmate", translation = "transform", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transitorias"] = { word = "transitorias", translation = "transient", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transmuta"] = { word = "transmuta", translation = "transmutes", note = "" }
+WordHunterWoW_Dictionary_ES_MX["transportátil"] = { word = "transportátil", translation = "portable", note = "" }
+WordHunterWoW_Dictionary_ES_MX["traqueteantes"] = { word = "traqueteantes", translation = "rattling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["trashumante"] = { word = "trashumante", translation = "migratory", note = "" }
+WordHunterWoW_Dictionary_ES_MX["traspié"] = { word = "traspié", translation = "stumble", note = "" }
+WordHunterWoW_Dictionary_ES_MX["trenzada"] = { word = "trenzada", translation = "braided", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tricotada"] = { word = "tricotada", translation = "knitted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tricotadas"] = { word = "tricotadas", translation = "knitted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tricotado"] = { word = "tricotado", translation = "knitted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tricotados"] = { word = "tricotados", translation = "knitted", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tropista"] = { word = "tropista", translation = "tropist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["trotamundos"] = { word = "trotamundos", translation = "globetrotter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["trotatormentas"] = { word = "trotatormentas", translation = "storm trotter", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tunelado"] = { word = "tunelado", translation = "tunneling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["turbocargador"] = { word = "turbocargador", translation = "turbocharger", note = "" }
+WordHunterWoW_Dictionary_ES_MX["tándem"] = { word = "tándem", translation = "tandem", note = "" }
+WordHunterWoW_Dictionary_ES_MX["térrea"] = { word = "térrea", translation = "earth", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ulceroso"] = { word = "ulceroso", translation = "ulcerous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ultimátum"] = { word = "ultimátum", translation = "ultimatum", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ultradeslumbrante"] = { word = "ultradeslumbrante", translation = "ultra dazzling", note = "" }
+WordHunterWoW_Dictionary_ES_MX["ultragafas"] = { word = "ultragafas", translation = "ultraglasses", note = "" }
+WordHunterWoW_Dictionary_ES_MX["untar"] = { word = "untar", translation = "spread", note = "" }
+WordHunterWoW_Dictionary_ES_MX["urbano"] = { word = "urbano", translation = "urban", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vaciará"] = { word = "vaciará", translation = "will empty", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vacuno"] = { word = "vacuno", translation = "bovine", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vagante"] = { word = "vagante", translation = "vagrant", note = "" }
+WordHunterWoW_Dictionary_ES_MX["valconiano"] = { word = "valconiano", translation = "valconian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["valija"] = { word = "valija", translation = "suitcase", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vampírica"] = { word = "vampírica", translation = "vampire", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vampírico"] = { word = "vampírico", translation = "vampire", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vanadio"] = { word = "vanadio", translation = "vanadium", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vapuleo"] = { word = "vapuleo", translation = "whipping", note = "" }
+WordHunterWoW_Dictionary_ES_MX["varianza"] = { word = "varianza", translation = "variance", note = "" }
+WordHunterWoW_Dictionary_ES_MX["velatormentas"] = { word = "velatormentas", translation = "stormsail", note = "" }
+WordHunterWoW_Dictionary_ES_MX["venóxica"] = { word = "venóxica", translation = "venoxic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["verdeantes"] = { word = "verdeantes", translation = "greening", note = "" }
+WordHunterWoW_Dictionary_ES_MX["verdosas"] = { word = "verdosas", translation = "greenish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["verificador"] = { word = "verificador", translation = "checker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vestidas"] = { word = "vestidas", translation = "dressed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["viajagujeros"] = { word = "viajagujeros", translation = "hole traveler", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vicario"] = { word = "vicario", translation = "vicar", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vieira"] = { word = "vieira", translation = "scallop", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vigorpez"] = { word = "vigorpez", translation = "vigorfish", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vikinga"] = { word = "vikinga", translation = "viking", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vikingo"] = { word = "vikingo", translation = "viking", note = "" }
+WordHunterWoW_Dictionary_ES_MX["viridiana"] = { word = "viridiana", translation = "viridian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["virtuoso"] = { word = "virtuoso", translation = "virtuous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["viruela"] = { word = "viruela", translation = "smallpox", note = "" }
+WordHunterWoW_Dictionary_ES_MX["viscerálico"] = { word = "viscerálico", translation = "visceralic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["visera"] = { word = "visera", translation = "visor", note = "" }
+WordHunterWoW_Dictionary_ES_MX["visionaria"] = { word = "visionaria", translation = "visionary", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vistes"] = { word = "vistes", translation = "you dress", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vitalista"] = { word = "vitalista", translation = "vitalist", note = "" }
+WordHunterWoW_Dictionary_ES_MX["voceador"] = { word = "voceador", translation = "announcer", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vociferantes"] = { word = "vociferantes", translation = "vociferous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["void-touched"] = { word = "void-Touched", translation = "void-Touched", note = "" }
+WordHunterWoW_Dictionary_ES_MX["voltaico"] = { word = "voltaico", translation = "voltaic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["volviéndolo"] = { word = "volviéndolo", translation = "turning it", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vomitivas"] = { word = "vomitivas", translation = "vomiting", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vosh'aranas"] = { word = "vosh'Aranas", translation = "vosh'Aranas", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vírica"] = { word = "vírica", translation = "viral", note = "" }
+WordHunterWoW_Dictionary_ES_MX["víscida"] = { word = "víscida", translation = "viscid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["víscido"] = { word = "víscido", translation = "viscid", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vítreo"] = { word = "vítreo", translation = "vitreous", note = "" }
+WordHunterWoW_Dictionary_ES_MX["vómito"] = { word = "vómito", translation = "vomit", note = "" }
+WordHunterWoW_Dictionary_ES_MX["xorothianos"] = { word = "xorothianos", translation = "xorothians", note = "" }
+WordHunterWoW_Dictionary_ES_MX["yute"] = { word = "yute", translation = "jute", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zancaaguas"] = { word = "zancaaguas", translation = "water strider", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zancalluvia"] = { word = "zancalluvia", translation = "rainwalker", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zandalariana"] = { word = "zandalariana", translation = "zandalarian", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zanjas"] = { word = "zanjas", translation = "ditches", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zapadora"] = { word = "zapadora", translation = "sapper", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zapatera"] = { word = "zapatera", translation = "shoe rack", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zarzafilo"] = { word = "zarzafilo", translation = "sarzafil", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zeppelín"] = { word = "zeppelín", translation = "zeppelin", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zodíaco"] = { word = "zodíaco", translation = "zodiac", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zurdos"] = { word = "zurdos", translation = "left-handed", note = "" }
+WordHunterWoW_Dictionary_ES_MX["zurrón"] = { word = "zurrón", translation = "satchel", note = "" }
+WordHunterWoW_Dictionary_ES_MX["éxtasis"] = { word = "éxtasis", translation = "ecstasy", note = "" }
+WordHunterWoW_Dictionary_ES_MX["órficos"] = { word = "órficos", translation = "orphic", note = "" }
+WordHunterWoW_Dictionary_ES_MX["óvalo"] = { word = "óvalo", translation = "oval", note = "" }
+WordHunterWoW_Dictionary_ES_MX["único-equipado"] = { word = "único-Equipado", translation = "unique-Equipped", note = "" }
+end)()
